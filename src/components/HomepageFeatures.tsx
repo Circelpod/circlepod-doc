@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Next Podcast',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Next Generation Podcast with NFT and Solana, create more interactivity and entertainment.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focus on Creative',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Connect fans and value through blockchain technology, and create a good copyright and subscription ecosystem through data and AI.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Solana Ecosystem',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
       </>
     ),
   },
