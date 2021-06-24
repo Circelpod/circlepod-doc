@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Circlepod Protocol',
   tagline: 'Next Generation Podcast with NFT and Solana',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.circlepod.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'xiaorangetech', // Usually your GitHub org/user name.
+  projectName: 'circlepod-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Circlepod',
