@@ -4,32 +4,24 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Circlepod Protocol in less than 5 minutes**.
+
+## What is Circlepod Protocol
+
+Circlepod Protocol supports the use of blockchain to interact between Podcast channel and listeners. You can gain energy by supporting the channel, and podcaster can also receive support from the audience.
+
+> The project is currently undergoing beta testing and there may be any changes. Currently the project is deployed in [Solana](https://solana.com/)
 
 ## Getting Started
 
-Get started by **creating a new site**.
+## What is Channel
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+The channel is a kind of NFT, and listeners can stack CPX through their support to increase the energy value. The certified Podcaster can get the energy dividend stored in the program NFT.
 
-## Generate a new site
+## What is Supportive Token
 
-Generate a new Docusaurus site using the **classic template**:
+The supportive token is a type of FT, which can be obtained by stacking CPX into the program. Depending on the amount stacked, different numbers of supportive tokens will be obtained.
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+## What is Circlepod Protocol Token
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+CPX is the original functional token of Circlepod Protocol, which can be used for various activities in the App.
