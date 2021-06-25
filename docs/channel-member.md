@@ -15,4 +15,4 @@ each member has four types of token vaults making up a set of balances owned by 
 * Value: Is Available balances a zero-interest earning token account with no restrictions.
 * Vault Pending Withdrawal Balance: unstaked funds incurring an unbonding timelock.(7 day)
 * Stake: the total amount of tokens staked.
-* Stake pool token: the total amount of pool tokens created from staking (stake = stake-pool-token * stake-pool-token-price).
+* Stake pool token: the total amount of pool tokens created from staking `(stake = stake-pool-token * stake-pool-token-price)`.
