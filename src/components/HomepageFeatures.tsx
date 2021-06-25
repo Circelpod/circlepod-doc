@@ -9,7 +9,7 @@ const FeatureList = [
       id: 'homepage.ietm.title.1',
       message: "Next Podcast",
     }),
-    Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("../../static/img/img-next-podacst.svg").default,
     description: (
       <>
         <Translate id="homepage.item.1">
@@ -24,7 +24,7 @@ const FeatureList = [
       id: 'homepage.ietm.title.2',
       message: "Focus on Creative",
     }),
-    Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("../../static/img/img-focus-on-creative.svg").default,
     description: (
       <>
         <Translate id="homepage.item.2">
@@ -39,7 +39,7 @@ const FeatureList = [
       id: 'homepage.ietm.title.3',
       message: "Solana Ecosystem",
     }),
-    Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("../../static/img/img-solana-ecosystem@3x.svg").default,
     description: (
       <>
         <Translate id="homepage.item.3">

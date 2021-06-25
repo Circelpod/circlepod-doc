@@ -6,4 +6,4 @@ sidebar_position: 9
 
 ## Circlepod Protocol on Devnet
 
-[Web App Beta](https://launch.circlepod.app/)
+- [Web App Beta](https://launch.circlepod.app/)
