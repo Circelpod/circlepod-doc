@@ -63,6 +63,12 @@ Can't find the Podcaster and Channel you like? Apply to [Discord](https://discor
 
 ![Sup](/img/tutorial/Sup.png)
 
+:::tip
+
+Can't Support? Ckeck your Deposit Account, and is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask for Devnet Airdrop!
+
+:::
+
 ## Disclaimer
 
 All claims, content, designs, algorithms, estimates, roadmaps, specifications, and performance measurements described in this project are done with the author's best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore, nothing in this project constitutes a solicitation for investment.
