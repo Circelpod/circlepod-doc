@@ -1,4 +1,26 @@
 {
+  "homepage.ietm.title.1": {
+    "message": "Next Podcast"
+  },
+  "homepage.item.1": {
+    "message": "Next Generation Podcast with NFT and Solana, create more interactivity and entertainment."
+  },
+  "homepage.ietm.title.2": {
+    "message": "Focus on Creative"
+  },
+  "homepage.item.2": {
+    "message": "Connect fans and value through blockchain technology, and create a good copyright and subscription ecosystem through data and AI."
+  },
+  "homepage.ietm.title.3": {
+    "message": "Solana Ecosystem"
+  },
+  "homepage.item.3": {
+    "message": "Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption."
+  },
+  "homepage.action.title": {
+    "message": "Circlepod Tutorial - 5min⏱️",
+    "description": "Homepage Tutorial Link"
+  },
   "theme.NotFound.title": {
     "message": "Page Not Found",
     "description": "The title of the 404 page"
@@ -51,6 +73,10 @@
     "message": "Older Post",
     "description": "The blog post button label to navigate to the older/next post"
   },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
@@ -66,10 +92,6 @@
   "theme.tags.tagsPageLink": {
     "message": "View All Tags",
     "description": "The label of the link targeting the tag list page"
-  },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
-    "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
     "message": "Copy code to clipboard",
@@ -162,9 +184,5 @@
   "theme.common.skipToMainContent": {
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "homepage.action.title": {
-    "message": "Circlepod Tutorial - 5min⏱️",
-    "description": "Homepage Tutorial Link"
   }
 }

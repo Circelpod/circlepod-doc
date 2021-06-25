@@ -4,11 +4,11 @@
     "description": "The title in the navbar"
   },
   "item.label.Tutorial": {
-    "message": "Tutorial",
+    "message": "文件",
     "description": "Navbar item with label Tutorial"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "部落格",
     "description": "Navbar item with label Blog"
   },
   "item.label.GitHub": {
