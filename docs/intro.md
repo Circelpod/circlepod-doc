@@ -14,17 +14,55 @@ The project is currently undergoing beta testing and there may be any changes. C
 
 :::
 
-
 ## Getting Started
 
-## What is Channel
+Hey, Welcome to Circlepod, Let's get start!
+You can find Web App [Here](/docs/links)
 
-The channel is a kind of NFT, and listeners can stack CPX through their support to increase the energy value. The certified Podcaster can get the energy dividend stored in the program NFT.
+1. Connent Your Solan Wallet
 
-## What is Supportive Token
+![Connent Your Solan Wallet](/img/tutorial/Connent-Your-Solan-Wallet.png)
 
-The supportive token is a type of FT, which can be obtained by stacking CPX into the program. Depending on the amount stacked, different numbers of supportive tokens will be obtained.
+2. Create CPX Token Account
 
-## What is Circlepod Protocol Token
+![Create CPX Token Account](/img/tutorial/Create-CPX-Token-Account.png)
 
-CPX is the original functional token of Circlepod Protocol, which can be used for various activities in the App.
+:::tip
+
+Is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask for Devnet Airdrop!
+
+:::
+
+3. Look for your CPX Balances
+
+![Look for your CPX Balances](/img/tutorial/Look-for-your-CPX-Balances.png)
+
+4. Select your like Podcaster
+
+![Select-your-like-Podcaster](/img/tutorial/Select-your-like-Podcaster.png)
+
+:::tip
+
+Can't find the Podcaster and Channel you like? Apply to [Discord](https://discord.gg/6ACR6uDJTC)!
+
+:::
+
+5. Success Get Channel Member!
+
+![Success-Get-Channel-Member](/img/tutorial/Success-Get-Channel-Member.png)
+
+6. Deposit CPX to Member Account From Your Wallet
+
+![Deposit-CPX](/img/tutorial/Deposit-CPX.png)
+
+* Of course, you can also withdrwal
+
+![Withdrwal-CPX](/img/tutorial/Withdrwal-CPX.png)
+
+7. Support Your Like Podcaster!
+
+![Sup](/img/tutorial/Sup.png)
+
+## Disclaimer
+
+All claims, content, designs, algorithms, estimates, roadmaps, specifications, and performance measurements described in this project are done with the author's best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore, nothing in this project constitutes a solicitation for investment.
