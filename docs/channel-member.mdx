@@ -4,6 +4,20 @@ sidebar_position: 3
 
 # Channel Member
 
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+#### New Available <Highlight color="#25c2a0">Devnet</Highlight>
+
 ## What is Channel Member
 
 Channel Member is an operational account of Channel Pool, A Channel corresponds to a Channel Member.

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Milestone
@@ -55,6 +55,8 @@ sidebar_position: 6
 ### Tokenomics
 
 - [ ] Token IDO, Airdrops, Pre Sale
+
+## 2022 Q2
 
 ### Circlepod Protocol
 

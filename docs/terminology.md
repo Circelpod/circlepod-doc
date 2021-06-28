@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Terminology
@@ -15,3 +15,5 @@ The supportive token is a type of FT, which can be obtained by stacking CPX into
 ## What is Circlepod Protocol Token
 
 CPX is the original functional token of Circlepod Protocol, which can be used for various activities in the App.
+
+## What is Episode
