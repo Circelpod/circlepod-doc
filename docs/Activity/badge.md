@@ -41,7 +41,3 @@ Do you have a hobby of collecting? Now you can collect the badge by listening fa
 ### Trade your Badge
 
 Can't get the one badge? You can trade your badge with others to get your loved one.
-
-## Badge Transaction
-
-## Win Limited Series Badges
