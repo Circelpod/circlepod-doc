@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Terminology
+# 名詞定義
 
 ## What is Channel?
 
