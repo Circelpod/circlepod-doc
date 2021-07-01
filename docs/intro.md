@@ -8,7 +8,7 @@ Let's discover **Circlepod Protocol in less than 5 minutes**.
 
 :::tip
 
-Circlepod Protocol supports the use of blockchain to interact between Podcast channel and listeners. You can gain energy by supporting the channel, and podcaster can also receive support from the audience.
+Circlepod Protocol supports the use of blockchain to interact between Podcast channel and listeners. You can gain energy by supporting the channel, and podcasters can also receive support from the audience.
 
 The project is currently undergoing beta testing and there may be any changes. Currently the project is deployed in [Solana](https://solana.com/)
 
@@ -33,9 +33,9 @@ Is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask
 
 :::
 
-3. Look for your CPX Balances
+3. Check your CPX Balances
 
-![Look for your CPX Balances](/img/tutorial/Look-for-your-CPX-Balances.png)
+![Check your CPX Balances](/img/tutorial/Look-for-your-CPX-Balances.png)
 
 4. Select your like Podcaster
 
@@ -47,7 +47,7 @@ Can't find the Podcaster and Channel you like? Apply to [Discord](https://discor
 
 :::
 
-5. Success Get Channel Member!
+5. Get Channel Member Successfully!
 
 ![Success-Get-Channel-Member](/img/tutorial/Success-Get-Channel-Member.png)
 
@@ -55,11 +55,11 @@ Can't find the Podcaster and Channel you like? Apply to [Discord](https://discor
 
 ![Deposit-CPX](/img/tutorial/Deposit-CPX.png)
 
-* Of course, you can also withdrwal
+* Of course, you can also withdraw!
 
 ![Withdrwal-CPX](/img/tutorial/Withdrwal-CPX.png)
 
-7. Support Your Like Podcaster!
+7. Support your favorite Podcaster!
 
 ![Sup](/img/tutorial/Sup.png)
 

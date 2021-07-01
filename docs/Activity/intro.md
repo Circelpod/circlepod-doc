@@ -8,11 +8,17 @@ sidebar_position: 1
 
 ## Support Your Favorite Podcaster Directly!
 
-Stack your CPX to support your favorite podcaster!
+Stake your CPX to support your favorite podcaster!
+
+* Step 1. Deposit your CPX to the channel.
+* Step 2. Support the channel!
 
 ## Disfavor Podcaster
 
 Sorry to hear that you are unstaking CPX for the podcaster. Hope that there's a chance to support the podcaster again!
+
+* Step 1. Withdraw your CPX from the channel.
+* Step 2. Unsupport the channel!
 
 ## Win the Badge!
 
@@ -20,4 +26,4 @@ No matter how much CPX you support your favorite podcaster, you have a chance of
 
 ## Badge Transaction
 
-Cannot win the medal for a long time? See if anyone is selling it! good luck!
+Cannot win the badge for a long time? See if anyone is selling it! good luck!
