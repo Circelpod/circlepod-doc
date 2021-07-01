@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Milestone
+# 里程碑
 
 ![Milestone](/img/milestone/Circlepod-Milestone.svg)
 

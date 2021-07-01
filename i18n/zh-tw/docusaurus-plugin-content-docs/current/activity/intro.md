@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Activity
+# 活動
 
 > Play and have fun with Circlepod!
 

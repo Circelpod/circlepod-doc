@@ -2,7 +2,7 @@
 sidebar_position: 13
 ---
 
-# Contact
+# 聯絡資訊
 
 ## 🕶 Discord
 
