@@ -28,6 +28,11 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          href: 'https://www.circlepod.app',
+          label: 'Home',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/Circelpod',
           label: 'GitHub',
           position: 'right',
