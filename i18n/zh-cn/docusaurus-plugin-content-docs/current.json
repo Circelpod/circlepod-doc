@@ -7,8 +7,8 @@
     "message": "Activity",
     "description": "The label for category Activity in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Circlepod App": {
+    "message": "Circlepod App",
+    "description": "The label for category Circlepod App in sidebar tutorialSidebar"
   }
 }
