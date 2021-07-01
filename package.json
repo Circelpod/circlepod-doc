@@ -13,6 +13,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-translations:tw": "docusaurus write-translations --locale zh-tw",
+    "write-translations:cn": "docusaurus write-translations --locale zh-cn",
     "write-heading-ids": "docusaurus write-heading-ids",
     "start:prod": "yarn run serve --port $PORT --host $HOST"
   },

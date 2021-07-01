@@ -120,6 +120,6 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-tw'],
+    locales: ['en', 'zh-tw', 'zh-cn'],
   },
 };
