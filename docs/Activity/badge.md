@@ -18,15 +18,15 @@ No matter how much CPX you support your favorite podcaster, you have a chance of
 
 ### Channel Series Badge
 
-Some channels may have series. If you finished series of channel, you can earn the Channel Series Badge!
+Some channels may have series. If you finished series of channel, you can win the Channel Series Badge!
 
 ### Limited Series Badge
 
-Limited Series Badge will be released at some specific activities. If you participate in the activity or you are the top number of the activity at that time. You'll earn Limited Series Badge!
+Limited Series Badge will be released at some specific activities. If you participate in the activity or you are the top number of the activity at that time. You'll win Limited Series Badge!
 
 ### Special Achievement Badge
 
-Circlepod loves to launch campaigns. If you participate in campaigns, you can earn the Special Achievement Badge of campaigns!
+Circlepod loves to launch campaigns. If you participate in campaigns, you can win the Special Achievement Badge of campaigns!
 
 ## Utility of Badge
 
