@@ -1,0 +1,39 @@
+---
+sidebar_position: 1
+---
+
+# 治理
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+#### <Highlight color="#ff9966">UnRelease</Highlight>
+
+:::caution
+此功能尚未釋出，隨時有可能變動
+:::
+
+## 什麼是治理
+
+治理是一個民主化的過程，透過這個過程，Circlepod Protocol 的變更提案將透過社群投票，由社群參與者決定他們所需要的 Protocol 應該有的正確方向。
+
+## CPX Token
+
+CPX 可以做為 Circlepod Protocol 的治理 Token，只有質押 CPX 的使用者可以對於 Polls 進行投票。對於每個提案，使用者最多可以選擇他們質押的 CPX 進行投票。所以，擁有較高的 CPX Stake 使用者在 Polls 中發揮更大的影響力。
+
+## Polls
+
+Circlepod 中的新治理提案稱為 Polls，任何人都可以通過支付 CPX 來創建投票。如果投票未能通過最低投票人數，CPX 保證金將提供給 CPX Stake 持有者，並且根據相對權益數按照比例分配。
+
+Polls 包括提案描述（可能進一步帶有資源與討論的外部連結），包括一個可執行參數，該消息使用 Circlepod Gov 合約執行，該合約有權利調用其他 Circlepod 智能合約定義的任何內容。
+
+提交後，社群可以對他進行投票，直到投票期結束。如果投票通過法定人數，而且符合條件，他被批准的內容可以在設定的時間自動執行，這些更改無需更新核心協議合約即可生效。

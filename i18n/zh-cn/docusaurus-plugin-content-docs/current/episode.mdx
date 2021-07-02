@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 單集
+# 单集
 
 export const Highlight = ({children, color}) => (
   <span
@@ -18,4 +18,22 @@ export const Highlight = ({children, color}) => (
 
 #### <Highlight color="#ff9966">UnRelease</Highlight>
 
-## What is Episode
+:::caution
+此功能尚未釋出，隨時有可能變動
+:::
+
+## 什么是单集
+
+单集代表频道底下的每一集，每一个频道可以有多个单集。单集属于一个不可替代的代币（NFT）。并且带有元数据，符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) 的格式。
+
+:::tip
+虽然 NFT Meta data 符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)，符合跨链的条件，但目前 Circlepod Protocol 协议主要还是在 Solana 上。
+:::
+
+## 付费单集版税
+
+每个 Podcaster 都可以支付 CPX 创建`单集`的`Podcaster`可以针对`单集`进行设置付费内容，甚至在`单集`节目上有合作的伙伴，也可以轻松的标记每个合作者，并且设置分润的百分比，在每一次听众或使用者购买单集收听权时，这些利润分配都会直接的自动发送至您设置好的规则中。
+
+:::tip
+目前协议中针对每一次利润分配收取 0.3% 的协议费用，这些费用会回馈到节目的奖励上，当然可以透过[治理](/docs/governance)来调整该税率。
+:::
