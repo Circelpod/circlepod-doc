@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Links
+# 友善连结
 
 ## Circlepod Protocol on Devnet
 

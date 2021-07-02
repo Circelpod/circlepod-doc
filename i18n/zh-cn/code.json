@@ -1,25 +1,7 @@
 {
   "homepage.action.title": {
-    "message": "Circlepod Tutorial - 5min⏱️",
+    "message": "5min⏱️ 进行 Circlepod 旅程",
     "description": "Homepage Tutorial Link"
-  },
-  "homepage.ietm.title.1": {
-    "message": "Next Podcast"
-  },
-  "homepage.item.1": {
-    "message": "Next Generation Podcast with NFT and Solana, create more interactivity and entertainment."
-  },
-  "homepage.ietm.title.2": {
-    "message": "Focus on Creative"
-  },
-  "homepage.item.2": {
-    "message": "Connect fans and value through blockchain technology, and create a good copyright and subscription ecosystem through data and AI."
-  },
-  "homepage.ietm.title.3": {
-    "message": "Solana Ecosystem"
-  },
-  "homepage.item.3": {
-    "message": "Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption."
   },
   "theme.NotFound.title": {
     "message": "Page Not Found",
@@ -49,6 +31,18 @@
     "message": "Older Entries",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer Post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older Post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
   "theme.blog.post.readingTime.plurals": {
     "message": "One min read|{readingTime} min read",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
@@ -69,6 +63,18 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
+  "theme.blog.post.plurals": {
+    "message": "One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "View All Tags",
+    "description": "The label of the link targeting the tag list page"
+  },
   "theme.CodeBlock.copyButtonAriaLabel": {
     "message": "Copy code to clipboard",
     "description": "The ARIA label for copy code blocks button"
@@ -81,18 +87,6 @@
     "message": "Copy",
     "description": "The copy button label on code blocks"
   },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation",
-    "description": "The ARIA label for the blog posts pagination"
-  },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Newer Post",
-    "description": "The blog post button label to navigate to the newer/previous post"
-  },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Older Post",
-    "description": "The blog post button label to navigate to the older/next post"
-  },
   "theme.docs.sidebar.expandButtonTitle": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
@@ -100,18 +94,6 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.blog.post.plurals": {
-    "message": "One post|{count} posts",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.tags.tagsPageLink": {
-    "message": "View All Tags",
-    "description": "The label of the link targeting the tag list page"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "Docs pages navigation",
@@ -184,5 +166,23 @@
   "theme.common.skipToMainContent": {
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "homepage.item.1": {
+    "message": "结合 NFT 与 Solana 的 次世代 Podcast ，创造更多的互动与收听、娱乐体验。"
+  },
+  "homepage.item.2": {
+    "message": "透过区块链技术将粉丝与价值做连结，透过数据与 AI 创立良好的版权与订阅生态圈。"
+  },
+  "homepage.item.3": {
+    "message": "Solana 是一个快速、安全和抵抗审查的区块链，它为全球采用提供所需的开放基础设施。"
+  },
+  "homepage.ietm.title.1": {
+    "message": "次世代 Podcast"
+  },
+  "homepage.ietm.title.2": {
+    "message": "专注于创造力"
+  },
+  "homepage.ietm.title.3": {
+    "message": "Solana 生态系"
   }
 }

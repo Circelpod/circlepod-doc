@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 旅程簡介
 
 Let's discover **Circlepod Protocol in less than 5 minutes**.
 
