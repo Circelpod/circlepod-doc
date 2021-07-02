@@ -20,13 +20,13 @@ export const Highlight = ({children, color}) => (
 
 ## What is Channel Member
 
-Channel Member is an operational account of Channel Pool, A Channel corresponds to a Channel Member.
+頻道成員是頻道池的操作賬號，一個頻道對應一個頻道會員（類似一個銀行中的帳號概念）。
 
-Before being able to enter the channel pool, one must create a Member account with the Channel.
+在能夠進入頻道池之前，必須在頻道中創建一個會員帳戶。
 
-each member has four types of token vaults making up a set of balances owned by the program on behalf of a Member:
+每個成員都有四種類型的 Token 保險庫，組成了代表成員擁有的一組餘額：
 
-* Value: Is Available balances a zero-interest earning token account with no restrictions.
-* Vault Pending Withdrawal Balance: unstaked funds incurring an unbonding timelock.(7 day)
-* Stake: the total amount of tokens staked.
-* Stake pool token: the total amount of pool tokens created from staking `(stake = stake-pool-token * stake-pool-token-price)`.
+* 金庫（Value）：可用餘額零利息賺取代幣賬戶，沒有任何限制。
+* 待提領（Vault Pending Withdrawal Balance）：取消支持（UnSUP）的資金會導致解綁時間鎖定。（7 天）
+* 質押（Stake）：支持（SUP）節目，質押的代幣總量。
+* 質押權益（Stake pool token）：通過質押創建的池代幣總量`（質押權益=質押權益代幣數量*質押權益代幣價格）`。
