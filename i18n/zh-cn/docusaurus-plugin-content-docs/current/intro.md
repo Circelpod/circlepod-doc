@@ -38,7 +38,7 @@ Circlepod Protocol 支持使用区块链来链结 播主 与听众。你可以�
 
 4. 选择你喜欢的 播主
 
-![Select-your-like-podcaster](/img/tutorial/Select-your-like-podcaster.png)
+![Select-your-like-Podcaster](/img/tutorial/Select-your-like-Podcaster.png)
 
 :::tip
 
