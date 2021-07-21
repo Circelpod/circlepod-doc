@@ -8,7 +8,7 @@ Let's discover **Circlepod Protocol in less than 5 minutes**.
 
 :::tip
 
-Circlepod Protocol supports the use of blockchain to interact between Podcast channel and listeners. You can gain energy by supporting the channel, and podcasters can also receive support from the audience.
+Circlepod Protocol supports the use of blockchain to interact between Podcast channel and audience. You can gain energy by supporting the channel, and podcasters can also receive support from the audience.
 
 The project is currently undergoing beta testing and there may be any changes. Currently the project is deployed to [Solana](https://solana.com/)
 

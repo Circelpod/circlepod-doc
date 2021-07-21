@@ -6,7 +6,7 @@ sidebar_position: 9
 
 ## What is Channel?
 
-The channel is a kind of NFT, and listeners can stack CPX through their support to increase the energy value. The certified Podcaster can get the energy dividend stored in the program NFT.
+The channel is a kind of NFT, and audience can stack CPX through their support to increase the energy value. The certified Podcaster can get the energy dividend stored in the program NFT.
 
 ## What is Supportive Token?
 
