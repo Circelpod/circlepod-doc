@@ -1,95 +1,95 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Circlepod Docs',
-  tagline: 'Next Generation Podcast with NFT and Solana',
-  url: 'https://docs.circlepod.app/',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'xiaorangetech', // Usually your GitHub org/user name.
-  projectName: 'circlepod-doc', // Usually your repo name.
+  title: "Circlepod Docs",
+  tagline: "Next Generation Podcast with NFT and Solana",
+  url: "https://docs.circlepod.app/",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "xiaorangetech", // Usually your GitHub org/user name.
+  projectName: "circlepod-doc", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Circlepod',
+      title: "Circlepod",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.png',
+        alt: "My Site Logo",
+        src: "img/logo.png",
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
+          type: "doc",
+          docId: "intro",
+          position: "left",
+          label: "Tutorial",
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: "/blog", label: "Blog", position: "left" },
         {
-          href: 'https://www.circlepod.app',
-          label: 'Home',
-          position: 'right',
-        },
-        {
-          href: 'https://github.com/Circelpod',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://www.circlepod.app",
+          label: "Home",
+          position: "right",
         },
         {
-          type: 'localeDropdown',
-          position: 'right',
+          href: "https://github.com/Circelpod",
+          label: "GitHub",
+          position: "right",
+        },
+        {
+          type: "localeDropdown",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: "Tutorial",
+              to: "/docs/intro",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Telegram',
-              href: 'https://t.me/circlepod',
+              label: "Telegram",
+              href: "https://t.me/circlepod",
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/D2pNA2e6Dw',
+              label: "Discord",
+              href: "https://discord.gg/D2pNA2e6Dw",
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/CirclepodP',
+              label: "Twitter",
+              href: "https://twitter.com/CirclepodP",
             },
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/circlepodp/',
+              label: "Instagram",
+              href: "https://www.instagram.com/circlepodp/",
             },
             {
-              label: 'More',
-              href: 'https://linktr.ee/CirclePod',
+              label: "More",
+              href: "https://linktr.ee/CirclePod",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: "Blog",
+              to: "/blog",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/Circelpod',
+              label: "GitHub",
+              href: "https://github.com/Circelpod",
             },
           ],
         },
@@ -100,31 +100,34 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    gtag: {
+      trackingID: "G-YLB249CF5N",
+    },
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            "https://github.com/facebook/docusaurus/edit/master/website/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
   ],
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh-tw', 'zh-cn'],
+    defaultLocale: "en",
+    locales: ["en", "zh-tw", "zh-cn"],
   },
 };

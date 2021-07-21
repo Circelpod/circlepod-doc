@@ -4,11 +4,19 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Activity": {
-    "message": "Activity",
+    "message": "活动",
     "description": "The label for category Activity in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Circlepod App": {
     "message": "Circlepod App",
     "description": "The label for category Circlepod App in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Governance": {
+    "message": "治理",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SDK": {
+    "message": "SDK",
+    "description": "The label for category SDK in sidebar tutorialSidebar"
   }
 }

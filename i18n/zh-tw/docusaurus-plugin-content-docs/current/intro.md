@@ -4,71 +4,69 @@ sidebar_position: 1
 
 # 旅程簡介
 
-Let's discover **Circlepod Protocol in less than 5 minutes**.
+**讓我們使用 5 分鐘，來發掘精彩的 Circlepod Protocol 吧！**
 
 :::tip
+Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可以使用 [CPX](/docs/tokenomics) 支持頻道（SUP），如此一來，你與 Podcaster 都可以得到獎勵！
 
-Circlepod Protocol supports the use of blockchain to interact between Podcast channel and listeners. You can gain energy by supporting the channel, and podcasters can also receive support from the audience.
-
-The project is currently undergoing beta testing and there may be any changes. Currently the project is deployed in [Solana](https://solana.com/)
-
+這個專案正在 Beta 測試中，內容很有可能改變。目前專案部署在 [Solana](https://solana.com/)。
 :::
 
 ## Getting Started
 
-Hey, Welcome to Circlepod, Let's get start!
-You can find Web App [Here](/docs/links)
+哈囉！歡迎來到 Circlepod，讓我們開始吧！
 
-1. Connent Your Solan Wallet
+你可以找到我們的 Web 應用 [這裡](/docs/links)
+
+1. 連接你的 Solan 錢包
 
 ![Connent Your Solan Wallet](/img/tutorial/Connent-Your-Solan-Wallet.png)
 
-2. Create CPX Token Account
+2. 創建 CPX 代幣帳號
 
 ![Create CPX Token Account](/img/tutorial/Create-CPX-Token-Account.png)
 
 :::tip
 
-Is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask for Devnet Airdrop!
+沒有足夠的 SOL 或者 CPX 嗎？來我們的 [Discord](https://discord.gg/4rTM9tRV8s) 申請 Devnet Solana 開發網路空投。
 
 :::
 
-3. Check your CPX Balances
+3. 確認你的 CPX 餘額
 
 ![Check your CPX Balances](/img/tutorial/Look-for-your-CPX-Balances.png)
 
-4. Select your like Podcaster
+4. 選擇你喜歡的 Podcaster
 
 ![Select-your-like-Podcaster](/img/tutorial/Select-your-like-Podcaster.png)
 
 :::tip
 
-Can't find the Podcaster and Channel you like? Apply to [Discord](https://discord.gg/6ACR6uDJTC)!
-
+找不到您喜歡的 Podcaster 或者頻道嗎？現在可以到 [Discord](https://discord.gg/6ACR6uDJTC) 申請。
 :::
 
-5. Get Channel Member Successfully!
+5. 成功取得頻道成員！
 
 ![Success-Get-Channel-Member](/img/tutorial/Success-Get-Channel-Member.png)
 
-6. Deposit CPX to Member Account From Your Wallet
+
+6. 從你的錢包存入 CPX 到你的頻道成員帳號
 
 ![Deposit-CPX](/img/tutorial/Deposit-CPX.png)
 
-* Of course, you can also withdraw!
+* 當然，你也可以從你的頻道成員帳號中取出餘額
 
 ![Withdrwal-CPX](/img/tutorial/Withdrwal-CPX.png)
 
-7. Support your favorite Podcaster!
+7. SUP 你最愛的 Podcaster
 
 ![Sup](/img/tutorial/Sup.png)
 
 :::tip
 
-Can't Support? Ckeck your Deposit Account, and is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask for Devnet Airdrop!
-
+不能 SUP？確認一下你的 Deposit Account 餘額，或者有沒有足夠的 SOL 或者 CPX 呢？來 [Discord](https://discord.gg/4rTM9tRV8s) 申請吧！
 :::
 
-## Disclaimer
+## 免責聲明
 
-All claims, content, designs, algorithms, estimates, roadmaps, specifications, and performance measurements described in this project are done with the author's best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore, nothing in this project constitutes a solicitation for investment.
+本項目中描述的所有聲明、內容、設計、算法、估計、路線圖、規格和性能測量都是作者盡最大努力完成的。由讀者來檢查和驗證它們的準確性和真實性。此外，本項目中的任何內容均不構成招商引資。
