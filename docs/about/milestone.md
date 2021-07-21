@@ -27,13 +27,13 @@ sidebar_position: 3
 
 - [ ] Mobile App Develop
 - [ ] Backend System Develop
-- [ ] Infr Steup
+- [ ] Infrastructure Steup
 - [ ] Mobile App Beta Release
 - [x] Circlepod Community
 
 ### Circlepod Protocol
 
-- [ ] Badge Contrant
+- [ ] Badge Contract
 - [ ] Badge System on Web App
 
 ## 2021 Q4
