@@ -20,7 +20,7 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 
 1. 連接你的 Solan 錢包
 
-![Connent Your Solan Wallet](/img/tutorial/Connent-Your-Solan-Wallet.png)
+![Connent Your Solana Wallet](/img/tutorial/Connent-Your-Solana-Wallet.png)
 
 2. 創建 CPX 代幣帳號
 

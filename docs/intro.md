@@ -19,9 +19,9 @@ The project is currently undergoing beta testing and there may be any changes. C
 Hey, Welcome to Circlepod, Let's get start!
 You can find Web App [Here](/docs/links)
 
-1. Connent Your Solan Wallet
+1. Connent Your Solana Wallet
 
-![Connent Your Solan Wallet](/img/tutorial/Connent-Your-Solan-Wallet.png)
+![Connent Your Solana Wallet](/img/tutorial/Connent-Your-Solana-Wallet.png)
 
 2. Create CPX Token Account
 
