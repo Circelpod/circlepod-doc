@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 
-# Links
+# Devnet Links
 
 ## Circlepod Protocol on Devnet
 

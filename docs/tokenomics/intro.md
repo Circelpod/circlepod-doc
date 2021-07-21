@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 
 # Circlepod Protocol Token Tokenomics (CPX)
@@ -80,3 +80,4 @@ The team holds `30%` of the total supply, and acquires both Genesis and every ye
 <iframe width="784" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=2030722581&amp;format=interactive"></iframe>
 
 <iframe width="784" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1288232632&amp;format=interactive"></iframe>
+
