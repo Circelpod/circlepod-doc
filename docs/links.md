@@ -1,9 +1,13 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
-# Devnet Links
+# Links
 
 ## Circlepod Protocol on Devnet
 
 - [Web App Beta](https://launch.circlepod.app/)
+
+## Official Website
+
+- [Official Website](https://www.circlepod.app/)
