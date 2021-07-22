@@ -3,10 +3,6 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Activity": {
-    "message": "活动",
-    "description": "The label for category Activity in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Circlepod App": {
     "message": "Circlepod App",
     "description": "The label for category Circlepod App in sidebar tutorialSidebar"

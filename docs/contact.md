@@ -1,29 +1,20 @@
 ---
-sidebar_position: 13
+sidebar_position: 12
 ---
 
 # Contact
 
-## 🕶 Discord
+### 🕶 [Discord](https://discord.com/invite/sVNJ5tb8wR)
 
-[Discord](https://discord.com/invite/sVNJ5tb8wR)
+### 🐦 [Twitter](https://twitter.com/CirclepodP)
 
-## 💬 Telegram
+### 📹 [YouTube](https://www.youtube.com/channel/UCH-HXR7OgqpZdfe6__iXuJA)
 
-[Telegram](https://t.me/circlepod)
+### 💬 [Telegram](https://t.me/circlepod)
 
-## 🐦 Twitter
+### 📷 [Instagram](https://www.instagram.com/circlepodp/)
 
-[Twitter](https://twitter.com/CirclepodP)
+### 📰 [Medium](https://medium.com/circlepod-labs)
 
-## 📷 Instagram
+### 📣 [Facebook](https://www.facebook.com/CirclepodP/)
 
-[Instagram](https://www.instagram.com/circlepodp/)
-
-## 📰 Medium
-
-[Medium](https://medium.com/circlepod-labs)
-
-## 📣 Facebook
-
-[Facebook](https://www.facebook.com/CirclepodP/)

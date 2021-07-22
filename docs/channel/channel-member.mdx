@@ -1,0 +1,30 @@
+---
+sidebar_position: 2
+---
+
+# Channel Member
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+#### New Available <Highlight color="#25c2a0">Devnet</Highlight>
+
+## What is Channel Member?
+
+**Channel Member** is an operational account of Channel Pool. A Channel corresponds to a Channel Member.
+Before being able to stake the channel pool, one must create a **Channel Member** account with the Channel.
+Each member has four types of token vaults making up balances of a channel member:
+
+* Stake pool token: The total amount of pool tokens created from staking `(stake = stake-pool-token * stake-pool-token-price)`.
+* Stake Vault: the total amount of tokens staked.
+* Vault: Available balances is a zero-interest earning token account with no restrictions.
+* Pending Withdrawal Vault: Unstaked funds incurs an unbonding timelock after 7 days.

@@ -20,7 +20,7 @@ Circlepod Protocol 支持使用区块链来链结 播主 与听众。你可以�
 
 1. 连接你的 Solan 钱包
 
-![Connent Your Solan Wallet](/img/tutorial/Connent-Your-Solan-Wallet.png)
+![Connent Your Solana Wallet](/img/tutorial/Connent-Your-Solana-Wallet.png)
 
 2. 创建 CPX 代币帐号
 
