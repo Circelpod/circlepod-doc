@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Channel Member
+# 節目成員
 
 export const Highlight = ({children, color}) => (
   <span
@@ -18,15 +18,15 @@ export const Highlight = ({children, color}) => (
 
 #### New Available <Highlight color="#25c2a0">Devnet</Highlight>
 
-## What is Channel Member
+## 什麼是節目成員
 
-Channel Member is an operational account of Channel Pool, A Channel corresponds to a Channel Member.
+節目成員是節目池的運營帳號，一個節目池對應一個節目成員。
 
-Before being able to enter the channel pool, one must create a Member account with the Channel.
+在進入節目池之前，必須在節目中創建一個成員帳戶。
 
-each member has four types of token vaults making up a set of balances owned by the program on behalf of a Member:
+每個成員都有四種類型的代幣保險庫，組成了代表成員的計劃擁有的一組餘額：
 
-* Vault: Available balances a zero-interest earning token account with no restrictions.
-* Pending Withdrawal Vault: unstaked funds incurring an unbonding timelock.(7 day)
-* Stake Vault: the total amount of tokens staked.
-* Stake pool token: the total amount of pool tokens created from staking `(stake = stake-pool-token * stake-pool-token-price)`.
+* 保險庫：可用餘額零利息賺取代幣賬戶，沒有任何限制。
+* 待提款金庫：未抵押的資金會導致解綁時間鎖定，並於 7 天後解鎖。
+* 質押金庫：質押的代幣總量。
+* 權益池代幣：通過質押創建的池代幣總量`（權益=權益池代幣*權益池代幣價格）`。

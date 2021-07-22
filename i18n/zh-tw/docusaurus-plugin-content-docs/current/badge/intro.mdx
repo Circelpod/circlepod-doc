@@ -2,7 +2,21 @@
 sidebar_position: 1
 ---
 
-# Badge
+# 徽章
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+#### <Highlight color="#ff9966">UnRelease</Highlight>
 
 Stack your CPX to support your favorite podcaster! They can claim rewards from this, and you wil have a chance of winning channel badge!
 

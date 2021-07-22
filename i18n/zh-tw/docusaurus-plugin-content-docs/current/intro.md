@@ -7,7 +7,7 @@ sidebar_position: 1
 **讓我們使用 5 分鐘，來發掘精彩的 Circlepod Protocol 吧！**
 
 :::tip
-Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可以使用 [CPX](/docs/tokenomics) 支持頻道（SUP），如此一來，你與 Podcaster 都可以得到獎勵！
+Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可以使用 [CPX](/docs/tokenomics) 支持節目（SUP），如此一來，你與 Podcaster 都可以得到獎勵！
 
 這個專案正在 Beta 測試中，內容很有可能改變。目前專案部署在 [Solana](https://solana.com/)。
 :::
@@ -42,19 +42,19 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 
 :::tip
 
-找不到您喜歡的 Podcaster 或者頻道嗎？現在可以到 [Discord](https://discord.gg/6ACR6uDJTC) 申請。
+找不到您喜歡的 Podcaster 或者節目嗎？現在可以到 [Discord](https://discord.gg/6ACR6uDJTC) 申請。
 :::
 
-5. 成功取得頻道成員！
+5. 成功取得節目成員！
 
 ![Success-Get-Channel-Member](/img/tutorial/Success-Get-Channel-Member.png)
 
 
-6. 從你的錢包存入 CPX 到你的頻道成員帳號
+6. 從你的錢包存入 CPX 到你的節目成員帳號
 
 ![Deposit-CPX](/img/tutorial/Deposit-CPX.png)
 
-* 當然，你也可以從你的頻道成員帳號中取出餘額
+* 當然，你也可以從你的節目成員帳號中取出餘額
 
 ![Withdrwal-CPX](/img/tutorial/Withdrwal-CPX.png)
 

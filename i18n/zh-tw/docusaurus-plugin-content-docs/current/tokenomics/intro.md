@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Circlepod Protocol Token Tokenomics (CPX)
+# Token 經濟模型 (CPX)
 
 export const Highlight = ({children, color}) => (
   <span
@@ -18,66 +18,66 @@ export const Highlight = ({children, color}) => (
 
 #### <Highlight color="#ff9966">UnRelease</Highlight>
 
-## What is CPX
+# Token 經濟模型 (CPX)
 
-CPX token that powers the Circlepod Protocol ecosystem. You can use it for activities or for governance.
+## 什麼是 CPX？
 
-* Support Your Favorite Podcast and Earn Rewards
-* Making new governance proposal
-* Stake on Governance and Earn CPX Rewards
-* Pay for the minting cost of Protocol Copyright
-* Pay for the cost of Metadata queries
-* Subscribe Circlepod App Premium
+**CPX** Token 是一個用於 Circlepod Protocol 生態系並且強而有力的代幣，您可以使用它來進行應用活動，也可以用於治理。
 
-## Tokenomics
+* SUP 你最愛的 Podcast 節目池，並且賺取收益！
+* 參與社群治理提案或投票！
+* 質押到社群治理並且賺取收益！
+* 版權協議鑄造費用支付
+* 開放元數據查詢費用
+* 訂閱 Circlepod App Premium
 
-### CPX Token Supply
+## 經濟模型
 
-We plan to supply a total of `528,485,903` CPX within 4 years. Beyond that, there will be no more new CPX tokens introduced to the supply.
+### CPX 總供應
 
-### Cumulative Distribution Schedule
+我們計劃供應在四年內發行總計 `528,485,903` CPX。屆時，將不會再有新的 token 加入我們的供應中。
+
+### Token 分配時程表
 
 <iframe width="843" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubhtml?gid=893464703&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
-### Genesis Token Distribution
+### 第一年初（創世紀） Token分配模型
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
 
+在我們發行第一年初（創世紀），總共會有 `184,970,066.05` 顆 CPX 供應。佔我們規劃總計發行數量的 35%，這些代幣的分配如下：
 
-Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol tokens, 35% of our planned total issuance. The distribution of these tokens will be made as below:
+* Team `(28.6%)`: 團隊持有，並於 4 年內解鎖。`52,848,590.30`顆
+* Liquidity `(14.3%)`: 用於維持 Token 流動性。共計 `26,424,295.15`顆。
+* Community Airdrops `(14.3%)`: 社群空投，用於行銷活動與市場運營。共計 `26,424,295.15` 顆。
+* Community Sale-1 `(5.7%)`: 社群銷售，對於積極參與社群的朋友銷售。共計 `10,569,718.06` 顆。
+* Community Sale-2 `(8.6%)`: 第二波社群銷售，對於積極參與社群的朋銷售。共計 `15,854,577.09`
+* Private Sale `(28.6%)`: 機構或私人投資銷售。共計 `52,848,590.30` 顆。
 
-* Team `(42.9%)`: Owned by the team and unlocked within 4 years. `79,272,885.45` tokens.
-* Liquidity `(14.3%)`: Used to maintain Token liquidity. Total `26,424,295.15` tokens.
-* Community Airdrops `(14.3%)`: Community airdrops for marketing activities and operations. Total `26,424,295.15` tokens.
-* Community Sale-1 `(8.6%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens.
-* Community Sale-2 `(5.7%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06`
-* Private Sale `(14.3%)`: Institutional or private sales. Total `26,424,295.15` tokens.
+> Sale: 團隊銷售，並用於支付開發、人事、行銷與運營費用。
 
-> Sale: Team sales, and used to pay for development, personnel, marketing and operating expenses.
+### 最終 Token 分配模型
 
-### Final Token Distribution
-
-Total supply of CPX tokens will increase for 4 years due to inflation, until the total token supply becomes `528,485,903` CPX.
+CPX tokes 將持續增加到第四年底，到時總供應量為 `528,485,903` 顆，第四年底的供應數量如下：
 
 <iframe width="600" height="375" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1138071665&amp;format=interactive"></iframe>
 
-* Team `(30%)`: Owned by the team, acquired both Genesis and every year. Locked for 4 years at the time of acquisition, for a total of 8 years. Total `158,545,770.90` tokens
-* Liquidity `(5%)`: Used to maintain Token liquidity. Total `26,424,295.15` tokens
-* Community Airdrops `(15%)`: Community airdrops for marketing activities and operations. Total `79,272,885.45` tokens
-* Community Sale-1 `(3%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens
-* Community Sale-2 `(2%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06` tokens
-* Private Sale `(5%)`: Institutional or private sales. Total `26,424,295.15` tokens
-* Community Pool `(20%)`: Community pool, used for Governance Stake Reward. Total `105,697,180.60` tokens
-* Community Reward `(20%)`: Encourage community participation, rewards, and support Channel Reward。Total `105,697,180.60` tokens
+* Team (25%): 團隊持有，Genesis 與每年獲得，並於獲得時鎖定4年，共計 8 年。共計 `132,121,475.75`顆
+* Liquidity(5%): 用於維持 Token 流動性。共計 `26,424,295.15`顆。
+* Community Airdrops (15%): 社群空投，用於行銷活動與市場運營。共計 `79,272,885.45` 顆。
+* Community Sale-1 (2%): 社群銷售，對於積極參與社群的朋銷售。共計 `10,569,718.06` 顆。
+* Community Sale-2 (3%): 第二波社群銷售，對於積極參與社群的朋銷售。共計 `15,854,577.09` 顆。
+* Private Sale (10%): 機構或私人投資銷售。共計 `52,848,590.30` 顆。
+* Community Pool(20%): 社群資金池，用於 Governance Stake Reward。共計 `105,697,180.60` 顆。
+* Community Reward(20%): 鼓勵社群參與、激勵措施獎勵以及 SUP Channel Reward。共計 `105,697,180.60` 顆。
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=772898127&amp;format=interactive"></iframe>
 
-### Team Supply
+### 團隊持有分配模型
 
-The team holds `30%` of the total supply, and acquires both Genesis and every year. For more long-term and the interests of the community and investors, we decided to tighten the lock-in strategy and lock it in for 4 years when obtained，Total for 8 years. Total `158,545,770.90` tokens. The unlock chart is as follows: 
+團隊持有共計總供應量的 25%，Genesis 與每年獲得，為了應用更長遠以及社群與投資人利益，我們決定更嚴格的鎖定策略，獲得時鎖定4年，共計 8 年。共計 `132,121,475.75`顆，解鎖圖表如下：
 
 <iframe width="784" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=2030722581&amp;format=interactive"></iframe>
 
 <iframe width="784" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1288232632&amp;format=interactive"></iframe>
-
