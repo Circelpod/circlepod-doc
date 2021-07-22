@@ -7,7 +7,7 @@ sidebar_position: 1
 **让我们使用 5 分钟，来发掘精彩的 Circlepod Protocol 吧！**
 
 :::tip
-Circlepod Protocol 支持使用区块链来链结 播主 与听众。你可以使用 [CPX](/docs/tokenomics) 支持频道（SUP），如此一来，你与 播主 都可以得到奖励！
+Circlepod Protocol 支持使用区块链来链结 播主 与听众。你可以使用 [CPX](/docs/tokenomics/intro) 支持频道（SUP），如此一来，你与 播主 都可以得到奖励！
 
 这个专案正在 Beta 测试中，内容很有可能改变。目前专案部署在 [Solana](https://solana.com/)。
 :::

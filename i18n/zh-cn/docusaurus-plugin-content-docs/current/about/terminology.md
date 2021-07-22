@@ -8,7 +8,7 @@ sidebar_position: 2
 
 频道(Channel) 是一种 Stake Pool，并且对应到真实世界的 Podcast 频道，听众或粉丝可以通过 CPX 支持(SUP) 来质押 CPX 来增加 Pool 质押量。获得认证的 Podcaster 可以获得质押的部分的奖励。并且可以透过[治理](/docs/governance/intro) 来增加频道池。
 
-可以查看[频道](/docs/channel)查看更多资讯。
+可以查看[频道](/docs/channel/channel)查看更多资讯。
 
 ## 什么是支持代币?
 
@@ -25,13 +25,13 @@ sidebar_position: 2
 * 开放元数据查询费用
 * 订阅 Circlepod App Premium
 
-可以查看[Token 经济模型 (CPX)](/docs/tokenomics)查看更多资讯。
+可以查看[Token 经济模型 (CPX)](/docs/tokenomics/intro)查看更多资讯。
 
 ## 什么是单集
 
 单集代表频道底下的每一集，每一个频道可以有多个单集。单集属于一个不可替代的代币（NFT）。并且带有元数据，符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) 的格式。
 
-可以查看[单集](/docs/episode)查看更多资讯。
+可以查看[单集](/docs/podcast/episode)查看更多资讯。
 
 :::tip
 虽然 NFT Meta data 符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)，符合跨链的条件，但目前 Circlepod Protocol 协议主要还是在 Solana 上。

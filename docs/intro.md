@@ -38,7 +38,9 @@ Is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask
 
 ![Create Successfully](/img/tutorial/create-successfully.png)
 
-4. Select your loved Podcaster
+### Step 2. Support your loved podcaster
+
+1. Select your loved Podcaster
 
 ![Select-your-like-Podcaster](/img/channel/support/choose-this-channel.png)
 
@@ -48,11 +50,11 @@ Can't find the Podcaster and Channel you like? Contact us in [Discord](https://d
 
 :::
 
-5. Get Channel Member Successfully!
+2. Get Channel Member Successfully!
 
 ![Success-Get-Channel-Member](/img/tutorial/pool.png)
 
-6. Deposit CPX to Member Account From Your Wallet
+3. Deposit CPX to Member Account From Your Wallet
 
 ![Deposit-CPX](/img/tutorial/deposit.png)
 
@@ -60,7 +62,7 @@ Can't find the Podcaster and Channel you like? Contact us in [Discord](https://d
 
 ![Withdrwal-CPX](/img/tutorial/withdraw.png)
 
-7. Support your favorite Podcaster!
+4. Support your favorite Podcaster!
 
 ![Sup](/img/tutorial/sup-channel.png)
 

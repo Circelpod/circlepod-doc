@@ -18,7 +18,6 @@ export const Highlight = ({children, color}) => (
 
 #### <Highlight color="#ff9966">UnRelease</Highlight>
 
-# Token 經濟模型 (CPX)
 
 ## 什麼是 CPX？
 
