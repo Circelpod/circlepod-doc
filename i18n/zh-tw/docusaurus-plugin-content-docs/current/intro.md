@@ -7,7 +7,7 @@ sidebar_position: 1
 **讓我們使用 5 分鐘，來發掘精彩的 Circlepod Protocol 吧！**
 
 :::tip
-Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可以使用 [CPX](/docs/tokenomics) 支持節目（SUP），如此一來，你與 Podcaster 都可以得到獎勵！
+Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可以使用 [CPX](/docs/tokenomics/intro) 支持節目（SUP），如此一來，你與 Podcaster 都可以得到獎勵！
 
 這個專案正在 Beta 測試中，內容很有可能改變。目前專案部署在 [Solana](https://solana.com/)。
 :::
@@ -15,16 +15,17 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 ## Getting Started
 
 哈囉！歡迎來到 Circlepod，讓我們開始吧！
-
 你可以找到我們的 Web 應用 [這裡](/docs/links)
+
+### 步驟 1. 創建並連接錢包
 
 1. 連接你的 Solan 錢包
 
-![Connent Your Solana Wallet](/img/tutorial/Connent-Your-Solana-Wallet.png)
+![Connent Your Solana Wallet](/img/tutorial/connect-wallet.png)
 
 2. 創建 CPX 代幣帳號
 
-![Create CPX Token Account](/img/tutorial/Create-CPX-Token-Account.png)
+![Create CPX Token Account](/img/tutorial/create-wallet.png)
 
 :::tip
 
@@ -34,33 +35,35 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 
 3. 確認你的 CPX 餘額
 
-![Check your CPX Balances](/img/tutorial/Look-for-your-CPX-Balances.png)
+![Create Successfully](/img/tutorial/create-successfully.png)
 
-4. 選擇你喜歡的 Podcaster
+### 步驟 2. 聲援您喜愛的 Podcaster
 
-![Select-your-like-Podcaster](/img/tutorial/Select-your-like-Podcaster.png)
+1. 選擇你喜歡的 Podcaster
+
+![Select-your-like-Podcaster](/img/channel/support/choose-this-channel.png)
 
 :::tip
 
 找不到您喜歡的 Podcaster 或者節目嗎？現在可以到 [Discord](https://discord.gg/6ACR6uDJTC) 申請。
 :::
 
-5. 成功取得節目成員！
+2. 成功取得節目成員！
 
-![Success-Get-Channel-Member](/img/tutorial/Success-Get-Channel-Member.png)
+![Success-Get-Channel-Member](/img/tutorial/pool.png)
 
 
-6. 從你的錢包存入 CPX 到你的節目成員帳號
+3. 從你的錢包存入 CPX 到你的節目成員帳號
 
-![Deposit-CPX](/img/tutorial/Deposit-CPX.png)
+![Deposit-CPX](/img/tutorial/deposit.png)
 
 * 當然，你也可以從你的節目成員帳號中取出餘額
 
-![Withdrwal-CPX](/img/tutorial/Withdrwal-CPX.png)
+![Withdrwal-CPX](/img/tutorial/withdraw.png)
 
 7. SUP 你最愛的 Podcaster
 
-![Sup](/img/tutorial/Sup.png)
+![Sup](/img/tutorial/sup-channel.png)
 
 :::tip
 
