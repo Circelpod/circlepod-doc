@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 2
 ---
 
 # 名词定义
@@ -36,3 +36,4 @@ sidebar_position: 9
 :::tip
 虽然 NFT Meta data 符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)，符合跨链的条件，但目前 Circlepod Protocol 协议主要还是在 Solana 上。
 :::
+

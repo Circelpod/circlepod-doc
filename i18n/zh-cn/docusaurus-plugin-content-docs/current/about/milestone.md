@@ -1,8 +1,8 @@
 ---
-sidebar_position: 8
+sidebar_position: 3
 ---
 
-# 里程碑
+# Milestone
 
 ![Milestone](/img/milestone/Circlepod-Milestone.svg)
 
@@ -27,13 +27,13 @@ sidebar_position: 8
 
 - [ ] Mobile App Develop
 - [ ] Backend System Develop
-- [ ] Infr Steup
+- [ ] Infrastructure Steup
 - [ ] Mobile App Beta Release
 - [x] Circlepod Community
 
 ### Circlepod Protocol
 
-- [ ] Badge Contrant
+- [ ] Badge Contract
 - [ ] Badge System on Web App
 
 ## 2021 Q4

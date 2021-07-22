@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 
 # Token 经济模型 (CPX)
