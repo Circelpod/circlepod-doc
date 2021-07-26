@@ -5,14 +5,14 @@ sidebar_position: 3
 ＃ 支持
 
 export const Highlight = ({children, color}) => (
-  <跨度
-    風格={{
-      背景顏色：顏色，
-      邊界半徑：'2px'，
-      顏色：'#fff'，
-      填充：'0.2rem'，
+   <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
     }}>
-    {孩子們}
+    {children}
   </span>
 );
 
