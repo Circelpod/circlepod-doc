@@ -18,12 +18,12 @@ sidebar_position: 2
 
 **CPX** Token 是一個用於 Circlepod Protocol 生態系並且強而有力的代幣，您可以使用它來進行應用活動，也可以用於治理。
 
-* SUP 你最愛的 Podcast 節目池，並且賺取收益！
-* 參與社群治理提案或投票！
-* 質押到社群治理並且賺取收益！
-* 版權協議鑄造費用支付
-* 開放元數據查詢費用
-* 訂閱 Circlepod App Premium
+- SUP 你最愛的 Podcast 節目池，並且獲取收益！
+- 參與社群治理提案或投票！
+- 質押到社群治理並且獲取收益！
+- 版權協議鑄造費用支付
+- 開放元數據查詢費用
+- 訂閱 Circlepod App Premium
 
 可以查看[Token 經濟模型 (CPX)](/docs/tokenomics/intro)查看更多資訊。
 
