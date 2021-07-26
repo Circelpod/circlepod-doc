@@ -24,7 +24,13 @@ You can find Web App [Here](/docs/links)
 
 ![Connent Your Solana Wallet](/img/tutorial/connect-wallet.png)
 
-2. Create CPX Token Account
+2. Choose your wallet type
+:::tip Wallet Type
+We provide `Sollet`, `Solflare`, and `Bonfida` now, and we'll provide more wallet type in the future!
+:::
+![Wallet Type](/img/tutorial/wallet-type.png)
+
+3. Create CPX Token Account
 
 ![Create CPX Token Account](/img/tutorial/create-wallet.png)
 
@@ -34,7 +40,7 @@ Is there no SOL or CPX? Come to [Discord](https://discord.gg/4rTM9tRV8s) and ask
 
 :::
 
-3. Check your CPX Balances
+4. Check your CPX Balances
 
 ![Create Successfully](/img/tutorial/create-successfully.png)
 
