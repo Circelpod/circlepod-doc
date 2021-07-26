@@ -11,6 +11,18 @@
     "message": "Circlepod App",
     "description": "The label for category Circlepod App in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.Community Event": {
+    "message": "社群活動",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallet": {
+    "message": "錢包",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "社群",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Channel": {
     "message": "節目池",
     "description": "The label for category Governance in sidebar tutorialSidebar"
