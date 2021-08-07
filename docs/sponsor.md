@@ -30,4 +30,5 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
-* Solana - `7jrFHLtDxAqPsc3S7nd3F1wAc99xqkD9wuQ38JtdMoej`
+* Langris - `15 USDC`
+* RUBBEN - `1 USDC`
