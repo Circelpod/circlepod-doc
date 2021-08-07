@@ -33,6 +33,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 ## Hero Sponsor
 
 * Langris - `15 USDC`
+* DanielKay - `3.1 USDC`
 * Lario - `3 USDC`
 * Zanns - `1.1 USDC`
 * RUBBEN - `1 USDC`
