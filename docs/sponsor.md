@@ -4,7 +4,7 @@ sidebar_position: 16
 
 # Sponsor
 
-Circlepod is an early project. We badly need funds to support our operations.
+Circlepod is an early project. We need funds to support our operations.
 
 **If your sponsorship amount is greater than $10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
