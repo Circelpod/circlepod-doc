@@ -31,6 +31,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
+* Kacee Rex - `22 USDC`
 * Vishal - `21 USDC`
 * Langris - `15 USDC`
 * kang berak - `11 USDC`
