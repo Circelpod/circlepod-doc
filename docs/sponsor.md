@@ -35,6 +35,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 * Vishal - `21 USDC`
 * Langris - `15 USDC`
 * kang berak - `11 USDC`
+* Afiq Haekal - `5.16421 USDC`
 * DanielKay - `3.1 USDC`
 * Lario - `3 USDC`
 * Zanns - `1.1 USDC`
