@@ -78,6 +78,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - maoge - `10.1 USDC`
 - jieyu - `10.1 USDC`
 - suwanma - `10.1 USDC`
+- ibit - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
@@ -85,6 +86,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - JimmyLao - `10 USDC`
 - heimu - `10 USDC`
 - cuichengjin - `10 USDC`
+- miao - `10 USDC`
 - Raj - `6 USDC`
 - Afiq Haekal - `5.16421 USDC`
 - DanielKay - `3.1 USDC`
