@@ -35,8 +35,6 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Sponsor Account Address
 
-* Solana - [Circlepod Bootser NFT](https://solible.com/) - `Limited to 99 copies`
-
 * Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu`
 
 * TRC20 - USDT `TMKnDEpYyctfqseTJMW6wGLZSezxgPvRxo`
