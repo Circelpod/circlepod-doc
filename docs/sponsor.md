@@ -76,6 +76,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - renhao - `10.1 USDC`
 - zengjinming - `10.1 USDC`
 - maoge - `10.1 USDC`
+- jieyu - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - xiaojun song - `10 USDC`
