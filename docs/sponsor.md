@@ -49,6 +49,26 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 * Vishal - `21 USDC`
 * Langris - `15 USDC`
 * kang berak - `11 USDC`
+* cealyn - `10.12 USDC`
+* alison - `10.11 USDC`
+* zengbinyao - `10.1 USDC`
+* zengwei - `10.1 USDC`
+* zengjinming - `10.1 USDC`
+* liwei - `10.1 USDC`
+* akak - `10.1 USDC`
+* hongmei - `10.1 USDC`
+* Xiao - `10.1 USDC`
+* jack - `10.1 USDC`
+* qingdeng - `10.1 USDC`
+* zhixiang - `10.1 USDC`
+* Keying - `10.1 USDC`
+* Tuss - `10.1 USDC`
+* yao - `10.1 USDC`
+* AKK - `10.1 USDC`
+* renke - `10.1 USDC`
+* panyongxing - `10.1 USDC`
+* weixuruci - `10.022956 USDC`
+* xiaojun song - `10 USDC`
 * Raj - `6 USDC`
 * Afiq Haekal - `5.16421 USDC`
 * DanielKay - `3.1 USDC`
