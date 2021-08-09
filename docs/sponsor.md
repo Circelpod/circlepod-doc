@@ -70,8 +70,18 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - zuojih - `10.1 USDC`
 - wusi - `10.1 USDC`
 - Amber - `10.1 USDC`
+- lixy - `10.1 USDC`
+- Qishao Mo - `10.1 USDC`
+- YUNFEI WANG - `10.1 USDC`
+- renhao - `10.1 USDC`
+- zengjinming - `10.1 USDC`
+- maoge - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
+- xiaohua - `10.011 USDC`
 - xiaojun song - `10 USDC`
+- JimmyLao - `10 USDC`
+- heimu - `10 USDC`
+- cuichengjin - `10 USDC`
 - Raj - `6 USDC`
 - Afiq Haekal - `5.16421 USDC`
 - DanielKay - `3.1 USDC`
