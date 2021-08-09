@@ -4,7 +4,7 @@ sidebar_position: 17
 
 # NFTs
 
-## Circlepod Bootser NFT
+## Circlepod Sponser NFT
 
 ![Lanny Sponser](/img/nfts/1200_Lanny.png)
 
@@ -14,6 +14,6 @@ Solana market address: [`4PEA2qNL4CzXaZBvwPBgv377KQ8HTXqERcAfNCqU7egW`](https://
 
 Solible: Requesting
 
-## Circlepod Sponser NFT
+## Circlepod Bootser NFT
 
 Stay tuned...
