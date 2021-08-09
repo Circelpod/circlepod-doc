@@ -67,6 +67,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 * AKK - `10.1 USDC`
 * renke - `10.1 USDC`
 * panyongxing - `10.1 USDC`
+* zuojih - `10.1 USDC`
+* wusi - `10.1 USDC`
 * weixuruci - `10.022956 USDC`
 * xiaojun song - `10 USDC`
 * Raj - `6 USDC`
