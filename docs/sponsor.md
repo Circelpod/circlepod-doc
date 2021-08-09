@@ -4,9 +4,15 @@ sidebar_position: 16
 
 # Sponsor
 
+:::tip
+
+**NEWS**, **Now until 8/15 23:59 UTC+8**, your sponsorship amount is greater than **$5**, **You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft)**.
+
+:::
+
 Circlepod is an early project. We need funds to support our operations.
 
-* **If your sponsorship amount is greater than $20, You will get a unique Circlepod Sponsor NFT.(We are designing and will send it later)**
+* **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft).(We are designing and will send it later)**
 
 * **If your sponsorship amount is greater than $10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
@@ -19,7 +25,17 @@ Please fill out this **[Google Form](https://forms.gle/pxX7RZppnipRCBEV7)** afte
 All sponsor addresses will be shown below!
 If you have any questions, please contact us on [Discord](https://discord.gg/WRbxfTKpJq)!
 
-## Sponsor Address
+## Rights
+
+* ✨ Circlepod Sponsor [NFT](/docs/nfts)
+* ✨ IDO whitelist
+* ✨ Special Discord Role
+* ✨ Priority to use the beta version
+* ✨ Exclusive airdrop
+
+## Sponsor Account Address
+
+* Solana - [Circlepod Bootser NFT](https://solible.com/) - `Limited to 99 copies`
 
 * Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu`
 
