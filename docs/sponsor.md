@@ -79,6 +79,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - jieyu - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
+- boboluo - `10.01 USDC`
 - xiaojun song - `10 USDC`
 - JimmyLao - `10 USDC`
 - heimu - `10 USDC`
