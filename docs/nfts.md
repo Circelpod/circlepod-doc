@@ -10,8 +10,6 @@ sidebar_position: 17
 
 * [Circlepod NFTs Market](https://nfts.circlepod.app)
 
-Solible: Requesting
-
 ## Circlepod Bootser NFT
 
 Stay tuned...
