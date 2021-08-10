@@ -86,6 +86,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - lizhou - `10.1 USDC`
 - 吴婷婷 - `10.1 USDC`
 - Tina - `10.1 USDC`
+- Andyran - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
