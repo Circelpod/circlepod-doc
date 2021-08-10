@@ -94,5 +94,12 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Zanns - `1.1 USDC`
+- 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
+- liufei - `1 USDC`
+- tanmansky - `0.3 USDC`
+- dongyu8585 - `0.3 USDC`
+- DAYANG - `0.2 USDC`
+- 王星宇 - `0.2 USDC`
+- huangpu - `0.2 USDC`
