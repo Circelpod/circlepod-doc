@@ -96,6 +96,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - miao(Makepen#1467) - `10 USDC`
 - tang - `10 USDC`
 - miao(miao#5589) - `10 USDC`
+- Greta - `10 USDC`
 - Raj - `6 USDC`
 - Afiq Haekal - `5.16421 USDC`
 - DanielKay - `3.1 USDC`
