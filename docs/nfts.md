@@ -6,13 +6,9 @@ sidebar_position: 17
 
 ## Circlepod Sponser NFT
 
-![Lanny Sponser](/img/nfts/1200_Lanny.png)
+![Lanny Sponser](/img/nfts/sponsor_lanny.png)
 
-Solana mint address: [`FKbmv9FV1yxkbB5Hndtytvkk1sAeNgixVKGwFJPMKNgi`](https://explorer.solana.com/address/FKbmv9FV1yxkbB5Hndtytvkk1sAeNgixVKGwFJPMKNgi)
-
-Solana market address: [`4PEA2qNL4CzXaZBvwPBgv377KQ8HTXqERcAfNCqU7egW`](https://dex.bonfida.org/#/market/4PEA2qNL4CzXaZBvwPBgv377KQ8HTXqERcAfNCqU7egW)
-
-Solible: Requesting
+* [Circlepod NFTs Market](https://nfts.circlepod.app)
 
 ## Circlepod Bootser NFT
 
