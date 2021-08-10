@@ -47,6 +47,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 - Kacee Rex - `22 USDC`
 - Vishal - `21 USDC`
+- songpengfei - `21 USDC`
+- Human - `21 USDC`
+- hchc - `20.2 USDC`
 - Langris - `15 USDC`
 - kang berak - `11 USDC`
 - cealyn - `10.12 USDC`
@@ -79,6 +82,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - jieyu - `10.1 USDC`
 - suwanma - `10.1 USDC`
 - ibit - `10.1 USDC`
+- Yuan JieBing - `10.1 USDC`
+- lizhou - `10.1 USDC`
+- 吴婷婷 - `10.1 USDC`
+- Tina - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
@@ -94,6 +101,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Zanns - `1.1 USDC`
+- 卢晓情 - `1.29 USDC`
+- 心的距离 - `1.29 USDC`
+- 余温 - `1.29 USDC`
+- 嘀嗒嘀 - `1.29 USDC`
+- heiyeheiyez139 - `1.12 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
@@ -103,3 +115,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - DAYANG - `0.2 USDC`
 - 王星宇 - `0.2 USDC`
 - huangpu - `0.2 USDC`
+- 764074574@qq.com - `0.2 USDC`
+- 2184923890@qq.com - `0.2 USDC`
+- 278768542@qq.com - `0.2 USDC`
+- 2059407900@qq.com - `0.2 USDC`
