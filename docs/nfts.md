@@ -6,7 +6,7 @@ sidebar_position: 17
 
 ## Circlepod Sponser NFT
 
-![Lanny Sponser](/img/nfts/1200_Lanny.png)
+![Lanny Sponser](/img/nfts/sponsor_lanny.png)
 
 * [Circlepod NFTs Market](https://nfts.circlepod.app)
 
