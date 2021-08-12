@@ -51,6 +51,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Human - `21 USDC`
 - hchc - `20.2 USDC`
 - Langris - `15 USDC`
+- 冷漠哥 - `12.5 USDC`
+- 蒋 - `12.5 USDC`
 - kang berak - `11 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
@@ -87,6 +89,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 吴婷婷 - `10.1 USDC`
 - Tina - `10.1 USDC`
 - Andyran - `10.1 USDC`
+- Yan - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
@@ -100,15 +103,27 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Greta - `10 USDC`
 - Donna Lee - `10 USDC`
 - Raj - `6 USDC`
+- Divyansh - `6 USDC`
+- niuzi - `6 USDC`
+- Iqbal rafy - `5.2 USDC`
+- bagoes andy - `5.2 USDC`
 - Afiq Haekal - `5.16421 USDC`
+- ERICK ADI PRASETYO - `5.1 USDC`
+- Marcuzt - `5.1 USDC`
+- Mandrex - `5.1 USDC`
+- FulfenFaster - `5.1 USDC`
+- ka - `5 USDC`
+- Deded - `5 USDC`
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
-- Zanns - `1.1 USDC`
+- Arya - `2 USDC`
 - 卢晓情 - `1.29 USDC`
 - 心的距离 - `1.29 USDC`
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
 - heiyeheiyez139 - `1.12 USDC`
+- Zanns - `1.1 USDC`
+- Discord - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
