@@ -112,6 +112,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Marcuzt - `5.1 USDC`
 - Mandrex - `5.1 USDC`
 - FulfenFaster - `5.1 USDC`
+- Edi Setiawan - `5.1 USDC`
+- epicanesia - `5.1 USDC`
 - ka - `5 USDC`
 - Deded - `5 USDC`
 - DanielKay - `3.1 USDC`
@@ -124,6 +126,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - heiyeheiyez139 - `1.12 USDC`
 - Zanns - `1.1 USDC`
 - Discord - `1.1 USDC`
+- ika - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
