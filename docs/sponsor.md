@@ -35,7 +35,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Sponsor Account Address
 
-- Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu`
+- Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu` or `@CirclepodP` or `circlepod.sol` [like this](/docs/sponsor#solana-domain)
 
 - TRC20 - USDT `TMKnDEpYyctfqseTJMW6wGLZSezxgPvRxo`
 
@@ -137,3 +137,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 2184923890@qq.com - `0.2 USDC`
 - 278768542@qq.com - `0.2 USDC`
 - 2059407900@qq.com - `0.2 USDC`
+
+## Solana Domain
+
+![sol domain](/img/domain/sol-domain.png)
+![twitter sol](/img/domain/twitter-sol.png)
