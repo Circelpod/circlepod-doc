@@ -4,12 +4,6 @@ sidebar_position: 16
 
 # Sponsor
 
-:::tip
-
-**NEWS**, **Now until 8/15 23:59 UTC+8**, your sponsorship amount is greater than **$5**, **You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft)**.
-
-:::
-
 Circlepod is an early project. We need funds to support our operations.
 
 - **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft).(We are designing and will send it later)**
@@ -27,7 +21,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts)($20, Only $5 during the event)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts)($20)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
 - ✨ IDO whitelist($10)
 - ✨ Special Discord Role($1)
@@ -35,7 +29,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Sponsor Account Address
 
-- Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu`
+- Solana - USDC - `HiZAoMTvQgCs9VkkL3FUMZnEuVwLVqzt62e6kfaXzHZu` or `@CirclepodP` or `circlepod.sol` [like this](/docs/sponsor#solana-domain)
 
 - TRC20 - USDT `TMKnDEpYyctfqseTJMW6wGLZSezxgPvRxo`
 
@@ -140,3 +134,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 2184923890@qq.com - `0.2 USDC`
 - 278768542@qq.com - `0.2 USDC`
 - 2059407900@qq.com - `0.2 USDC`
+
+## Solana Domain
+
+![sol domain](/img/domain/sol-domain.png)
+![twitter sol](/img/domain/twitter-sol.png)
