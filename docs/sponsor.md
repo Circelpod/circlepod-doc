@@ -43,11 +43,13 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Vishal - `21 USDC`
 - songpengfei - `21 USDC`
 - Human - `21 USDC`
+- Kasturi - `21 USDC`
 - hchc - `20.2 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
 - kang berak - `11 USDC`
+- JonathanX - `11 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
 - zengbinyao - `10.1 USDC`
@@ -96,9 +98,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - miao(miao#5589) - `10 USDC`
 - Greta - `10 USDC`
 - Donna Lee - `10 USDC`
+- Debour - `10 USDC`
 - Raj - `6 USDC`
 - Divyansh - `6 USDC`
 - niuzi - `6 USDC`
+- Tomisin - `5.5 USDC`
 - Iqbal rafy - `5.2 USDC`
 - bagoes andy - `5.2 USDC`
 - Afiq Haekal - `5.16421 USDC`
@@ -106,8 +110,14 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Marcuzt - `5.1 USDC`
 - Mandrex - `5.1 USDC`
 - FulfenFaster - `5.1 USDC`
+- Edi Setiawan - `5.1 USDC`
+- Hokibanget - `5.1 USDC`
+- andriyani - `5.1 USDC`
+- bullus - `5.1 USDC`
+- epicanesia - `5.05 USDC`
 - ka - `5 USDC`
 - Deded - `5 USDC`
+- Waleyy - `5 USDC`
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Arya - `2 USDC`
@@ -118,10 +128,14 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - heiyeheiyez139 - `1.12 USDC`
 - Zanns - `1.1 USDC`
 - Discord - `1.1 USDC`
+- ika - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
 - liufei - `1 USDC`
+- enk - `1 USDC`
+- jaya - `1 USDC`
+- sajudi - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
