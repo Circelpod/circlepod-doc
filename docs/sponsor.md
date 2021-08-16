@@ -4,12 +4,6 @@ sidebar_position: 16
 
 # Sponsor
 
-:::tip
-
-**NEWS**, **Now until 8/15 23:59 UTC+8**, your sponsorship amount is greater than **$5**, **You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft)**.
-
-:::
-
 Circlepod is an early project. We need funds to support our operations.
 
 - **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/#circlepod-Sponser-nft).(We are designing and will send it later)**
