@@ -45,6 +45,14 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Human - `21 USDC`
 - Kasturi - `21 USDC`
 - hchc - `20.2 USDC`
+- Keleman - `20.1 USDC`
+- Clementine - `20.1 USDC`
+- Kemp - `20.1 USDC`
+- sade - `20.1 USDC`
+- cnndy - `20.1 USDC`
+- Khndrick Henry - `20.1 USDC`
+- Arabela - `20.1 USDC`
+- lndira - `20.1 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
@@ -86,6 +94,15 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Tina - `10.1 USDC`
 - Andyran - `10.1 USDC`
 - Yan - `10.1 USDC`
+- cuicui - `10.1 USDC`
+- Lisa - `10.1 USDC`
+- 崔超 - `10.1 USDC`
+- 王强 - `10.1 USDC`
+- wangli - `10.1 USDC`
+- qinqin - `10.1 USDC`
+- wuqing - `10.1 USDC`
+- liubo - `10.1 USDC`
+- houshuai - `10.1 USDC`
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
@@ -129,6 +146,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Zanns - `1.1 USDC`
 - Discord - `1.1 USDC`
 - ika - `1.1 USDC`
+- Eula - `1.1 USDC`
+- Snow - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
