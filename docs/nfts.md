@@ -8,8 +8,12 @@ sidebar_position: 17
 
 ![Lanny Sponser](/img/nfts/sponsor_lanny.png)
 
-* [Circlepod NFTs Market](https://nfts.circlepod.app)
+* [Circlepod NFTs Marketplace](https://nfts.circlepod.app)
 
-## Circlepod Bootser NFT
+## Circlepod Booster NFT
 
-Stay tuned...
+![Circlepod Booster](/img/nfts/booster.png)
+
+* [Circlepod NFTs Marketplace](https://nfts.circlepod.app)
+
+* First public sale `@0.3` SOL ~2021/08/27
