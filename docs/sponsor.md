@@ -16,6 +16,9 @@ If you are willing to sponsor Circlepod, help Circlepod complete the great road.
 
 Please fill out this **[Google Form](https://forms.gle/pxX7RZppnipRCBEV7)** after completion so that we can reconcile the account.
 
+The official will verify within 1~3 days and assign the Role.
+Sponsors eligible for NFT will receive a dedicated link next week.
+
 All sponsor addresses will be shown below!
 If you have any questions, please contact us on [Discord](https://discord.gg/WRbxfTKpJq)!
 
