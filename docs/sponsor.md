@@ -39,6 +39,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
+- bik - `40.1 USDC`
 - Diego - `23 USDC`
 - Kacee Rex - `22 USDC`
 - Vishal - `21 USDC`
@@ -46,7 +47,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Human - `21 USDC`
 - Kasturi - `21 USDC`
 - Erwin Rommel - `21 USDC`
+- Mustafa Gokce - `21 USDC`
 - hchc - `20.2 USDC`
+- rickyhcn - `20.2 USDC`
 - Keleman - `20.1 USDC`
 - Clementine - `20.1 USDC`
 - Kemp - `20.1 USDC`
@@ -55,11 +58,16 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Khndrick Henry - `20.1 USDC`
 - Arabela - `20.1 USDC`
 - lndira - `20.1 USDC`
+- flower - `20.1 USDC`
+- Chin Chin - `20.1 USDC`
+- will wu - `20.1 USDC`
+- ys_yexs - `20 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
 - kang berak - `11 USDC`
 - JonathanX - `11 USDC`
+- luthfi - `11 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
 - zengbinyao - `10.1 USDC`
