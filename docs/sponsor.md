@@ -16,6 +16,9 @@ If you are willing to sponsor Circlepod, help Circlepod complete the great road.
 
 Please fill out this **[Google Form](https://forms.gle/pxX7RZppnipRCBEV7)** after completion so that we can reconcile the account.
 
+The official will verify within 1~3 days and assign the Role.
+Sponsors eligible for NFT will receive a dedicated link next week.
+
 All sponsor addresses will be shown below!
 If you have any questions, please contact us on [Discord](https://discord.gg/WRbxfTKpJq)!
 
@@ -36,6 +39,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - ERC20 - USDC `0x68B5Fe24daD4AA9539f02678485168Eb274bBb90`
 
 - ERC20 - USDT `0x68B5Fe24daD4AA9539f02678485168Eb274bBb90`
+
+- BEP2 - BUSD `bnb1rc9wjav46fd3hg90f7dse93ddpkgl4ay2vlm4q` (no memo)
+
+- BEP20 - BUSD `0x47797F2cFD79578188765Fb5e58EbdC750ABC384`
 
 ## Hero Sponsor
 
