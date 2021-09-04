@@ -29,11 +29,11 @@ This command generates static content into the `build` directory and can be serv
 ### Translation
 
 - [x] zh-tw
-- [] zh-cn
-- [] id(Indonesia)
-- [] ja(日本語)
-- [] ko(한국어)
-- [] hi(हिन्दी)
+- [ ] zh-cn
+- [ ] id(Indonesia)
+- [ ] ja(日本語)
+- [ ] ko(한국어)
+- [ ] hi(हिन्दी)
 
 ## Contribution
 
