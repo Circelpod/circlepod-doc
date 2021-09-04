@@ -128,6 +128,6 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "zh-tw", "zh-cn"],
+    locales: ["en", "zh-tw", "zh-cn", "id", "ja", "ko", "hi"],
   },
 };

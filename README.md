@@ -24,10 +24,13 @@ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## Deployment
+## TODO
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+### Translation
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- [x] zh-tw
+- [] zh-cn
+- [] id(Indonesia)
+- [] ja(日本語)
+- [] ko(한국어)
+- [] hi(हिन्दी)
