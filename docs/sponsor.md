@@ -24,7 +24,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts)($20)
+- ✨ Circlepod Sponsor [NFT](/docs/nft/intro)($20)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
 - ✨ IDO whitelist($10)
 - ✨ Special Discord Role($1)
