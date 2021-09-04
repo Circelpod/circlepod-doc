@@ -28,6 +28,11 @@ module.exports = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          href: "https://staging-launch.circlepod.app/",
+          label: "Devnet App",
+          position: "right",
+        },
+        {
           href: "https://www.circlepod.app",
           label: "Home",
           position: "right",
