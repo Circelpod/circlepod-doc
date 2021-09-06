@@ -61,13 +61,17 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - liudachui - `23 USDC`
 - prince - `23 USDC`
 - cattiecardia - `23 USDC`
+- BOB - `23 USDC`
+- Lzy - `22.2 USDC`
 - Kacee Rex - `22 USDC`
 - JEX - `22 USDC`
 - flyfish - `22 USDC`
 - cardiacattie - `22 USDC`
 - 小怪兽 - `21.5 USDC`
+- 信和 - `21.5 USDC`
 - hodl - `21.17 USDC`
 - z旷 - `21.1 USDC`
+- Miracle - `21.1 USDC`
 - Vishal - `21 USDC`
 - songpengfei - `21 USDC`
 - Human - `21 USDC`
@@ -99,6 +103,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - bope liu - `21 USDC`
 - 落年 - `21 USDC`
 - email - `21 USDC`
+- Night Leo - `21 USDC`
+- suandou - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
@@ -144,6 +150,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - jacky - `20.1 USDC`
 - caoyong - `20.1 USDC`
 - MM - `20.1 USDC`
+- bigxiongdi - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -154,6 +161,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - mrliang - `20.04 USDC`
 - zsw - `20.04 USDC`
 - MUMU - `20.02 USDC`
+- seemswinds - `20.002 USDC`
 - Frank - `20.0008 USDC`
 - ys_yexs - `20 USDC`
 - Nasa - `20 USDC`
@@ -172,6 +180,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - odin - `20 USDC`
 - Mrs Huang - `20 USDC`
 - 刘宇 - `20 USDC`
+- huangyuelin - `20 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
