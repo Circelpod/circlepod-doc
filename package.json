@@ -19,8 +19,8 @@
     "start:prod": "yarn run serve --port $PORT --host $HOST"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.3",
-    "@docusaurus/preset-classic": "2.0.0-beta.3",
+    "@docusaurus/core": "2.0.0-beta.6",
+    "@docusaurus/preset-classic": "2.0.0-beta.6",
     "@mdx-js/react": "^1.6.22",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.0-beta.3",
+    "@docusaurus/module-type-aliases": "2.0.0-beta.6",
     "@tsconfig/docusaurus": "^1.0.2",
     "@types/react": "^17.0.12",
     "@types/react-helmet": "^6.1.1",

@@ -28,6 +28,11 @@ module.exports = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          href: "https://staging-launch.circlepod.app/",
+          label: "Devnet App",
+          position: "right",
+        },
+        {
           href: "https://www.circlepod.app",
           label: "Home",
           position: "right",
@@ -128,6 +133,6 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "zh-tw", "zh-cn"],
+    locales: ["en", "zh-tw", "zh-cn", "id", "ja", "ko", "hi"],
   },
 };

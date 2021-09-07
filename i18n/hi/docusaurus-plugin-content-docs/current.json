@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod App": {
+    "message": "Circlepod App",
+    "description": "The label for category Circlepod App in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Event": {
+    "message": "社群活動",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallet": {
+    "message": "錢包",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "社群",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Channel": {
+    "message": "節目池",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Govern": {
+    "message": "治理",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Podcast": {
+    "message": "節目",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Badge": {
+    "message": "徽章",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Player": {
+    "message": "玩家",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tokenomics": {
+    "message": "貨幣經濟學",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "關於",
+    "description": "The label for category Governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SDK": {
+    "message": "SDK",
+    "description": "The label for category SDK in sidebar tutorialSidebar"
+  }
+}
