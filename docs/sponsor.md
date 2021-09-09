@@ -67,9 +67,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - JEX - `22 USDC`
 - flyfish - `22 USDC`
 - cardiacattie - `22 USDC`
+- Tkun - `22 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
 - hodl - `21.17 USDC`
+- m6cat - `21.11 USDC`
 - z旷 - `21.1 USDC`
 - Miracle - `21.1 USDC`
 - Vishal - `21 USDC`
@@ -105,6 +107,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - email - `21 USDC`
 - Night Leo - `21 USDC`
 - suandou - `21 USDC`
+- suziwang - `21 USDC`
+- MA CONGHUI - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
@@ -113,6 +117,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - aosikafaguoka - `20.5 USDC`
 - Fish.Gao - `20.5 USDC`
 - cony - `20.5 USDC`
+- lifeneatify - `20.48 USDC`
 - kangkang - `20.3 USDC`
 - hchc - `20.2 USDC`
 - rickyhcn - `20.2 USDC`
@@ -151,6 +156,14 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - caoyong - `20.1 USDC`
 - MM - `20.1 USDC`
 - bigxiongdi - `20.1 USDC`
+- teelmea - `20.1 USDC`
+- xuanlv - `20.1 USDC`
+- KANG NYUK LEONG - `20.1 USDC`
+- Arthur - `20.1 USDC`
+- sn - `20.1 USDC`
+- Eric Lin - `20.1 USDC`
+- Evan - `20.1 USDC`
+- Xanadu - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -181,6 +194,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Mrs Huang - `20 USDC`
 - 刘宇 - `20 USDC`
 - huangyuelin - `20 USDC`
+- chen zhuoran - `20 USDC`
+- aunt.W - `20 USDC`
+- ode - `20 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
