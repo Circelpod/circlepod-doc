@@ -67,9 +67,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - JEX - `22 USDC`
 - flyfish - `22 USDC`
 - cardiacattie - `22 USDC`
+- Tkun - `22 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
 - hodl - `21.17 USDC`
+- m6cat - `21.11 USDC`
 - z旷 - `21.1 USDC`
 - Miracle - `21.1 USDC`
 - Vishal - `21 USDC`
@@ -157,6 +159,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - teelmea - `20.1 USDC`
 - xuanlv - `20.1 USDC`
 - KANG NYUK LEONG - `20.1 USDC`
+- Arthur - `20.1 USDC`
+- sn - `20.1 USDC`
+- Eric Lin - `20.1 USDC`
+- Evan - `20.1 USDC`
+- Xanadu - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
