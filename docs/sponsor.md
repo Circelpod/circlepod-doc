@@ -46,6 +46,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
+- rickyhcn - `52.2 USDC`
 - lao-feng666 - - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
@@ -120,7 +121,6 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - lifeneatify - `20.48 USDC`
 - kangkang - `20.3 USDC`
 - hchc - `20.2 USDC`
-- rickyhcn - `20.2 USDC`
 - 倪浩 - `20.2 USDC`
 - 大队长 - `20.115 USDC`
 - wang - `20.11 USDC`
