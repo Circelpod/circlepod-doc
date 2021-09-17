@@ -57,6 +57,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - faye2008 - `30 USDC`
 - danie682711 - `26 USDC`
 - afqz135 - `25 USDC`
+- Josh - `25 USDC`
 - EkkoChan - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
@@ -110,6 +111,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - suandou - `21 USDC`
 - suziwang - `21 USDC`
 - MA CONGHUI - `21 USDC`
+- huhu - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
