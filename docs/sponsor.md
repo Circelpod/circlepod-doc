@@ -6,11 +6,11 @@ sidebar_position: 16
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nft/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than \$20, You will get a unique [Circlepod Sponsor NFT](/docs/nft/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than $10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than \$10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
-- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
+- **If your sponsorship amount is greater than \$1, you will get a special Discord Role.**
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -24,10 +24,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nft/intro)($20)
+- ✨ Circlepod Sponsor [NFT](/docs/nft/intro)(\$20)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($10)
-- ✨ Special Discord Role($1)
+- ✨ IDO whitelist(\$10)
+- ✨ Special Discord Role(\$1)
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
@@ -73,7 +73,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 信和 - `21.5 USDC`
 - hodl - `21.17 USDC`
 - m6cat - `21.11 USDC`
-- z旷 - `21.1 USDC`
+- z 旷 - `21.1 USDC`
 - Miracle - `21.1 USDC`
 - Vishal - `21 USDC`
 - songpengfei - `21 USDC`
@@ -164,6 +164,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Eric Lin - `20.1 USDC`
 - Evan - `20.1 USDC`
 - Xanadu - `20.1 USDC`
+- Joe - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -309,7 +310,6 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - enk - `1 USDC`
 - jaya - `1 USDC`
 - sajudi - `1 USDC`
-- Joe - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
