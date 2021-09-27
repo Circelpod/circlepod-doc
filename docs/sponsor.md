@@ -122,6 +122,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - cony - `20.5 USDC`
 - lifeneatify - `20.48 USDC`
 - kangkang - `20.3 USDC`
+- Backsky - `20.21 USDC`
 - hchc - `20.2 USDC`
 - 倪浩 - `20.2 USDC`
 - 大队长 - `20.115 USDC`
