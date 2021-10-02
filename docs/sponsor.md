@@ -6,11 +6,11 @@ sidebar_position: 16
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than \$20, You will get a unique [Circlepod Sponsor NFT](/docs/nft/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nft/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than \$10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than $10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
-- **If your sponsorship amount is greater than \$1, you will get a special Discord Role.**
+- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -55,9 +55,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - fonoter - `32.1 USDC`
 - sniksine - `31.8 USDC`
 - faye2008 - `30 USDC`
+- Oğuz - `30 USDC`
 - danie682711 - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
+- Saveliy - `25 USDC`
 - EkkoChan - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
@@ -273,6 +275,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Greta - `10 USDC`
 - Donna Lee - `10 USDC`
 - Debour - `10 USDC`
+- Kate - `10 USDC`
 - Raj - `6 USDC`
 - Divyansh - `6 USDC`
 - niuzi - `6 USDC`
