@@ -55,9 +55,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - fonoter - `32.1 USDC`
 - sniksine - `31.8 USDC`
 - faye2008 - `30 USDC`
+- Oğuz - `30 USDC`
 - danie682711 - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
+- Saveliy - `25 USDC`
 - EkkoChan - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
@@ -273,6 +275,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Greta - `10 USDC`
 - Donna Lee - `10 USDC`
 - Debour - `10 USDC`
+- Kate - `10 USDC`
 - Raj - `6 USDC`
 - Divyansh - `6 USDC`
 - niuzi - `6 USDC`
