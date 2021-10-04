@@ -1,4 +1,4 @@
-FROM yasuoyuhao/node-docker-image-with-tini:14.16.1-alpine3.11
+FROM yasuoyuhao/node-docker-image-with-tini:14.18.0-alpine3.14
 
 
 RUN mkdir -p /api
