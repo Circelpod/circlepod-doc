@@ -15,7 +15,7 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 ## Getting Started
 
 哈囉！歡迎來到 Circlepod，讓我們開始吧！
-你可以找到我們的 Web 應用 [這裡](/docs/links)
+你可以找到我們的 Web 應用 [這裡](/docs/about/links)
 
 ### 步驟 1. 創建並連接錢包
 

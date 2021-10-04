@@ -13,39 +13,39 @@
   },
   "sidebar.tutorialSidebar.category.Community Event": {
     "message": "社群活動",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Community Event in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Wallet": {
     "message": "錢包",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Wallet in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community": {
     "message": "社群",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Community in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Channel": {
     "message": "節目池",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Channel in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Govern": {
     "message": "治理",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Govern in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Podcast": {
     "message": "節目",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Podcast in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Badge": {
     "message": "徽章",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Badge in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Player": {
     "message": "玩家",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Player in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tokenomics": {
     "message": "貨幣經濟學",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
+    "description": "The label for category Tokenomics in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.About": {
     "message": "關於",
@@ -54,5 +54,29 @@
   "sidebar.tutorialSidebar.category.SDK": {
     "message": "SDK",
     "description": "The label for category SDK in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Airdrop": {
+    "message": "Airdrop",
+    "description": "The label for category Airdrop in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vote & Support": {
+    "message": "Vote & Support",
+    "description": "The label for category Vote & Support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Promoter": {
+    "message": "Circlepod Promoter",
+    "description": "The label for category Circlepod Promoter in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.NFTs": {
+    "message": "NFTs",
+    "description": "The label for category NFTs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.About & Milestone": {
+    "message": "About & Milestone",
+    "description": "The label for category About & Milestone in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Discord": {
+    "message": "Discord",
+    "description": "The label for category Discord in sidebar tutorialSidebar"
   }
 }

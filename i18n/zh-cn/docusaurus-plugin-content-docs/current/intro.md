@@ -16,7 +16,7 @@ Circlepod Protocol 支持使用区块链来链结 播主 与听众。你可以�
 
 哈啰！欢迎来到 Circlepod，让我们开始吧！
 
-你可以找到我们的 Web 应用 [这里](/docs/links)
+你可以找到我们的 Web 应用 [这里](/docs/about/links)
 
 1. 连接你的 Solan 钱包
 

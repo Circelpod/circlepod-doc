@@ -17,7 +17,7 @@ The project is currently undergoing beta testing and there may be any changes. C
 ## Getting Started
 
 Hey, Welcome to Circlepod, Let's get start!
-You can find Web App [Here](/docs/links)
+You can find Web App [Here](/docs/about/links)
 
 ### Step 1. Create & Connect your wallet first!
 1. Connent Your Solana Wallet
@@ -26,7 +26,7 @@ You can find Web App [Here](/docs/links)
 
 2. Choose your wallet type
 :::tip Wallet Type
-We provide `Sollet`, `Solflare`, and `Bonfida` now, and we'll provide more wallet type in the future!
+We provide `Sollet`, `Solflare` now, and we'll provide more wallet type in the future!
 :::
 ![Wallet Type](/img/tutorial/wallet-type.png)
 
