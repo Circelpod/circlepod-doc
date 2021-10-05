@@ -46,6 +46,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
+- Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
 - lao-feng666 - - `50 USDC`
 - kabu - `41 USDC`
@@ -66,12 +67,14 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - prince - `23 USDC`
 - cattiecardia - `23 USDC`
 - BOB - `23 USDC`
+- Onur - `23 USDC`
 - Lzy - `22.2 USDC`
 - Kacee Rex - `22 USDC`
 - JEX - `22 USDC`
 - flyfish - `22 USDC`
 - cardiacattie - `22 USDC`
 - Tkun - `22 USDC`
+- Mai An Tiem - `21.976231 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
 - hodl - `21.17 USDC`
@@ -114,6 +117,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - suziwang - `21 USDC`
 - MA CONGHUI - `21 USDC`
 - huhu - `21 USDC`
+- Tri Hong Nhan - `21 USDC`
+- cong gunner - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
@@ -170,6 +175,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Evan - `20.1 USDC`
 - Xanadu - `20.1 USDC`
 - Joe - `20.1 USDC`
+- Mr Phong - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -177,6 +183,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - e234rw0313 - `20.06 USDC`
 - dc - `20.05 USDC`
 - q400qs9714 - `20.05 USDC`
+- MinhTung - `20.05 USDC`
 - mrliang - `20.04 USDC`
 - zsw - `20.04 USDC`
 - MUMU - `20.02 USDC`
@@ -203,6 +210,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - chen zhuoran - `20 USDC`
 - aunt.W - `20 USDC`
 - ode - `20 USDC`
+- Deadlycat02 - `17 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
@@ -210,6 +218,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - JonathanX - `11 USDC`
 - luthfi - `11 USDC`
 - lyss - `11 USDC`
+- Khuong Tran - `11 USDC`
 - Taodaaaa - `10.2 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
@@ -316,6 +325,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - enk - `1 USDC`
 - jaya - `1 USDC`
 - sajudi - `1 USDC`
+- imam Budiarto - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
