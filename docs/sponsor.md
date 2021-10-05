@@ -119,6 +119,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - huhu - `21 USDC`
 - Tri Hong Nhan - `21 USDC`
 - cong gunner - `21 USDC`
+- Tan Huynh - `21 USDC`
+- duytuu - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
@@ -210,6 +212,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - chen zhuoran - `20 USDC`
 - aunt.W - `20 USDC`
 - ode - `20 USDC`
+- HaiTrx - `20 USDC`
 - Deadlycat02 - `17 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
@@ -326,6 +329,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - jaya - `1 USDC`
 - sajudi - `1 USDC`
 - imam Budiarto - `1 USDC`
+- quocthai2021 - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
