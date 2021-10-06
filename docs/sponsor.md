@@ -63,6 +63,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - danie682711 - `26 USDC`
+- ngao - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
 - Saveliy - `25 USDC`
@@ -82,8 +83,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Tkun - `22 USDC`
 - datdamda - `22 USDC`
 - Sicxa - `22 USDC`
+- vu thanh dong - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
 - Gamalie - `21.906781 USDC`
+- Phuc Hau - `21.9 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
 - huyduc112 - `21.5 USDC`
@@ -144,9 +147,15 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Biawak Batam - `21 USDC`
 - 0xbads - `21 USDC`
 - Cuong Tran - `21 USDC`
+- Bach Nghien - `21 USDC`
+- Hieu Pham - `21 USDC`
+- Thang Ho - `21 USDC`
+- snow82305#6705 - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
+- LeTu54824879 - `20.89 USDC`
 - gao - `20.66 USDC`
+- mr Dung - `20.6 USDC`
 - Just aditya - `20.59 USDC`
 - woaihsr - `20.5 USDC`
 - 勿忘心安 - `20.5 USDC`
@@ -349,6 +358,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
 - heiyeheiyez139 - `1.12 USDC`
+- lamvan - `1.11 USDC`
 - Zanns - `1.1 USDC`
 - Discord - `1.1 USDC`
 - ika - `1.1 USDC`
