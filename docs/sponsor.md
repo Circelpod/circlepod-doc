@@ -51,12 +51,17 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - lao-feng666 - - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
+- Shet Yae - `35 USDC`
+- bobby - `35 USDC`
 - bik - `34.6 USDC`
 - skymmoe - `33 USDC`
 - fonoter - `32.1 USDC`
 - sniksine - `31.8 USDC`
+- insom - `31.1 USDC`
 - faye2008 - `30 USDC`
 - Oğuz - `30 USDC`
+- Bheghe - `30 USDC`
+- Iky Nulil - `30 USDC`
 - danie682711 - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
@@ -69,14 +74,19 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - BOB - `23 USDC`
 - Onur - `23 USDC`
 - Lzy - `22.2 USDC`
+- Mores - `22.1 USDC`
 - Kacee Rex - `22 USDC`
 - JEX - `22 USDC`
 - flyfish - `22 USDC`
 - cardiacattie - `22 USDC`
 - Tkun - `22 USDC`
+- datdamda - `22 USDC`
+- Sicxa - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
+- Gamalie - `21.906781 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
+- huyduc112 - `21.5 USDC`
 - hodl - `21.17 USDC`
 - m6cat - `21.11 USDC`
 - z 旷 - `21.1 USDC`
@@ -121,14 +131,30 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - cong gunner - `21 USDC`
 - Tan Huynh - `21 USDC`
 - duytuu - `21 USDC`
+- Shen - `21 USDC`
+- toanphamhd - `21 USDC`
+- Phung Kien - `21 USDC`
+- Chung - `21 USDC`
+- Galih - `21 USDC`
+- Yudi - `21 USDC`
+- Kiray - `21 USDC`
+- obenkz - `21 USDC`
+- Imam - `21 USDC`
+- Musyofa - `21 USDC`
+- Biawak Batam - `21 USDC`
+- 0xbads - `21 USDC`
+- Cuong Tran - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - gao - `20.66 USDC`
+- Just aditya - `20.59 USDC`
 - woaihsr - `20.5 USDC`
 - 勿忘心安 - `20.5 USDC`
 - aosikafaguoka - `20.5 USDC`
 - Fish.Gao - `20.5 USDC`
 - cony - `20.5 USDC`
+- Mr T - `20.5 USDC`
+- Loc - `20.5 USDC`
 - lifeneatify - `20.48 USDC`
 - kangkang - `20.3 USDC`
 - Backsky - `20.21 USDC`
@@ -178,10 +204,12 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Xanadu - `20.1 USDC`
 - Joe - `20.1 USDC`
 - Mr Phong - `20.1 USDC`
+- Rahmad - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
 - chuanqi - `20.06 USDC`
+- ERIC KIEU - `20.064721 USDC`
 - e234rw0313 - `20.06 USDC`
 - dc - `20.05 USDC`
 - q400qs9714 - `20.05 USDC`
@@ -213,6 +241,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - aunt.W - `20 USDC`
 - ode - `20 USDC`
 - HaiTrx - `20 USDC`
+- Delapan - `20 USDC`
+- Ari - `20 USDC`
 - Deadlycat02 - `17 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
@@ -222,6 +252,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - luthfi - `11 USDC`
 - lyss - `11 USDC`
 - Khuong Tran - `11 USDC`
+- Adityacyn - `11 USDC`
 - Taodaaaa - `10.2 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
@@ -288,6 +319,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Donna Lee - `10 USDC`
 - Debour - `10 USDC`
 - Kate - `10 USDC`
+- Rio Krisdianto - `10 USDC`
 - Raj - `6 USDC`
 - Divyansh - `6 USDC`
 - niuzi - `6 USDC`
@@ -311,6 +343,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Arya - `2 USDC`
+- M aziz yahya - `1.5 USDC`
 - 卢晓情 - `1.29 USDC`
 - 心的距离 - `1.29 USDC`
 - 余温 - `1.29 USDC`
