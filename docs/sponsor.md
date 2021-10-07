@@ -6,11 +6,11 @@ sidebar_position: 12
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than $20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than \$20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than $10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than \$10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
-- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
+- **If your sponsorship amount is greater than \$1, you will get a special Discord Role.**
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -24,10 +24,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($20)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)(\$20)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($10)
-- ✨ Special Discord Role($1)
+- ✨ IDO whitelist(\$10)
+- ✨ Special Discord Role(\$1)
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
@@ -46,9 +46,26 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Hero Sponsor
 
-- Jack Stan - `52.56 USDC`
-- rickyhcn - `52.2 USDC`
-- lao-feng666 - - `50 USDC`
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs 
+defaultValue="top"
+values={[
+{label: 'Top Sponsor 🚀', value: 'top'},
+{label: 'Golden Sponsor 🛩', value: 'golden'},
+{label: 'Silver Sponsor 🚂', value: 'silver'},
+{label: 'Bronze Sponsor 🚘', value: 'bronze'},
+]}>
+<TabItem value="top">
+
+- 🥇 Jack Stan - `52.56 USDC`
+- 🥈 rickyhcn - `52.2 USDC`
+- 🥉 lao-feng666 - `50 USDC`
+
+</TabItem>
+<TabItem value="golden">
+
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
 - Jhon - `36 USDC`
@@ -70,6 +87,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Saveliy - `25 USDC`
 - Rito797 - `25 USDC`
 - Gin - `25 USDC`
+- boo_pro - `25 USDC`
 - EkkoChan - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
@@ -87,6 +105,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - datdamda - `22 USDC`
 - Sicxa - `22 USDC`
 - vu thanh dong - `22 USDC`
+- Jason - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
 - Gamalie - `21.906781 USDC`
 - Phuc Hau - `21.9 USDC`
@@ -163,6 +182,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Pham Van Luan - `21 USDC`
 - Dinh Thanh Giang - `21 USDC`
 - Nguyen Hong Nhung - `21 USDC`
+- hoangthang - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -274,6 +294,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Duy - `20 USDC`
 - Viet Anh - `20 USDC`
 - Duc - `20 USDC`
+
+</TabItem>
+<TabItem value="silver">
+
 - Deadlycat02 - `17 USDC`
 - Langris - `15 USDC`
 - 冷漠哥 - `12.5 USDC`
@@ -353,6 +377,11 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - Kate - `10 USDC`
 - Rio Krisdianto - `10 USDC`
 - Kang - `10 USDC`
+- lamlele69 - `10 USDC`
+
+</TabItem>
+<TabItem value="bronze">
+
 - Raj - `6 USDC`
 - Divyansh - `6 USDC`
 - niuzi - `6 USDC`
@@ -406,6 +435,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 - 2184923890@qq.com - `0.2 USDC`
 - 278768542@qq.com - `0.2 USDC`
 - 2059407900@qq.com - `0.2 USDC`
+
+</TabItem>
+</Tabs>
 
 ## Solana Domain
 
