@@ -28,6 +28,11 @@ module.exports = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          href: "https://klearthink.atlassian.net/servicedesk/customer/portals",
+          label: "Request ticket",
+          position: "right",
+        },
+        {
           href: "https://staging-launch.circlepod.app/",
           label: "Devnet App",
           position: "right",
