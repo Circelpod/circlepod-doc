@@ -183,6 +183,9 @@ values={[
 - Dinh Thanh Giang - `21 USDC`
 - Nguyen Hong Nhung - `21 USDC`
 - hoangthang - `21 USDC`
+- huyvu69 - `21 USDC`
+- Yehestiel Siburian - `21 USDC`
+- The Manh - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
