@@ -4,6 +4,8 @@ sidebar_position: 16
 
 # Troubleshooting
 
+If you can't find your problem, [please submit your ticket](https://klearthink.atlassian.net/servicedesk/customer/portals)
+
 ## I can't connect to Twitter or have a strange problem
 
 - You need to clear the cache and log out.
