@@ -80,6 +80,7 @@ values={[
 - Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
+- TrungNguyen - `30 USDC`
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
 - afqz135 - `25 USDC`
@@ -88,6 +89,7 @@ values={[
 - Rito797 - `25 USDC`
 - Gin - `25 USDC`
 - boo_pro - `25 USDC`
+- xodt89 - `25 USDC`
 - EkkoChan - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
@@ -95,6 +97,7 @@ values={[
 - cattiecardia - `23 USDC`
 - BOB - `23 USDC`
 - Onur - `23 USDC`
+- Pinocchio - `23 USDC`
 - Lzy - `22.2 USDC`
 - Mores - `22.1 USDC`
 - Kacee Rex - `22 USDC`
@@ -186,6 +189,10 @@ values={[
 - huyvu69 - `21 USDC`
 - Yehestiel Siburian - `21 USDC`
 - The Manh - `21 USDC`
+- viettiendt93 - `21 USDC`
+- jianglingyan - `21 USDC`
+- Aldi - `21 USDC`
+- Ali - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -207,6 +214,7 @@ values={[
 - 倪浩 - `20.2 USDC`
 - Catur - `20.2 USDC`
 - xitrum - `20.2 USDC`
+- Tom - `20.2 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
 - wang - `20.11 USDC`
@@ -297,6 +305,8 @@ values={[
 - Duy - `20 USDC`
 - Viet Anh - `20 USDC`
 - Duc - `20 USDC`
+- Le Hai Nam - `20 USDC`
+- webos - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -312,6 +322,7 @@ values={[
 - Khuong Tran - `11 USDC`
 - Adityacyn - `11 USDC`
 - JrSam - `11 USDC`
+- Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
@@ -360,6 +371,7 @@ values={[
 - liubo - `10.1 USDC`
 - houshuai - `10.1 USDC`
 - gfh - `10.1 USDC`
+- Kris - `10.1 USDC`
 - a516fr3627 - `10.05 USDC`
 - h562dj0961 - `10.05 USDC`
 - h233rx5327 - `10.05 USDC`
@@ -367,6 +379,7 @@ values={[
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
+- nasir - `10.001 USDC`
 - xiaojun song - `10 USDC`
 - JimmyLao - `10 USDC`
 - heimu - `10 USDC`
@@ -420,6 +433,7 @@ values={[
 - ika - `1.1 USDC`
 - Eula - `1.1 USDC`
 - Snow - `1.1 USDC`
+- Sakti - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
@@ -429,6 +443,8 @@ values={[
 - sajudi - `1 USDC`
 - imam Budiarto - `1 USDC`
 - quocthai2021 - `1 USDC`
+- Odole - `1 USDC`
+- alinustorvalt - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
