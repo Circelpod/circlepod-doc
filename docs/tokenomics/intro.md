@@ -33,7 +33,7 @@ CPX token that powers the Circlepod Protocol ecosystem. You can use it for activ
 
 ### CPX Token Supply
 
-We plan to supply a total of `528,485,903` CPX within 4 years. Beyond that, there will be no more new CPX tokens introduced to the supply.
+We plan to supply a total of `528,485,903` [CPX](/docs/smart-contract) within 4 years. Beyond that, there will be no more new CPX tokens introduced to the supply.
 
 ### Cumulative Distribution Schedule
 
@@ -52,7 +52,7 @@ Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol 
 * Community Airdrops `(14.3%)`: Community airdrops for marketing activities and operations. Total `26,424,295.15` tokens.
 * Community Sale-1 `(8.6%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens.
 * Community Sale-2 `(5.7%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06`
-* Private Sale `(14.3%)`: Institutional or private sales. Total `26,424,295.15` tokens.
+* community sale-3 `(14.3%)`: Institutional or community sale. Total `26,424,295.15` tokens.
 
 > Sale: Team sales, and used to pay for development, personnel, marketing and operating expenses.
 
@@ -67,7 +67,7 @@ Total supply of CPX tokens will increase for 4 years due to inflation, until the
 * Community Airdrops `(15%)`: Community airdrops for marketing activities and operations. Total `79,272,885.45` tokens
 * Community Sale-1 `(3%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens
 * Community Sale-2 `(2%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06` tokens
-* Private Sale `(5%)`: Institutional or private sales. Total `26,424,295.15` tokens
+* community sale-3 `(5%)`: Institutional or community sale. Total `26,424,295.15` tokens
 * Community Pool `(20%)`: Community pool, used for Governance Stake Reward. Total `105,697,180.60` tokens
 * Community Reward `(20%)`: Encourage community participation, rewards, and support Channel Reward。Total `105,697,180.60` tokens
 
