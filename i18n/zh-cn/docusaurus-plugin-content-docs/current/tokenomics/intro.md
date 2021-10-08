@@ -20,7 +20,7 @@ export const Highlight = ({children, color}) => (
 
 ## 什么是 CPX？
 
-**CPX** Token 是一个用于 Circlepod Protocol 生态系并且强而有力的代币，您可以使用它来进行应用活动，也可以用于治理。
+**[CPX](/docs/smart-contract)** Token 是一个用于 Circlepod Protocol 生态系并且强而有力的代币，您可以使用它来进行应用活动，也可以用于治理。
 
 * SUP 你最爱的 Podcast 节目池，并且赚取收益！
 * 参与社群治理提案或投票！
@@ -51,7 +51,7 @@ export const Highlight = ({children, color}) => (
 * Community Airdrops `(14.3%)`: 社群空投，用于行销活动与市场运营。共计 `26,424,295.15` 颗。
 * Community Sale-1 `(8.6%)`: 社群销售，对于积极参与社群的朋友销售。共计 `15,854,577.09` 颗。
 * Community Sale-2 `(5.7%)`: 第二波社群销售，对于积极参与社群的朋销售。共计 `10,569,718.06`
-* Private Sale `(14.3%)`: 机构或私人投资销售。共计 `26,424,295.15` 颗。
+* community sale-3 `(14.3%)`: 机构或私人投资销售。共计 `26,424,295.15` 颗。
 
 > Sale: 代币销售，并用于支付开发、人事、行销与运营费用。
 
@@ -66,7 +66,7 @@ CPX tokes 将持续增加到第四年底，到时总供应量为 `528,485,903` �
 * Community Airdrops `(15%)`: 社群空投，用于行销活动与市场运营。共计 `79,272,885.45` 颗。
 * Community Sale-1 `(3%)`: 社群销售，对于积极参与社群的朋销售。共计 `15,854,577.09` 颗。
 * Community Sale-1 `(2%)`: 第二波社群销售，对于积极参与社群的朋友销售。共计 `10,569,718.06` 颗。
-* Private Sale `(5%)`: 机构或私人投资销售。共计 `26,424,295.15` 颗。
+* community sale-3 `(5%)`: 机构或私人投资销售。共计 `26,424,295.15` 颗。
 * Community Pool `(20%)`: 社群资金池，用于 Governance Stake Reward。共计 `105,697,180.60` 颗。
 * Community Reward `(20%)`: 鼓励社群参与、激励措施奖励以及 SUP Channel Reward。共计 `105,697,180.60` 颗。
 
