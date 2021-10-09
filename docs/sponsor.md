@@ -199,11 +199,15 @@ values={[
 - Ali - `21 USDC`
 - Đỗ Như Hoàng An - `21 USDC`
 - Quang - `21 USDC`
+- CuongMU - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
+- khanh94 - `20.8 USDC`
+- cungkhai9 - `20.7 USDC`
 - gao - `20.66 USDC`
 - mr Dung - `20.6 USDC`
+- hai minh - `20.6 USDC`
 - Just aditya - `20.59 USDC`
 - woaihsr - `20.5 USDC`
 - 勿忘心安 - `20.5 USDC`
@@ -223,6 +227,7 @@ values={[
 - xitrum - `20.2 USDC`
 - Tom - `20.2 USDC`
 - Ridho Kevind - `20.2 USDC`
+- luong vinh thao - `20.2 USDC`
 - FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
@@ -325,8 +330,10 @@ values={[
 
 - Deadlycat02 - `17 USDC`
 - Langris - `15 USDC`
+- wangminhei - `12.84 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
+- KingOfLong - `11.100574 USDC`
 - kang berak - `11 USDC`
 - JonathanX - `11 USDC`
 - luthfi - `11 USDC`
