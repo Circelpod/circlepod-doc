@@ -59,13 +59,14 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Jack Stan - `52.56 USDC`
-- 🥈 rickyhcn - `52.2 USDC`
-- 🥉 lao-feng666 - `50 USDC`
+- 🥇 DAI LINYUN - `55 USDC`
+- 🥈 Jack Stan - `52.56 USDC`
+- 🥉 rickyhcn - `52.2 USDC`
 
 </TabItem>
 <TabItem value="golden">
 
+- lao-feng666 - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
 - Jhon - `36 USDC`
@@ -109,6 +110,9 @@ values={[
 - Sicxa - `22 USDC`
 - vu thanh dong - `22 USDC`
 - Jason - `22 USDC`
+- NGUYEN THANH HAI - `22 USDC`
+- hungqh123 - `22 USDC`
+- hoangcao - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
 - Gamalie - `21.906781 USDC`
 - Phuc Hau - `21.9 USDC`
@@ -193,6 +197,8 @@ values={[
 - jianglingyan - `21 USDC`
 - Aldi - `21 USDC`
 - Ali - `21 USDC`
+- Đỗ Như Hoàng An - `21 USDC`
+- Quang - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -206,6 +212,7 @@ values={[
 - cony - `20.5 USDC`
 - Mr T - `20.5 USDC`
 - Loc - `20.5 USDC`
+- afero - `20.5 USDC`
 - lifeneatify - `20.48 USDC`
 - - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
@@ -215,6 +222,8 @@ values={[
 - Catur - `20.2 USDC`
 - xitrum - `20.2 USDC`
 - Tom - `20.2 USDC`
+- Ridho Kevind - `20.2 USDC`
+- FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
 - wang - `20.11 USDC`
@@ -262,6 +271,7 @@ values={[
 - Mr Phong - `20.1 USDC`
 - Rahmad - `20.1 USDC`
 - sondq - `20.1 USDC`
+- nghiho - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -307,6 +317,8 @@ values={[
 - Duc - `20 USDC`
 - Le Hai Nam - `20 USDC`
 - webos - `20 USDC`
+- Ikbal - `20 USDC`
+- nghiho - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -322,6 +334,8 @@ values={[
 - Khuong Tran - `11 USDC`
 - Adityacyn - `11 USDC`
 - JrSam - `11 USDC`
+- hdhuy97 - `11 USDC`
+- Arta Faldy - `11 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - cealyn - `10.12 USDC`
@@ -445,6 +459,10 @@ values={[
 - quocthai2021 - `1 USDC`
 - Odole - `1 USDC`
 - alinustorvalt - `1 USDC`
+- kloklo - `1 USDC`
+- samduxl - `1 USDC`
+- nghiho99 - `1 USDC`
+- fgwehhs45 - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
