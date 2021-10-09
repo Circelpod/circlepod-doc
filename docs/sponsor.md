@@ -200,6 +200,7 @@ values={[
 - Đỗ Như Hoàng An - `21 USDC`
 - Quang - `21 USDC`
 - CuongMU - `21 USDC`
+- namson - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -343,6 +344,7 @@ values={[
 - JrSam - `11 USDC`
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
+- Hoa - `11 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - cealyn - `10.12 USDC`
