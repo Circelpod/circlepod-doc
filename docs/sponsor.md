@@ -69,6 +69,7 @@ values={[
 - lao-feng666 - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
+- ÖZGÜR BOZKURT - `40 USDC`
 - Jhon - `36 USDC`
 - Shet Yae - `35 USDC`
 - bobby - `35 USDC`
@@ -92,6 +93,7 @@ values={[
 - boo_pro - `25 USDC`
 - xodt89 - `25 USDC`
 - EkkoChan - `24 USDC`
+- Babajide Babatunde - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
 - prince - `23 USDC`
@@ -113,6 +115,8 @@ values={[
 - NGUYEN THANH HAI - `22 USDC`
 - hungqh123 - `22 USDC`
 - hoangcao - `22 USDC`
+- damngoc - `22 USDC`
+- Binod - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
 - Gamalie - `21.906781 USDC`
 - Phuc Hau - `21.9 USDC`
@@ -201,6 +205,8 @@ values={[
 - Quang - `21 USDC`
 - CuongMU - `21 USDC`
 - namson - `21 USDC`
+- Mastah Ico - `21 USDC`
+- Thanh Liem - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -218,6 +224,7 @@ values={[
 - Mr T - `20.5 USDC`
 - Loc - `20.5 USDC`
 - afero - `20.5 USDC`
+- Quang Hung - `20.5 USDC`
 - lifeneatify - `20.48 USDC`
 - - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
@@ -229,11 +236,13 @@ values={[
 - Tom - `20.2 USDC`
 - Ridho Kevind - `20.2 USDC`
 - luong vinh thao - `20.2 USDC`
+- Tanlgl7 - `20.2 USDC`
 - FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
 - wang - `20.11 USDC`
 - yuki - `20.11 USDC`
+- Trung Nguyên - `20.108765 USDC`
 - Keleman - `20.1 USDC`
 - Clementine - `20.1 USDC`
 - Kemp - `20.1 USDC`
@@ -325,6 +334,13 @@ values={[
 - webos - `20 USDC`
 - Ikbal - `20 USDC`
 - nghiho - `20 USDC`
+- Nguyen Thanh Tung - `20 USDC`
+- Nguyen Thanh Son - `20 USDC`
+- Ta Phuoc Loi - `20 USDC`
+- Thanh Tuyen - `20 USDC`
+- Lee Min - `20 USDC`
+- Gans Bils - `20 USDC`
+- Helena Kim - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -334,6 +350,7 @@ values={[
 - wangminhei - `12.84 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
+- Anh thu - `12 USDC`
 - KingOfLong - `11.100574 USDC`
 - kang berak - `11 USDC`
 - JonathanX - `11 USDC`
@@ -347,6 +364,7 @@ values={[
 - Hoa - `11 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
+- zhuowenxue - `10.2 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
 - f719vk1429 - `10.11 USDC`
@@ -417,6 +435,8 @@ values={[
 - Rio Krisdianto - `10 USDC`
 - Kang - `10 USDC`
 - lamlele69 - `10 USDC`
+- Tam - `10 USDC`
+- lamlele69 | SoS - `10 USDC`
 
 </TabItem>
 <TabItem value="bronze">
