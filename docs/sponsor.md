@@ -117,6 +117,7 @@ values={[
 - hoangcao - `22 USDC`
 - damngoc - `22 USDC`
 - Binod - `22 USDC`
+- anhanh93 - `22 USDC`
 - Mai An Tiem - `21.976231 USDC`
 - Gamalie - `21.906781 USDC`
 - Phuc Hau - `21.9 USDC`
