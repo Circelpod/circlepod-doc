@@ -66,6 +66,7 @@ values={[
 - rickyhcn - `52.2 USDC`
 - lao-feng666 - `50 USDC`
 - Danu Alfian - `44.436172 USDC`
+- The Manh - `42 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
@@ -204,8 +205,6 @@ values={[
 - Tuấn Phương - `21 USDC`
 - Ikhwan - `21 USDC`
 - Noname - `21 USDC`
-- The Manh - `21 USDC`
-- Le - `21 USDC`
 - Pham Xuan Truong - `21 USDC`
 - Pham Van Luan - `21 USDC`
 - Dinh Thanh Giang - `21 USDC`
@@ -213,7 +212,6 @@ values={[
 - hoangthang - `21 USDC`
 - huyvu69 - `21 USDC`
 - Yehestiel Siburian - `21 USDC`
-- The Manh - `21 USDC`
 - viettiendt93 - `21 USDC`
 - jianglingyan - `21 USDC`
 - Aldi - `21 USDC`
