@@ -59,13 +59,14 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 DAI LINYUN - `55 USDC`
-- 🥈 Jack Stan - `52.56 USDC`
-- 🥉 rickyhcn - `52.2 USDC`
+- 🥇 Pad720119 - `73 USDC`
+- 🥈 DAI LINYUN - `55 USDC`
+- 🥉 Jack Stan - `52.56 USDC`
 
 </TabItem>
 <TabItem value="golden">
 
+- rickyhcn - `52.2 USDC`
 - lao-feng666 - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
@@ -92,8 +93,11 @@ values={[
 - Gin - `25 USDC`
 - boo_pro - `25 USDC`
 - xodt89 - `25 USDC`
+- qingdi - `25 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
+- Santosh - `24 USDC`
+- Ravi - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
 - prince - `23 USDC`
@@ -208,6 +212,7 @@ values={[
 - namson - `21 USDC`
 - Mastah Ico - `21 USDC`
 - Thanh Liem - `21 USDC`
+- MambaBlack - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -363,6 +368,7 @@ values={[
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
 - Hoa - `11 USDC`
+- Muchamad Rafy - `10.506833 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - zhuowenxue - `10.2 USDC`
