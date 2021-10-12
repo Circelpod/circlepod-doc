@@ -74,9 +74,11 @@ values={[
 - Shet Yae - `35 USDC`
 - bobby - `35 USDC`
 - triasahoy - `35 USDC`
+- Army Tribe - `35 USDC`
 - bik - `34.6 USDC`
 - skymmoe - `33 USDC`
 - fonoter - `32.1 USDC`
+- Cuan Bersama - `32 USDC`
 - sniksine - `31.8 USDC`
 - Linh - `31.459731 USDC`
 - insom - `31.1 USDC`
@@ -89,6 +91,7 @@ values={[
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
 - mrbig - `30 USDC`
+- Rich Soon - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
