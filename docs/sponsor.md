@@ -80,6 +80,7 @@ values={[
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
+- mrbig - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -94,6 +95,7 @@ values={[
 - boo_pro - `25 USDC`
 - xodt89 - `25 USDC`
 - qingdi - `25 USDC`
+- Rosie - `25 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
 - Santosh - `24 USDC`
@@ -105,6 +107,7 @@ values={[
 - BOB - `23 USDC`
 - Onur - `23 USDC`
 - Pinocchio - `23 USDC`
+- Nguyen Tran Vu - `23 USDC`
 - Lzy - `22.2 USDC`
 - Mores - `22.1 USDC`
 - Kacee Rex - `22 USDC`
@@ -213,6 +216,8 @@ values={[
 - Mastah Ico - `21 USDC`
 - Thanh Liem - `21 USDC`
 - MambaBlack - `21 USDC`
+- Dan - `21 USDC`
+- Huy - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -369,6 +374,7 @@ values={[
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
 - Hoa - `11 USDC`
+- Anh Le - `11 USDC`
 - Muchamad Rafy - `10.506833 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
@@ -477,6 +483,8 @@ values={[
 - 心的距离 - `1.29 USDC`
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
+- dandan - `1.2 USDC`
+- boncalongtong - `1.2 USDC`
 - heiyeheiyez139 - `1.12 USDC`
 - lamvan - `1.11 USDC`
 - Zanns - `1.1 USDC`
@@ -485,6 +493,7 @@ values={[
 - Eula - `1.1 USDC`
 - Snow - `1.1 USDC`
 - Sakti - `1.1 USDC`
+- Megalondo - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
