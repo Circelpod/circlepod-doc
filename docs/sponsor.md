@@ -6,11 +6,11 @@ sidebar_position: 12
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than \$20, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than $20 (until `10/18 00:00(UTC+8)`, $30 after that), You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than \$10, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than $10 (until `10/18 00:00(UTC+8)`, $25 after that), sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
-- **If your sponsorship amount is greater than \$1, you will get a special Discord Role.**
+- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -24,10 +24,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)(\$20)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($20 until **10/18 00:00(UTC+8)**, $30 after that)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist(\$10)
-- ✨ Special Discord Role(\$1)
+- ✨ IDO whitelist($10 until **10/18 00:00(UTC+8)**, $25 after that)
+- ✨ Special Discord Role($1)
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
@@ -52,20 +52,17 @@ import TabItem from '@theme/TabItem';
 <Tabs 
 defaultValue="top"
 values={[
-{label: 'Top Sponsor 🚀', value: 'top'},
-{label: 'Golden Sponsor 🛩', value: 'golden'},
-{label: 'Silver Sponsor 🚂', value: 'silver'},
-{label: 'Bronze Sponsor 🚘', value: 'bronze'},
+{label: 'Galaxy Sponsor 🚀', value: 'top'},
+{label: 'Stellar Sponsor 🛩', value: 'golden'},
+{label: 'Planetary Sponsor 🚂', value: 'silver'},
+{label: 'Satellite Sponsor 🚘', value: 'bronze'},
 ]}>
 <TabItem value="top">
 
-- 🥇 DAI LINYUN - `55 USDC`
-- 🥈 Jack Stan - `52.56 USDC`
-- 🥉 rickyhcn - `52.2 USDC`
-
-</TabItem>
-<TabItem value="golden">
-
+- 🥇 Pad720119 - `73 USDC`
+- 🥈 DAI LINYUN - `55 USDC`
+- 🥉 Jack Stan - `52.56 USDC`
+- rickyhcn - `52.2 USDC`
 - lao-feng666 - `50 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
@@ -83,6 +80,10 @@ values={[
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
+
+</TabItem>
+<TabItem value="golden">
+
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
 - afqz135 - `25 USDC`
@@ -92,8 +93,11 @@ values={[
 - Gin - `25 USDC`
 - boo_pro - `25 USDC`
 - xodt89 - `25 USDC`
+- qingdi - `25 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
+- Santosh - `24 USDC`
+- Ravi - `24 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
 - prince - `23 USDC`
@@ -208,6 +212,7 @@ values={[
 - namson - `21 USDC`
 - Mastah Ico - `21 USDC`
 - Thanh Liem - `21 USDC`
+- MambaBlack - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -342,6 +347,7 @@ values={[
 - Lee Min - `20 USDC`
 - Gans Bils - `20 USDC`
 - Helena Kim - `20 USDC`
+- im kas - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -363,6 +369,7 @@ values={[
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
 - Hoa - `11 USDC`
+- Muchamad Rafy - `10.506833 USDC`
 - Giang - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - zhuowenxue - `10.2 USDC`
