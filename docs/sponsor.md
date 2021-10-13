@@ -59,12 +59,14 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Mai An Tiem - `100 USDC`
-- 🥈 Pad720119 - `73 USDC`
-- 🥉 DAI LINYUN - `55 USDC`
+- 🥇 Ipeenk - `102 USDC`
+- 🥈 Mai An Tiem - `100 USDC`
+- 🥉 Pad720119 - `73 USDC`
+- DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
 - lao-feng666 - `50 USDC`
+- Roman - `50 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
 - kabu - `41 USDC`
@@ -505,10 +507,13 @@ values={[
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
 - luon - `1.215 USDC`
+- kama#9101 - `1.211 USDC`
 - hdv#2953 - `1.21 USDC`
+- chuchoada#2974 - `1.205 USDC`
 - hanghang - `1.203 USDC`
 - tientien - `1.201 USDC`
 - cartoon#3317 - `1.201 USDC`
+- cuocdoike#7338 - `1.2009 USDC`
 - dandan - `1.2 USDC`
 - boncalongtong - `1.2 USDC`
 - giabao#7036 - `1.191 USDC`
