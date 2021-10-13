@@ -59,12 +59,14 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Mai An Tiem - `100 USDC`
-- 🥈 Pad720119 - `73 USDC`
-- 🥉 DAI LINYUN - `55 USDC`
+- 🥇 Ipeenk - `102 USDC`
+- 🥈 Mai An Tiem - `100 USDC`
+- 🥉 Pad720119 - `73 USDC`
+- DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
 - lao-feng666 - `50 USDC`
+- Roman - `50 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
 - kabu - `41 USDC`
@@ -77,6 +79,7 @@ values={[
 - Army Tribe - `35 USDC`
 - bik - `34.6 USDC`
 - skymmoe - `33 USDC`
+- zee - `33 USDC`
 - fonoter - `32.1 USDC`
 - Cuan Bersama - `32 USDC`
 - sniksine - `31.8 USDC`
@@ -230,6 +233,7 @@ values={[
 - Huy - `21 USDC`
 - Taufikhd - `21 USDC`
 - MrDetCrypto - `21 USDC`
+- Dimas Rizki - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
@@ -504,10 +508,16 @@ values={[
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
 - luon - `1.215 USDC`
+- kama#9101 - `1.211 USDC`
+- hdv#2953 - `1.21 USDC`
+- chuchoada#2974 - `1.205 USDC`
 - hanghang - `1.203 USDC`
 - tientien - `1.201 USDC`
+- cartoon#3317 - `1.201 USDC`
+- cuocdoike#7338 - `1.2009 USDC`
 - dandan - `1.2 USDC`
 - boncalongtong - `1.2 USDC`
+- giabao#7036 - `1.191 USDC`
 - vhd - `1.1901 USDC`
 - tan - `1.19 USDC`
 - huu - `1.18 USDC`
@@ -537,6 +547,7 @@ values={[
 - samduxl - `1 USDC`
 - nghiho99 - `1 USDC`
 - fgwehhs45 - `1 USDC`
+- Abdulk - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
