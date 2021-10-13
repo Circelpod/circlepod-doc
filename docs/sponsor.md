@@ -77,6 +77,7 @@ values={[
 - bobby - `35 USDC`
 - triasahoy - `35 USDC`
 - Army Tribe - `35 USDC`
+- Revenge - `35 USDC`
 - bik - `34.6 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
@@ -234,7 +235,10 @@ values={[
 - Taufikhd - `21 USDC`
 - MrDetCrypto - `21 USDC`
 - Dimas Rizki - `21 USDC`
+- Kangshou - `21 USDC`
+- Hai Hoan - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
+- lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
 - khanh94 - `20.8 USDC`
@@ -374,6 +378,7 @@ values={[
 - im kas - `20 USDC`
 - Leon - `20 USDC`
 - Quan Pham - `20 USDC`
+- ganesh - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -549,6 +554,7 @@ values={[
 - nghiho99 - `1 USDC`
 - fgwehhs45 - `1 USDC`
 - Abdulk - `1 USDC`
+- Dang Dinh Nguyen - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
