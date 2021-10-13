@@ -522,6 +522,7 @@ values={[
 - tan - `1.19 USDC`
 - huu - `1.18 USDC`
 - hieu - `1.15 USDC`
+- Abdullahi Mohammed - `1.134 USDC`
 - heiyeheiyez139 - `1.12 USDC`
 - lamvan - `1.11 USDC`
 - Zanns - `1.1 USDC`
