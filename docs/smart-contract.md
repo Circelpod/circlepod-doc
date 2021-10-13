@@ -12,3 +12,5 @@ sidebar_position: 13
 ## Official Wallet
 
 - [8873phvwSrmXVjWAehvxcUGyRwjhGWhbgsMSHdKSxxe5](https://solscan.io/account/8873phvwSrmXVjWAehvxcUGyRwjhGWhbgsMSHdKSxxe5)
+
+- [NFTsTFKQ1SbC39Wa6ykUoHMiafrrbmwapueQtY7Vh3i](https://solscan.io/account/NFTsTFKQ1SbC39Wa6ykUoHMiafrrbmwapueQtY7Vh3i)
