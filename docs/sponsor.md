@@ -233,6 +233,7 @@ values={[
 - Huy - `21 USDC`
 - Taufikhd - `21 USDC`
 - MrDetCrypto - `21 USDC`
+- Dimas Rizki - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
