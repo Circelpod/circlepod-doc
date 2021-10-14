@@ -89,6 +89,7 @@ values={[
 - Linh - `31.459731 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
+- dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
@@ -239,6 +240,7 @@ values={[
 - Kangshou - `21 USDC`
 - Hai Hoan - `21 USDC`
 - Anh Le - `21 USDC`
+- VinhVD - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
@@ -323,6 +325,7 @@ values={[
 - nghiho - `20.1 USDC`
 - Ken Tran - `20.1 USDC`
 - Vu Xuan Hai - `20.1 USDC`
+- giangbui - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -381,6 +384,7 @@ values={[
 - Leon - `20 USDC`
 - Quan Pham - `20 USDC`
 - ganesh - `20 USDC`
+- yan - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
