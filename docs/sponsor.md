@@ -79,14 +79,17 @@ values={[
 - Army Tribe - `35 USDC`
 - Revenge - `35 USDC`
 - bik - `34.6 USDC`
+- Haitet - `34 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
 - fonoter - `32.1 USDC`
 - Cuan Bersama - `32 USDC`
+- damngoc - `32 USDC`
 - sniksine - `31.8 USDC`
 - Linh - `31.459731 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
+- dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
@@ -138,7 +141,6 @@ values={[
 - NGUYEN THANH HAI - `22 USDC`
 - hungqh123 - `22 USDC`
 - hoangcao - `22 USDC`
-- damngoc - `22 USDC`
 - Binod - `22 USDC`
 - anhanh93 - `22 USDC`
 - humble - `22 USDC`
@@ -237,6 +239,8 @@ values={[
 - Dimas Rizki - `21 USDC`
 - Kangshou - `21 USDC`
 - Hai Hoan - `21 USDC`
+- Anh Le - `21 USDC`
+- VinhVD - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
@@ -321,6 +325,7 @@ values={[
 - nghiho - `20.1 USDC`
 - Ken Tran - `20.1 USDC`
 - Vu Xuan Hai - `20.1 USDC`
+- giangbui - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -379,6 +384,7 @@ values={[
 - Leon - `20 USDC`
 - Quan Pham - `20 USDC`
 - ganesh - `20 USDC`
+- yan - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -400,7 +406,6 @@ values={[
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
 - Hoa - `11 USDC`
-- Anh Le - `11 USDC`
 - Muchamad Rafy - `10.506833 USDC`
 - Giang - `10.5 USDC`
 - Godsking - `10.5 USDC`
