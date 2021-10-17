@@ -271,6 +271,7 @@ values={[
 - walter - `21 USDC`
 - zicusa - `21 USDC`
 - Hidayat - `21 USDC`
+- jay chou - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
@@ -305,6 +306,7 @@ values={[
 - Ridho Kevind - `20.2 USDC`
 - luong vinh thao - `20.2 USDC`
 - Tanlgl7 - `20.2 USDC`
+- nh0k#4267 - `20.2 USDC`
 - FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
