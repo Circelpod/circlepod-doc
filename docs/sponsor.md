@@ -62,6 +62,7 @@ values={[
 - 🥇 Mai An Tiem - `108.9408415 USDC`
 - 🥈 Ipeenk - `102 USDC`
 - 🥉 Pad720119 - `73 USDC`
+- Oğuz - `61 USDC`
 - DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
@@ -102,7 +103,6 @@ values={[
 - Nagato - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
-- Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
