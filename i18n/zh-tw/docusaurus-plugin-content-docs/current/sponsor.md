@@ -232,8 +232,9 @@ values={[
 - Loc - `20.5 USDC`
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
+- Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
-- - Bnh - `20.46273 USDC`
+- Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
 - Backsky - `20.21 USDC`
 - hchc - `20.2 USDC`
