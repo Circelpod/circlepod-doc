@@ -6,9 +6,9 @@ sidebar_position: 12
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than $20 (until `10/18 00:00(UTC+8)`, $30 after that), You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than $10 (until `10/18 00:00(UTC+8)`, $25 after that), sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
 - **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
 
@@ -24,9 +24,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($20 until **10/18 00:00(UTC+8)**, $30 after that)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($10 until **10/18 00:00(UTC+8)**, $25 after that)
+- ✨ IDO whitelist($25)
 - ✨ Special Discord Role($1)
 - ✨ Priority to use the beta version
 
@@ -80,6 +80,7 @@ values={[
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
+- Vill Nguyen - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
