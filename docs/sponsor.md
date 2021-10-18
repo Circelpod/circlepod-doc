@@ -6,9 +6,9 @@ sidebar_position: 12
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than $20 (until `10/18 00:00(UTC+8)`, $30 after that), You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- **If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
 
-- **If your sponsorship amount is greater than $10 (until `10/18 00:00(UTC+8)`, $25 after that), sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- **If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
 
 - **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
 
@@ -24,9 +24,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($20 until **10/18 00:00(UTC+8)**, $30 after that)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($10 until **10/18 00:00(UTC+8)**, $25 after that)
+- ✨ IDO whitelist($25)
 - ✨ Special Discord Role($1)
 - ✨ Priority to use the beta version
 
@@ -62,6 +62,7 @@ values={[
 - 🥇 Mai An Tiem - `108.9408415 USDC`
 - 🥈 Ipeenk - `102 USDC`
 - 🥉 Pad720119 - `73 USDC`
+- Oğuz - `61 USDC`
 - DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
@@ -102,7 +103,6 @@ values={[
 - Nagato - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
-- Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
@@ -271,6 +271,7 @@ values={[
 - walter - `21 USDC`
 - zicusa - `21 USDC`
 - Hidayat - `21 USDC`
+- jay chou - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
@@ -305,6 +306,7 @@ values={[
 - Ridho Kevind - `20.2 USDC`
 - luong vinh thao - `20.2 USDC`
 - Tanlgl7 - `20.2 USDC`
+- nh0k#4267 - `20.2 USDC`
 - FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
