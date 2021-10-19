@@ -75,12 +75,14 @@ values={[
 - fonoter - `32.1 USDC`
 - sniksine - `31.8 USDC`
 - insom - `31.1 USDC`
+- Asad shah - `31 USDC`
 - faye2008 - `30 USDC`
 - Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
 - Vill Nguyen - `30 USDC`
+- Sanfrandev - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -232,8 +234,9 @@ values={[
 - Loc - `20.5 USDC`
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
+- Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
-- - Bnh - `20.46273 USDC`
+- Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
 - Backsky - `20.21 USDC`
 - hchc - `20.2 USDC`
@@ -349,6 +352,7 @@ values={[
 - Gans Bils - `20 USDC`
 - Helena Kim - `20 USDC`
 - im kas - `20 USDC`
+- Ichwaan - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
