@@ -75,12 +75,14 @@ values={[
 - fonoter - `32.1 USDC`
 - sniksine - `31.8 USDC`
 - insom - `31.1 USDC`
+- Asad shah - `31 USDC`
 - faye2008 - `30 USDC`
 - Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
 - Vill Nguyen - `30 USDC`
+- Sanfrandev - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -350,6 +352,7 @@ values={[
 - Gans Bils - `20 USDC`
 - Helena Kim - `20 USDC`
 - im kas - `20 USDC`
+- Ichwaan - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
