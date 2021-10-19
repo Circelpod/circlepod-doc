@@ -74,9 +74,7 @@ values={[
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
 - Pandapenguin - `41.8 USDC`
-- nghiho - `41.1 USDC`
 - kabu - `41 USDC`
-- ode - `41 USDC`
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
 - Jhon - `36 USDC`
@@ -85,6 +83,7 @@ values={[
 - triasahoy - `35 USDC`
 - Army Tribe - `35 USDC`
 - Revenge - `35 USDC`
+- aurellia - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
 - skymmoe - `33 USDC`
@@ -99,7 +98,9 @@ values={[
 - nguyenvu060595 - `31 USDC`
 - PutriA - `31 USDC`
 - Anh Le - `31 USDC`
+- Asad shah - `31 USDC`
 - dang tuan huy - `30.7 USDC`
+- AirdropSangihe - `30.06 USDC`
 - Nagato - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
@@ -109,6 +110,10 @@ values={[
 - mrbig - `30 USDC`
 - Rich Soon - `30 USDC`
 - Kierk - `30 USDC`
+- Sanfrandev - `30 USDC`
+- dombex#6681 - `30 USDC`
+- jovanka89#4635 - `30 USDC`
+- cleopatra#7734 - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -272,6 +277,8 @@ values={[
 - zicusa - `21 USDC`
 - Hidayat - `21 USDC`
 - jay chou - `21 USDC`
+- Huynh - `21 USDC`
+- DoneRiego - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
 - lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
@@ -294,6 +301,7 @@ values={[
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
 - CaptainTee - `20.5 USDC`
+- Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
 - - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
@@ -421,6 +429,9 @@ values={[
 - yan - `20 USDC`
 - AnBach - `20 USDC`
 - maixuandong - `20 USDC`
+- Ichwaan - `20 USDC`
+- nghiho - `20 USDC`
+- ode - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">

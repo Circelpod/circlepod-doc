@@ -59,48 +59,84 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Pad720119 - `73 USDC`
-- 🥈 DAI LINYUN - `55 USDC`
-- 🥉 Jack Stan - `52.56 USDC`
+- 🥇 Mai An Tiem - `108.9408415 USDC`
+- 🥈 Ipeenk - `102 USDC`
+- 🥉 Pad720119 - `73 USDC`
+- Oğuz - `61 USDC`
+- DAI LINYUN - `55 USDC`
+- Jack Stan - `52.56 USDC`
 - rickyhcn - `52.2 USDC`
+- Phantc - `51.8566 USDC`
 - lao-feng666 - `50 USDC`
+- Roman - `50 USDC`
+- Harish Jangra - `48.256029 USDC`
+- Gin - `45 USDC`
+- Danu Alfian - `44.436172 USDC`
+- The Manh - `42 USDC`
+- Pandapenguin - `41.8 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
 - Jhon - `36 USDC`
 - Shet Yae - `35 USDC`
 - bobby - `35 USDC`
+- triasahoy - `35 USDC`
+- Army Tribe - `35 USDC`
+- Revenge - `35 USDC`
+- aurellia - `35 USDC`
 - bik - `34.6 USDC`
+- Haitet - `34 USDC`
 - skymmoe - `33 USDC`
+- zee - `33 USDC`
+- GunGun - `32.9 USDC`
 - fonoter - `32.1 USDC`
+- Cuan Bersama - `32 USDC`
+- damngoc - `32 USDC`
 - sniksine - `31.8 USDC`
+- Linh - `31.459731 USDC`
 - insom - `31.1 USDC`
+- nguyenvu060595 - `31 USDC`
+- PutriA - `31 USDC`
+- Anh Le - `31 USDC`
 - Asad shah - `31 USDC`
+- dang tuan huy - `30.7 USDC`
+- AirdropSangihe - `30.06 USDC`
+- Nagato - `30.5 USDC`
+- Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
-- Oğuz - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
 - TrungNguyen - `30 USDC`
-- Vill Nguyen - `30 USDC`
+- mrbig - `30 USDC`
+- Rich Soon - `30 USDC`
+- Kierk - `30 USDC`
 - Sanfrandev - `30 USDC`
+- dombex#6681 - `30 USDC`
+- jovanka89#4635 - `30 USDC`
+- cleopatra#7734 - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
 
+- zaibi - `26.5 USDC`
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
 - Saveliy - `25 USDC`
 - Rito797 - `25 USDC`
-- Gin - `25 USDC`
 - boo_pro - `25 USDC`
 - xodt89 - `25 USDC`
 - qingdi - `25 USDC`
+- Rosie - `25 USDC`
+- SmartecVitalik - `25 USDC`
+- Cuong - `24.88 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
 - Santosh - `24 USDC`
 - Ravi - `24 USDC`
+- Helena Kim - `24 USDC`
+- Dolpinhooo - `23.9 USDC`
 - Diego - `23 USDC`
 - liudachui - `23 USDC`
 - prince - `23 USDC`
@@ -108,6 +144,8 @@ values={[
 - BOB - `23 USDC`
 - Onur - `23 USDC`
 - Pinocchio - `23 USDC`
+- Nguyen Tran Vu - `23 USDC`
+- Ada2019 - `23 USDC`
 - Lzy - `22.2 USDC`
 - Mores - `22.1 USDC`
 - Kacee Rex - `22 USDC`
@@ -122,16 +160,18 @@ values={[
 - NGUYEN THANH HAI - `22 USDC`
 - hungqh123 - `22 USDC`
 - hoangcao - `22 USDC`
-- damngoc - `22 USDC`
 - Binod - `22 USDC`
 - anhanh93 - `22 USDC`
-- Mai An Tiem - `21.976231 USDC`
+- humble - `22 USDC`
+- Muchamad Wahyu - `22 USDC`
 - Gamalie - `21.906781 USDC`
 - Phuc Hau - `21.9 USDC`
 - 小怪兽 - `21.5 USDC`
 - 信和 - `21.5 USDC`
 - huyduc112 - `21.5 USDC`
+- Bagas Aldi - `21.4 USDC`
 - hodl - `21.17 USDC`
+- SonGio1702 - `21.16 USDC`
 - m6cat - `21.11 USDC`
 - z 旷 - `21.1 USDC`
 - Miracle - `21.1 USDC`
@@ -195,8 +235,6 @@ values={[
 - Tuấn Phương - `21 USDC`
 - Ikhwan - `21 USDC`
 - Noname - `21 USDC`
-- The Manh - `21 USDC`
-- Le - `21 USDC`
 - Pham Xuan Truong - `21 USDC`
 - Pham Van Luan - `21 USDC`
 - Dinh Thanh Giang - `21 USDC`
@@ -204,7 +242,6 @@ values={[
 - hoangthang - `21 USDC`
 - huyvu69 - `21 USDC`
 - Yehestiel Siburian - `21 USDC`
-- The Manh - `21 USDC`
 - viettiendt93 - `21 USDC`
 - jianglingyan - `21 USDC`
 - Aldi - `21 USDC`
@@ -216,15 +253,44 @@ values={[
 - Mastah Ico - `21 USDC`
 - Thanh Liem - `21 USDC`
 - MambaBlack - `21 USDC`
+- Dan - `21 USDC`
+- Huy - `21 USDC`
+- Taufikhd - `21 USDC`
+- MrDetCrypto - `21 USDC`
+- Dimas Rizki - `21 USDC`
+- Kangshou - `21 USDC`
+- Hai Hoan - `21 USDC`
+- VinhVD - `21 USDC`
+- Calicocat - `21 USDC`
+- Jane - `21 USDC`
+- albrtmk - `21 USDC`
+- jonni subagyo - `21 USDC`
+- Hieu Thanh Hieu - `21 USDC`
+- y kuom - `21 USDC`
+- mahue - `21 USDC`
+- nguyen tuan lien - `21 USDC`
+- buonbrah - `21 USDC`
+- etar - `21 USDC`
+- lanzo logan - `21 USDC`
+- Martha A. Whitman - `21 USDC`
+- walter - `21 USDC`
+- zicusa - `21 USDC`
+- Hidayat - `21 USDC`
+- jay chou - `21 USDC`
+- Huynh - `21 USDC`
+- DoneRiego - `21 USDC`
 - a710144974@gmail.com - `20.999 USDC`
+- lfx0828 - `20.99 USDC`
 - wayne - `20.9 USDC`
 - LeTu54824879 - `20.89 USDC`
 - khanh94 - `20.8 USDC`
 - cungkhai9 - `20.7 USDC`
+- Restu Kersana - `20.67 USDC`
 - gao - `20.66 USDC`
 - mr Dung - `20.6 USDC`
 - hai minh - `20.6 USDC`
 - Just aditya - `20.59 USDC`
+- NgoKhong - `20.586 USDC`
 - woaihsr - `20.5 USDC`
 - 勿忘心安 - `20.5 USDC`
 - aosikafaguoka - `20.5 USDC`
@@ -234,9 +300,10 @@ values={[
 - Loc - `20.5 USDC`
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
+- CaptainTee - `20.5 USDC`
 - Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
-- Bnh - `20.46273 USDC`
+- - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
 - Backsky - `20.21 USDC`
 - hchc - `20.2 USDC`
@@ -247,6 +314,7 @@ values={[
 - Ridho Kevind - `20.2 USDC`
 - luong vinh thao - `20.2 USDC`
 - Tanlgl7 - `20.2 USDC`
+- nh0k#4267 - `20.2 USDC`
 - FMR - `20.14234 USDC`
 - Lambu99 - `20.14 USDC`
 - 大队长 - `20.115 USDC`
@@ -296,7 +364,11 @@ values={[
 - Mr Phong - `20.1 USDC`
 - Rahmad - `20.1 USDC`
 - sondq - `20.1 USDC`
-- nghiho - `20.1 USDC`
+- Ken Tran - `20.1 USDC`
+- Vu Xuan Hai - `20.1 USDC`
+- giangbui - `20.1 USDC`
+- DinhTien - `20.1 USDC`
+- Thanh - `20.1 USDC`
 - zde - `20.09 USDC`
 - zzz - `20.08 USDC`
 - f032mm4236 - `20.08 USDC`
@@ -307,6 +379,7 @@ values={[
 - dc - `20.05 USDC`
 - q400qs9714 - `20.05 USDC`
 - MinhTung - `20.05 USDC`
+- sisil - `20.05 USDC`
 - Faqihsu - `20.043784 USDC`
 - mrliang - `20.04 USDC`
 - zsw - `20.04 USDC`
@@ -333,7 +406,6 @@ values={[
 - huangyuelin - `20 USDC`
 - chen zhuoran - `20 USDC`
 - aunt.W - `20 USDC`
-- ode - `20 USDC`
 - HaiTrx - `20 USDC`
 - Delapan - `20 USDC`
 - Ari - `20 USDC`
@@ -350,9 +422,16 @@ values={[
 - Thanh Tuyen - `20 USDC`
 - Lee Min - `20 USDC`
 - Gans Bils - `20 USDC`
-- Helena Kim - `20 USDC`
 - im kas - `20 USDC`
+- Leon - `20 USDC`
+- Quan Pham - `20 USDC`
+- ganesh - `20 USDC`
+- yan - `20 USDC`
+- AnBach - `20 USDC`
+- maixuandong - `20 USDC`
 - Ichwaan - `20 USDC`
+- nghiho - `20 USDC`
+- ode - `20 USDC`
 
 </TabItem>
 <TabItem value="silver">
@@ -364,6 +443,7 @@ values={[
 - 蒋 - `12.5 USDC`
 - Anh thu - `12 USDC`
 - KingOfLong - `11.100574 USDC`
+- trinhthai13 - `11.1 USDC`
 - kang berak - `11 USDC`
 - JonathanX - `11 USDC`
 - luthfi - `11 USDC`
@@ -374,10 +454,17 @@ values={[
 - hdhuy97 - `11 USDC`
 - Arta Faldy - `11 USDC`
 - Hoa - `11 USDC`
+- Phuc Nguyen - `11 USDC`
+- Kingsley - `11 USDC`
+- Raihanrizqy - `11 USDC`
 - Muchamad Rafy - `10.506833 USDC`
 - Giang - `10.5 USDC`
+- Godsking - `10.5 USDC`
+- Balmond - `10.5 USDC`
+- JohnnyJesus - `10.5 USDC`
 - Taodaaaa - `10.2 USDC`
 - zhuowenxue - `10.2 USDC`
+- TU - `10.125 USDC`
 - cealyn - `10.12 USDC`
 - alison - `10.11 USDC`
 - f719vk1429 - `10.11 USDC`
@@ -426,6 +513,7 @@ values={[
 - houshuai - `10.1 USDC`
 - gfh - `10.1 USDC`
 - Kris - `10.1 USDC`
+- duc bui - `10.1 USDC`
 - a516fr3627 - `10.05 USDC`
 - h562dj0961 - `10.05 USDC`
 - h233rx5327 - `10.05 USDC`
@@ -433,6 +521,7 @@ values={[
 - weixuruci - `10.022956 USDC`
 - xiaohua - `10.011 USDC`
 - boboluo - `10.01 USDC`
+- jephx - `10.01 USDC`
 - nasir - `10.001 USDC`
 - xiaojun song - `10 USDC`
 - JimmyLao - `10 USDC`
@@ -450,6 +539,9 @@ values={[
 - lamlele69 - `10 USDC`
 - Tam - `10 USDC`
 - lamlele69 | SoS - `10 USDC`
+- Rahmat - `10 USDC`
+- Nasir - `10 USDC`
+- Udin - `10 USDC`
 
 </TabItem>
 <TabItem value="bronze">
@@ -478,10 +570,27 @@ values={[
 - Lario - `3 USDC`
 - Arya - `2 USDC`
 - M aziz yahya - `1.5 USDC`
+- Khaleelulkhayr - `1.5 USDC`
 - 卢晓情 - `1.29 USDC`
 - 心的距离 - `1.29 USDC`
 - 余温 - `1.29 USDC`
 - 嘀嗒嘀 - `1.29 USDC`
+- luon - `1.215 USDC`
+- kama#9101 - `1.211 USDC`
+- hdv#2953 - `1.21 USDC`
+- chuchoada#2974 - `1.205 USDC`
+- hanghang - `1.203 USDC`
+- tientien - `1.201 USDC`
+- cartoon#3317 - `1.201 USDC`
+- cuocdoike#7338 - `1.2009 USDC`
+- dandan - `1.2 USDC`
+- boncalongtong - `1.2 USDC`
+- giabao#7036 - `1.191 USDC`
+- vhd - `1.1901 USDC`
+- tan - `1.19 USDC`
+- huu - `1.18 USDC`
+- hieu - `1.15 USDC`
+- Abdullahi Mohammed - `1.134 USDC`
 - heiyeheiyez139 - `1.12 USDC`
 - lamvan - `1.11 USDC`
 - Zanns - `1.1 USDC`
@@ -490,6 +599,7 @@ values={[
 - Eula - `1.1 USDC`
 - Snow - `1.1 USDC`
 - Sakti - `1.1 USDC`
+- Megalondo - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
@@ -505,6 +615,8 @@ values={[
 - samduxl - `1 USDC`
 - nghiho99 - `1 USDC`
 - fgwehhs45 - `1 USDC`
+- Abdulk - `1 USDC`
+- Dang Dinh Nguyen - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
