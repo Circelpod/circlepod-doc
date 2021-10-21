@@ -86,6 +86,7 @@ values={[
 - aurellia - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
+- Sangihe - `33.06 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
 - GunGun - `32.9 USDC`
@@ -99,9 +100,10 @@ values={[
 - PutriA - `31 USDC`
 - Anh Le - `31 USDC`
 - Asad shah - `31 USDC`
+- Vydha - `31 USDC`
 - dang tuan huy - `30.7 USDC`
-- AirdropSangihe - `30.06 USDC`
 - Nagato - `30.5 USDC`
+- Đào Cường - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
 - Bheghe - `30 USDC`
@@ -114,6 +116,7 @@ values={[
 - dombex#6681 - `30 USDC`
 - jovanka89#4635 - `30 USDC`
 - cleopatra#7734 - `30 USDC`
+- Ilham - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
