@@ -18,5 +18,13 @@
   "item.label.Home": {
     "message": "Home",
     "description": "Navbar item with label Home"
+  },
+  "item.label.Request ticket": {
+    "message": "Request ticket",
+    "description": "Navbar item with label Request ticket"
+  },
+  "item.label.Devnet App": {
+    "message": "Devnet App",
+    "description": "Navbar item with label Devnet App"
   }
 }
