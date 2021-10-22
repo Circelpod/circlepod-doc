@@ -78,5 +78,25 @@
   "sidebar.tutorialSidebar.category.Discord": {
     "message": "Discord",
     "description": "The label for category Discord in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Promoter (Now)": {
+    "message": "Circlepod Promoter (Now)",
+    "description": "The label for category Circlepod Promoter (Now) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vote & Support (It's over)": {
+    "message": "Vote & Support (It's over)",
+    "description": "The label for category Vote & Support (It's over) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Wallet": {
+    "message": "Circlepod Wallet",
+    "description": "The label for category Circlepod Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Protocol": {
+    "message": "Protocol",
+    "description": "The label for category Protocol in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod NFTs": {
+    "message": "Circlepod NFTs",
+    "description": "The label for category Circlepod NFTs in sidebar tutorialSidebar"
   }
 }

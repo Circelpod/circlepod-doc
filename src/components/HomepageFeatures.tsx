@@ -6,22 +6,23 @@ import Translate, { translate } from "@docusaurus/Translate";
 const FeatureList = [
   {
     title: translate({
-      id: 'homepage.ietm.title.1',
-      message: "Next Podcast",
+      id: "homepage.ietm.title.1",
+      message: "Next Media",
     }),
     Svg: require("../../static/img/img-next-podacst.svg").default,
     description: (
       <>
         <Translate id="homepage.item.1">
-          Next Generation Podcast with NFT and Solana, create more interactivity
-          and entertainment.
+          Next Generation Podcast combined with NFT and Solana, Media
+          Metaverse ecosystem, special media protocol guide players to
+          experience the new world.
         </Translate>
       </>
     ),
   },
   {
     title: translate({
-      id: 'homepage.ietm.title.2',
+      id: "homepage.ietm.title.2",
       message: "Focus on Creative",
     }),
     Svg: require("../../static/img/img-focus-on-creative.svg").default,
@@ -36,7 +37,7 @@ const FeatureList = [
   },
   {
     title: translate({
-      id: 'homepage.ietm.title.3',
+      id: "homepage.ietm.title.3",
       message: "Solana Ecosystem",
     }),
     Svg: require("../../static/img/img-solana-ecosystem@3x.svg").default,

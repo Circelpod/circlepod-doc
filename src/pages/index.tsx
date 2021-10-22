@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Next Generation Podcast with NFT and Solana"
+      description="Next Generation Podcast combined with NFT and Solana"
     >
       <HomepageHeader />
       <main>

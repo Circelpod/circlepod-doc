@@ -8,7 +8,7 @@ sidebar_position: 2
 
 The channel is a kind of NFT, and audience can stake CPX through their support to increase the energy value. The certified Podcaster can get the energy dividend stored in the NFT.
 
-👉 More Details: [Click Here](/docs/channel/channel) !
+👉 More Details: [Click Here](/docs/protocol/channel/channel) !
 
 ## What is Supportive Token?
 
