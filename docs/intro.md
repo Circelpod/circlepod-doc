@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Tutorial Intro
 
+![circlepod banner](/img/circlepod-banner.jpg)
+
 Let's discover **Circlepod Protocol in less than 5 minutes**.
 
 :::tip
