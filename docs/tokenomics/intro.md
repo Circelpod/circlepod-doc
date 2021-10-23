@@ -42,7 +42,7 @@ We plan to supply a total of `528,485,903` [CPX](/docs/smart-contract) within 4 
 
 ### Genesis Token Distribution
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
+<iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
 
 
 Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol tokens, 35% of our planned total issuance. The distribution of these tokens will be made as below:
@@ -50,9 +50,9 @@ Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol 
 * Team `(42.9%)`: Owned by the team and unlocked within 4 years. `79,272,885.45` tokens.
 * Liquidity `(14.3%)`: Used to maintain Token liquidity. Total `26,424,295.15` tokens.
 * Community Airdrops `(14.3%)`: Community airdrops for marketing activities and operations. Total `26,424,295.15` tokens.
-* Community Sale-1 `(8.6%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens.
-* Community Sale-2 `(5.7%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06`
-* community sale-3 `(14.3%)`: Institutional or community sale. Total `26,424,295.15` tokens.
+* Community Sale-2(option) `(8.6%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens.
+* Community Sale-3(option)`(5.7%)`: Community sales for friends who actively participate in the community. Total `10,569,718.06`
+* Community Sale-1`(14.3%)`:Community sales for friends who actively participate in the community. Total `26,424,295.15` tokens.
 
 > Sale: Team sales, and used to pay for development, personnel, marketing and operating expenses.
 
@@ -60,18 +60,18 @@ Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol 
 
 Total supply of CPX tokens will increase for 4 years due to inflation, until the total token supply becomes `528,485,903` CPX.
 
-<iframe width="600" height="375" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1138071665&amp;format=interactive"></iframe>
+<iframe width="800" height="375" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1138071665&amp;format=interactive"></iframe>
 
 * Team `(30%)`: Owned by the team, acquired both Genesis and every year. Locked for 4 years at the time of acquisition, for a total of 8 years. Total `158,545,770.90` tokens
 * Liquidity `(5%)`: Used to maintain Token liquidity. Total `26,424,295.15` tokens
 * Community Airdrops `(15%)`: Community airdrops for marketing activities and operations. Total `79,272,885.45` tokens
-* Community Sale-1 `(3%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens
-* Community Sale-2 `(2%)`: The second round of community sales for friends who actively participate in the community. Total `10,569,718.06` tokens
-* community sale-3 `(5%)`: Institutional or community sale. Total `26,424,295.15` tokens
+* Community Sale-2(option) `(3%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens
+* Community Sale-3(option)`(2%)`: Community sales for friends who actively participate in the community. Total `10,569,718.06` tokens
+* Community Sale-1`(5%)`: Community sales for friends who actively participate in the community. Total `26,424,295.15` tokens
 * Community Pool `(20%)`: Community pool, used for Governance Stake Reward. Total `105,697,180.60` tokens
 * Community Reward `(20%)`: Encourage community participation, rewards, and support Channel Reward。Total `105,697,180.60` tokens
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=772898127&amp;format=interactive"></iframe>
+<iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=772898127&amp;format=interactive"></iframe>
 
 ### Team Supply
 
@@ -81,3 +81,6 @@ The team holds `30%` of the total supply, and acquires both Genesis and every ye
 
 <iframe width="784" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=1288232632&amp;format=interactive"></iframe>
 
+### About Community Sale-2(option) & Community Sale-3(option)
+
+If the community sales meet expectations and we obtain sufficient funds in Community Sale-1 to allow the team to operate, then Community Sale-2(option) & Community Sale-3(option) will not be held. These tokens will be stored in DEX such as [Raydium](https://raydium.io/liquidity/) to provide liquidity pool.
