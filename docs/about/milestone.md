@@ -57,7 +57,8 @@ sidebar_position: 3
 
 ### Tokenomics
 
-- [ ] Tokenomics Design Finalize
+- [x] Tokenomics Design Finalize
+- [ ] Token IDO
 
 ### Community Event
 
@@ -83,7 +84,7 @@ sidebar_position: 3
 
 ### Tokenomics
 
-- [ ] Token IDO, Airdrops, Pre Sale
+- [ ] Airdrops
 
 ## 2022 Q2
 
