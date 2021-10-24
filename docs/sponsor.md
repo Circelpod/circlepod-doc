@@ -77,6 +77,7 @@ values={[
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
+- Nanda - `40 USDC`
 - Jhon - `36 USDC`
 - Shet Yae - `35 USDC`
 - bobby - `35 USDC`
@@ -84,8 +85,12 @@ values={[
 - Army Tribe - `35 USDC`
 - Revenge - `35 USDC`
 - aurellia - `35 USDC`
+- Day182 - `35 USDC`
+- fredazip - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
+- Zhar - `34 USDC`
+- Sangihe - `33.06 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
 - GunGun - `32.9 USDC`
@@ -93,15 +98,18 @@ values={[
 - Cuan Bersama - `32 USDC`
 - damngoc - `32 USDC`
 - sniksine - `31.8 USDC`
+- Khang Ky - `31.5 USDC`
 - Linh - `31.459731 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
 - PutriA - `31 USDC`
 - Anh Le - `31 USDC`
 - Asad shah - `31 USDC`
+- Vydha - `31 USDC`
+- Asad - `31 USDC`
 - dang tuan huy - `30.7 USDC`
-- AirdropSangihe - `30.06 USDC`
 - Nagato - `30.5 USDC`
+- Pan Cường - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
 - Bheghe - `30 USDC`
@@ -114,6 +122,8 @@ values={[
 - dombex#6681 - `30 USDC`
 - jovanka89#4635 - `30 USDC`
 - cleopatra#7734 - `30 USDC`
+- Ilham - `30 USDC`
+- Alin - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -121,6 +131,7 @@ values={[
 - zaibi - `26.5 USDC`
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
+- Dav - `26 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
 - Saveliy - `25 USDC`
