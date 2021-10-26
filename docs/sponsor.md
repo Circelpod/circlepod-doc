@@ -79,6 +79,7 @@ values={[
 - ÖZGÜR BOZKURT - `40 USDC`
 - Nanda - `40 USDC`
 - Jhon - `36 USDC`
+- Nhan Cao - `36 USDC`
 - Shet Yae - `35 USDC`
 - bobby - `35 USDC`
 - triasahoy - `35 USDC`
@@ -107,9 +108,11 @@ values={[
 - Asad shah - `31 USDC`
 - Vydha - `31 USDC`
 - Asad - `31 USDC`
+- M.syaiful ghani - `31 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
+- Danang - `30.5 USDC`
 - Profitbooster - `30.3 USDC`
 - faye2008 - `30 USDC`
 - Bheghe - `30 USDC`
