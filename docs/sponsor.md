@@ -127,6 +127,7 @@ values={[
 - cleopatra#7734 - `30 USDC`
 - Ilham - `30 USDC`
 - Alin - `30 USDC`
+- Olubowale - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
