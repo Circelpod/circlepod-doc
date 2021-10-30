@@ -73,6 +73,7 @@ values={[
 - Gin - `45 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
+- Anh thu - `42 USDC`
 - Pandapenguin - `41.8 USDC`
 - kabu - `41 USDC`
 - jiahe - `40.2 USDC`
@@ -145,6 +146,8 @@ values={[
 - qingdi - `25 USDC`
 - Rosie - `25 USDC`
 - SmartecVitalik - `25 USDC`
+- VSEMOGUSHIY#9768 - `25 USDC`
+- Sakeliy#6210 - `25 USDC`
 - Cuong - `24.88 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
@@ -456,7 +459,6 @@ values={[
 - wangminhei - `12.84 USDC`
 - 冷漠哥 - `12.5 USDC`
 - 蒋 - `12.5 USDC`
-- Anh thu - `12 USDC`
 - KingOfLong - `11.100574 USDC`
 - trinhthai13 - `11.1 USDC`
 - kang berak - `11 USDC`
@@ -632,6 +634,8 @@ values={[
 - fgwehhs45 - `1 USDC`
 - Abdulk - `1 USDC`
 - Dang Dinh Nguyen - `1 USDC`
+- Need Geprek - `1 USDC`
+- Alfrianto - `1 USDC`
 - tanmansky - `0.3 USDC`
 - dongyu8585 - `0.3 USDC`
 - DAYANG - `0.2 USDC`
