@@ -43,9 +43,11 @@ style={{
 
 <iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
 
+**請注意，創世紀的比例是以創世紀的總數計算(184,970,066.05, 佔比 35% 最終供應量)**
+
 在我們發行第一年初（創世紀），總共會有 `184,970,066.05` 顆 CPX 供應。佔我們規劃總計發行數量的 35%，這些代幣的分配如下：
 
-- Team `(42.9%)`: 團隊持有，並於 4 年內解鎖。`52,848,590.30`顆
+- Team `(42.9%)`: 團隊持有，並於 4 年後解鎖。`52,848,590.30`顆
 - Liquidity `(14.3%)`: 用於維持 Token 流動性。共計 `26,424,295.15`顆。
 - Community Airdrops `(14.3%)`: 社群空投，用於行銷活動與市場運營。共計 `26,424,295.15` 顆。
 - Community Sale-2(option) `(5.7%)`: 社群銷售，對於積極參與社群的朋友銷售。共計 `10,569,718.06` 顆。
