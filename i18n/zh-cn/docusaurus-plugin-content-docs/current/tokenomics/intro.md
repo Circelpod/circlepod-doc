@@ -44,6 +44,8 @@ export const Highlight = ({children, color}) => (
 
 <iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
 
+**請注意，创世纪的比例是以创世纪的总数计算(184,970,066.05, 占比 35% 最终供应量)**
+
 在我们发行第一年初（创世纪），总共会有 `184,970,066.05` 颗 CPX 供应。占我们规划总计发行数量的 35%，这些代币的分配如下：
 
 * Team `(42.9%)`: 团队持有，并于 4 年内解锁。`79,272,885.45`颗

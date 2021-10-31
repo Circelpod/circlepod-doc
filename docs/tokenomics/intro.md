@@ -44,10 +44,11 @@ We plan to supply a total of `528,485,903` [CPX](/docs/smart-contract) within 4 
 
 <iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ546oi7FbClMkWdwRA3QLAI_lFUACPBVhCGfs67H13Bq0t_U0z6S1UEW0BdFc8TiKfb_WQF4gbrClM/pubchart?oid=525406481&amp;format=interactive"></iframe>
 
+**Please note that the ratio of Genesis is calculated based on the total number of Genesis(184,970,066.05, 35% of our planned total issuance)**
 
 Total of `184,970,066.05` tokens are available at genesis of Circlepod Protocol tokens, 35% of our planned total issuance. The distribution of these tokens will be made as below:
 
-* Team `(42.9%)`: Owned by the team and unlocked within 4 years. `79,272,885.45` tokens.
+* Team `(42.9%)`: Owned by the team and unlock after 4 years. `79,272,885.45` tokens.
 * Liquidity `(14.3%)`: Used to maintain Token liquidity. Total `26,424,295.15` tokens.
 * Community Airdrops `(14.3%)`: Community airdrops for marketing activities and operations. Total `26,424,295.15` tokens.
 * Community Sale-2(option) `(8.6%)`: Community sales for friends who actively participate in the community. Total `15,854,577.09` tokens.
