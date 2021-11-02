@@ -70,6 +70,7 @@ values={[
 - lao-feng666 - `50 USDC`
 - Roman - `50 USDC`
 - Harish Jangra - `48.256029 USDC`
+- DennyThanh - `45.5 USDC`
 - Gin - `45 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
@@ -89,19 +90,25 @@ values={[
 - aurellia - `35 USDC`
 - Day182 - `35 USDC`
 - fredazip - `35 USDC`
+- Blackray - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
 - Zhar - `34 USDC`
 - Sangihe - `33.06 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
+- Eric - `33 USDC`
 - GunGun - `32.9 USDC`
 - fonoter - `32.1 USDC`
 - Cuan Bersama - `32 USDC`
 - damngoc - `32 USDC`
+- Ducan - `32 USDC`
 - sniksine - `31.8 USDC`
+- Erick Nghi Le - `31.667263 USDC`
 - Khang Ky - `31.5 USDC`
+- Koone123456 - `31.5 USDC`
 - Linh - `31.459731 USDC`
+- Truong Minh Beo - `31.13 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
 - PutriA - `31 USDC`
@@ -110,6 +117,7 @@ values={[
 - Vydha - `31 USDC`
 - Asad - `31 USDC`
 - M.syaiful ghani - `31 USDC`
+- Binh Phuong Loc - `31 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
@@ -129,6 +137,7 @@ values={[
 - Ilham - `30 USDC`
 - Alin - `30 USDC`
 - Olubowale - `30 USDC`
+- Nguyen Son - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -137,6 +146,8 @@ values={[
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
 - Dav - `26 USDC`
+- hungqh123 - `26 USDC`
+- Vincent69 - `25.54954 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
 - Saveliy - `25 USDC`
@@ -176,7 +187,6 @@ values={[
 - vu thanh dong - `22 USDC`
 - Jason - `22 USDC`
 - NGUYEN THANH HAI - `22 USDC`
-- hungqh123 - `22 USDC`
 - hoangcao - `22 USDC`
 - Binod - `22 USDC`
 - anhanh93 - `22 USDC`
@@ -319,7 +329,6 @@ values={[
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
 - CaptainTee - `20.5 USDC`
-- Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
 - - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
