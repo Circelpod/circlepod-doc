@@ -59,9 +59,10 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Mai An Tiem - `108.9408415 USDC`
-- 🥈 Ipeenk - `102 USDC`
-- 🥉 Pad720119 - `73 USDC`
+- 🥇 Clyder - `110.123 USDC`
+- 🥈 Mai An Tiem - `108.9408415 USDC`
+- 🥉 Ipeenk - `102 USDC`
+- Pad720119 - `73 USDC`
 - Oğuz - `61 USDC`
 - DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
@@ -118,11 +119,14 @@ values={[
 - Asad - `31 USDC`
 - M.syaiful ghani - `31 USDC`
 - Binh Phuong Loc - `31 USDC`
+- tamtran1203 - `31 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
 - Danang - `30.5 USDC`
+- SAIF - `30.4 USDC`
 - Profitbooster - `30.3 USDC`
+- Ikbal - `30.1 USDC`
 - faye2008 - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
