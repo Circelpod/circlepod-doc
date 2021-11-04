@@ -24,10 +24,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30)
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30 until Nov 7, 2021)
   - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($25)
-- ✨ Special Discord Role($1)
+- ✨ IDO whitelist($25 until Nov 7, 2021)
+- ✨ Special Discord Role($1 until Nov 7, 2021)
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
@@ -104,6 +104,7 @@ values={[
 - Cuan Bersama - `32 USDC`
 - damngoc - `32 USDC`
 - Ducan - `32 USDC`
+- CHIEN - `32 USDC`
 - sniksine - `31.8 USDC`
 - Erick Nghi Le - `31.667263 USDC`
 - Khang Ky - `31.5 USDC`
@@ -163,6 +164,7 @@ values={[
 - SmartecVitalik - `25 USDC`
 - VSEMOGUSHIY#9768 - `25 USDC`
 - Sakeliy#6210 - `25 USDC`
+- XuanAnh - `25 USDC`
 - Cuong - `24.88 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
