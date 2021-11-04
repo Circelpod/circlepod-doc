@@ -73,6 +73,7 @@ values={[
 - Harish Jangra - `48.256029 USDC`
 - DennyThanh - `45.5 USDC`
 - Gin - `45 USDC`
+- Tri Hong Nhan - `44.9 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
 - Anh thu - `42 USDC`
@@ -245,7 +246,6 @@ values={[
 - suziwang - `21 USDC`
 - MA CONGHUI - `21 USDC`
 - huhu - `21 USDC`
-- Tri Hong Nhan - `21 USDC`
 - cong gunner - `21 USDC`
 - Tan Huynh - `21 USDC`
 - duytuu - `21 USDC`
