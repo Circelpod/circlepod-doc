@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Circlepod Docs",
-  tagline: "Next Generation Podcast combined with NFT and Solana",
+  tagline: "Next Generation media protocol #solana, #nft, #Metaverse ecosystem, special media protocol guide players to experience the new world.",
   url: "https://docs.circlepod.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",

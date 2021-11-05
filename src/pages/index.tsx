@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Next Generation Podcast combined with NFT and Solana"
+      description="Next Generation media protocol #solana, #nft, #Metaverse ecosystem, special media protocol guide players to experience the new world."
     >
       <HomepageHeader />
       <main>
