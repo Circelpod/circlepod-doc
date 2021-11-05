@@ -59,8 +59,8 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Clyder - `110.123 USDC`
-- 🥈 Mai An Tiem - `108.9408415 USDC`
+- 🥇 Mai An Tiem - `115 USDC`
+- 🥈 Clyder - `110.123 USDC`
 - 🥉 Ipeenk - `102 USDC`
 - Pad720119 - `73 USDC`
 - Oğuz - `61 USDC`
@@ -93,6 +93,8 @@ values={[
 - Day182 - `35 USDC`
 - fredazip - `35 USDC`
 - Blackray - `35 USDC`
+- Be Strong Not To Cry#0092 - `35 USDC`
+- Nhung0931#1478 - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
 - Zhar - `34 USDC`
@@ -106,6 +108,7 @@ values={[
 - damngoc - `32 USDC`
 - Ducan - `32 USDC`
 - CHIEN - `32 USDC`
+- TOM - `32 USDC`
 - sniksine - `31.8 USDC`
 - Erick Nghi Le - `31.667263 USDC`
 - Khang Ky - `31.5 USDC`
@@ -122,6 +125,8 @@ values={[
 - M.syaiful ghani - `31 USDC`
 - Binh Phuong Loc - `31 USDC`
 - tamtran1203 - `31 USDC`
+- brother#9859 - `31 USDC`
+- Hieu - `31 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
@@ -144,6 +149,7 @@ values={[
 - Alin - `30 USDC`
 - Olubowale - `30 USDC`
 - Nguyen Son - `30 USDC`
+- Truong Minh Toan - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -153,6 +159,7 @@ values={[
 - ngao - `26 USDC`
 - Dav - `26 USDC`
 - hungqh123 - `26 USDC`
+- Hugo Toàn#6372 - `26 USDC`
 - Vincent69 - `25.54954 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
@@ -166,6 +173,8 @@ values={[
 - VSEMOGUSHIY#9768 - `25 USDC`
 - Sakeliy#6210 - `25 USDC`
 - XuanAnh - `25 USDC`
+- John F - `25 USDC`
+- thiên ân - `25 USDC`
 - Cuong - `24.88 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
@@ -601,6 +610,7 @@ values={[
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Arya - `2 USDC`
+- meou2021KS#5096 - `2 USDC`
 - M aziz yahya - `1.5 USDC`
 - Khaleelulkhayr - `1.5 USDC`
 - 卢晓情 - `1.29 USDC`
