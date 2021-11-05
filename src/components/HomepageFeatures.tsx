@@ -13,9 +13,7 @@ const FeatureList = [
     description: (
       <>
         <Translate id="homepage.item.1">
-          Next Generation Podcast combined with NFT and Solana, Media
-          Metaverse ecosystem, special media protocol guide players to
-          experience the new world.
+        Next Generation media protocol #solana, #nft, #Metaverse ecosystem, special media protocol guide players to experience the new world.
         </Translate>
       </>
     ),
