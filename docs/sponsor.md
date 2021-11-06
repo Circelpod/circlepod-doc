@@ -82,6 +82,7 @@ values={[
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
 - Nanda - `40 USDC`
+- Boss Harry - `40 USDC`
 - Jhon - `36 USDC`
 - Nhan Cao - `36 USDC`
 - Shet Yae - `35 USDC`
@@ -127,6 +128,8 @@ values={[
 - tamtran1203 - `31 USDC`
 - brother#9859 - `31 USDC`
 - Hieu - `31 USDC`
+- phan van luan - `31 USDC`
+- Ranilufita - `30.995291 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
@@ -150,6 +153,7 @@ values={[
 - Olubowale - `30 USDC`
 - Nguyen Son - `30 USDC`
 - Truong Minh Toan - `30 USDC`
+- Le Phuoc Dat - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
