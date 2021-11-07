@@ -6,11 +6,11 @@ sidebar_position: 12
 
 Circlepod is an early project. We need funds to support our operations.
 
-- **If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- ~~**If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**~~
 
-- **If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- ~~**If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**~~
 
-- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
+- ~~**If your sponsorship amount is greater than $1, you will get a special Discord Role.**~~
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -24,10 +24,10 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30 until Nov 7, 2021)
-  - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($25 until Nov 7, 2021)
-- ✨ Special Discord Role($1 until Nov 7, 2021)
+- ✨ ~~Circlepod Sponsor [NFT](/docs/nfts/intro)($30 until Nov 7, 2021 23:59 UTC+8)~~
+  - ✨ ~~if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!~~
+- ✨ ~~IDO whitelist($25 until Nov 7, 2021, 2021 23:59 UTC+8)~~
+- ✨ ~~Special Discord Role($1 until Nov 7, 2021, 2021 23:59 UTC+8)~~
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
@@ -129,6 +129,11 @@ values={[
 - brother#9859 - `31 USDC`
 - Hieu - `31 USDC`
 - phan van luan - `31 USDC`
+- Lam - `31 USDC`
+- GeneraleKomo - `31 USDC`
+- Patrick - `31 USDC`
+- Integrity - `31 USDC`
+- uzoma - `31 USDC`
 - Ranilufita - `30.995291 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
@@ -154,6 +159,8 @@ values={[
 - Nguyen Son - `30 USDC`
 - Truong Minh Toan - `30 USDC`
 - Le Phuoc Dat - `30 USDC`
+- Seento - `30 USDC`
+- umang pal - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -646,6 +653,7 @@ values={[
 - Snow - `1.1 USDC`
 - Sakti - `1.1 USDC`
 - Megalondo - `1.1 USDC`
+- Blim#3810 - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
