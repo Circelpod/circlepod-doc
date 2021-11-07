@@ -160,6 +160,7 @@ values={[
 - Truong Minh Toan - `30 USDC`
 - Le Phuoc Dat - `30 USDC`
 - Seento - `30 USDC`
+- umang pal - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
