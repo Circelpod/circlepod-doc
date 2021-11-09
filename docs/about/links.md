@@ -11,3 +11,7 @@ sidebar_position: 5
 ## Official Website
 
 - [Official Website](https://www.circlepod.app/)
+
+## White paper
+
+- [White paper](https://drive.google.com/file/d/12-5mo6BeDPyqkXl31AhIqdUY4mpwdAZb/view)
