@@ -35,14 +35,6 @@
     "message": "節目",
     "description": "The label for category Podcast in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Badge": {
-    "message": "徽章",
-    "description": "The label for category Badge in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Player": {
-    "message": "玩家",
-    "description": "The label for category Player in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Tokenomics": {
     "message": "貨幣經濟學",
     "description": "The label for category Tokenomics in sidebar tutorialSidebar"
