@@ -6,13 +6,13 @@ sidebar_position: 16
 
 If you can't find your problem, [please submit your ticket](https://klearthink.atlassian.net/servicedesk/customer/portals)
 
-## I can't connect to Twitter or have a strange problem
+## 我無法連接到推特或有些奇怪的問題
 
-- You need to clear the cache and log out.
-- Go to [Setting](https://staging-launch.circlepod.app/settings)
-  - Clean Cache
-  - Sign out
-  - Reconnenting
+- 您需要清除緩存並登出。
+- 前往 [Setting](https://staging-launch.circlepod.app/settings)
+  - 清除緩存
+  - 登出
+  - 重新連接
 
 ## I can't deposit or sup and received
 
@@ -23,10 +23,10 @@ Wallet than choose " devnet " in the upper right corner. Finally, click claim on
 
 If you still can't use it, try to use Chrome.
 
-## I don't have CPX
+## 我沒有 CPX
 
 You can apply some CPX after you connect your wallet & Twitter.
-Go here to see more details :
+到這裡看更多詳情：
 
 - [Devnet Airdrop](/docs/community-event/vote-and-support/airdrop)
 
@@ -34,7 +34,7 @@ Go here to see more details :
 
 - Go here to see more details: [Sponsor](sponsor)
 
-## What does airdrop ticket mean
+## 什麼是空投門票
 
 If you finish the tasks that we release, you will win an airdrop ticket ! You can accumulate your
 

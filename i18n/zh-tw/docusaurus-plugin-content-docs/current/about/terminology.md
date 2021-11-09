@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## 什麼是節目
 
-節目(Channel) 是一種 Stake Pool，並且對應到真實世界的 Podcast 節目，聽眾或粉絲可以通過 CPX 支持(SUP) 來質押 CPX 來增加 Pool 質押量。獲得認證的 Podcaster 可以獲得質押的部分的獎勵。並且可以透過[治理](/docs/protocol/governance/intro) 來增加節目池。
+節目(Channel) 是一種 Stake Pool，並且對應到真實世界的 Podcast 節目，聽眾或粉絲可以通過 CPX 支持(SUP) 來質押 CPX 來增加 Pool 質押量。獲得認證的 Podcaster 可以獲得質押的部分的獎勵。並且可以透過[治理](/docs/protocol/governance/intro)來增加節目池。
 
 可以查看[節目](/docs/protocol/channel/channel)查看更多資訊。
 
