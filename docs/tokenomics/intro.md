@@ -22,18 +22,19 @@ export const Highlight = ({children, color}) => (
 
 CPX token that powers the Circlepod Protocol ecosystem. You can use it for activities or for governance.
 
-* Support Your Favorite Podcast and Earn Rewards
+* Support your favorite Podcast and Earn Rewards
 * Making new governance proposal
-* Stake on Governance and Earn CPX Rewards
-* Pay for the minting cost of Protocol Copyright
-* Pay for the cost of Metadata queries
-* Subscribe Circlepod App Premium
+* Stake to governance and earn rewards
+* Payment of casting fee for copyright
+* Payment of Metadata queries
+* Subscribe to Circlepod App Premium
+* Interaction and governance combined with original content in metaverse
 
 ## Tokenomics
 
 ### CPX Token Supply
 
-We plan to supply a total of `528,485,903` [CPX](/docs/smart-contract) within 4 years. Beyond that, there will be no more new CPX tokens introduced to the supply.
+We plan to supply a total of `528,485,903` [CPX](/docs/smart-contract) within 4 years. At that time, no new tokens will be added to our supply. 
 
 ### Cumulative Distribution Schedule
 
@@ -84,4 +85,4 @@ The team holds `30%` of the total supply, and acquires both Genesis and every ye
 
 ### About Community Sale-2(option) & Community Sale-3(option)
 
-If the community sales meet expectations and we obtain sufficient funds in Community Sale-1 to allow the team to operate, then Community Sale-2(option) & Community Sale-3(option) will not be held. These tokens will be stored in DEX such as [Raydium](https://raydium.io/liquidity/) to provide liquidity pool.
+If the community sales meet expectations and we obtain sufficient funds in Community Sale-1 to allow the team to operate, then Community Sale-2 (option) & Community Sale-3 (option) will not be held. These tokens will be stored in DEX such as [Raydium](https://raydium.io/liquidity/) to provide liquidity pool.

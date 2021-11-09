@@ -1,20 +1,16 @@
 ---
 sidebar_position: 17
 ---
-
 # Contact
 
-### 🕶 [Discord](https://discord.com/invite/sVNJ5tb8wR)
+## Bussiness Support
 
-### 🐦 [Twitter](https://twitter.com/CirclepodP)
+- Circlepod Teams 
+- Email: [services@circlepod.app](services@circlepod.app)
+- Office Hour: Weekdays at 09:00 ~ 18:00 (UTC+8)  
 
-### 📹 [YouTube](https://www.youtube.com/channel/UCH-HXR7OgqpZdfe6__iXuJA)
+## Customer Support
 
-### 💬 [Telegram](https://t.me/circlepod)
-
-### 📷 [Instagram](https://www.instagram.com/circlepodp/)
-
-### 📰 [Medium](https://medium.com/circlepod-labs)
-
-### 📣 [Facebook](https://www.facebook.com/CirclepodP/)
-
+- Circlepod Teams 
+- Email: [services@circlepod.app](services@circlepod.app)
+- Office Hour: Weekdays at 09:00 ~ 18:00 (UTC+8) 
