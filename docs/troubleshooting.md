@@ -30,15 +30,13 @@ Go here to see more details :
 
 - [Devnet Airdrop](/docs/community-event/vote-and-support/airdrop)
 
-## Where can I find a donation wallet address? To become a sponsor
+## Where can I find a donation wallet address? To become a sponsor?
 
 - Go here to see more details: [Sponsor](sponsor)
 
-## What does airdrop ticket mean
+## What does airdrop ticket mean?
 
-If you finish the tasks that we release, you will win an airdrop ticket ! You can accumulate your
-
-tickets in every events.
+If you finish the tasks that we release, you will win an airdrop ticket ! You can accumulate your tickets in every events.
 
 Check on there [Tickets Rule](/docs/community-event/airdrop-event/tickets-rule)
 
@@ -46,6 +44,6 @@ Of course, the more events you participate in, the more tickets you can get.
 
 That means you have more oppotunities to get the airdrop! Or, Become our sponsor is another way to win airdrops [Sponsor](/docs/sponsor)
 
-## Can't find the problem
+## Can't find the problem?
 
 If you search the entire document and still don’t know what happened, please [contact us](https://discord.gg/WRbxfTKpJq) :)
