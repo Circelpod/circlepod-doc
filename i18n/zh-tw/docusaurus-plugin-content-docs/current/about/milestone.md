@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Milestone
+# 里程碑
 
 ---
 

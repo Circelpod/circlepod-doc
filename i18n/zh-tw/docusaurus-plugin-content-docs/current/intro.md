@@ -17,7 +17,7 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 哈囉！歡迎來到 Circlepod，讓我們開始吧！
 你可以找到我們的 Web 應用 [這裡](/docs/about/links)
 
-### 步驟 1. 創建並連接錢包
+### 第 1 步. 創建並連接錢包
 
 1. 連接你的 Solan 錢包
 
@@ -37,7 +37,7 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 
 ![Create Successfully](/img/tutorial/create-successfully.png)
 
-### 步驟 2. 聲援您喜愛的 Podcaster
+### 第 2 步. 聲援您喜愛的 Podcaster
 
 1. 選擇你喜歡的 Podcaster
 
@@ -61,7 +61,7 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 
 ![Withdrwal-CPX](/img/tutorial/withdraw.png)
 
-7. SUP 你最愛的 Podcaster
+4. SUP 你最愛的 Podcaster
 
 ![Sup](/img/tutorial/sup-channel.png)
 

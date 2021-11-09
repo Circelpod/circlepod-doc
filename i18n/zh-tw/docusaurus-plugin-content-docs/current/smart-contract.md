@@ -2,14 +2,14 @@
 sidebar_position: 13
 ---
 
-# Smart Contract
+# 智能合約
 
-## Contract info
-- Contract name: Circlepod Protocol Token
-- Contract address: [CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq](https://solscan.io/token/CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq)
+## 合約資訊
+- 合約名稱： Circlepod Protocol Token
+- 合約地址： [CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq](https://solscan.io/token/CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq)
 
 
-## Official Wallet
+## 官方錢包
 
 - [8873phvwSrmXVjWAehvxcUGyRwjhGWhbgsMSHdKSxxe5](https://solscan.io/account/8873phvwSrmXVjWAehvxcUGyRwjhGWhbgsMSHdKSxxe5)
 
