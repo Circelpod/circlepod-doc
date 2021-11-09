@@ -118,6 +118,7 @@ values={[
 - Truong Minh Beo - `31.13 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
+- QuangMinhNg04 - `31 USDC`
 - PutriA - `31 USDC`
 - Anh Le - `31 USDC`
 - Asad shah - `31 USDC`
@@ -682,6 +683,7 @@ values={[
 - 2184923890@qq.com - `0.2 USDC`
 - 278768542@qq.com - `0.2 USDC`
 - 2059407900@qq.com - `0.2 USDC`
+- Kemiboss - `0.001 USDC`
 
 </TabItem>
 </Tabs>
