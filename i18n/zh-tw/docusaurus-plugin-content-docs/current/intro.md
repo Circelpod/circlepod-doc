@@ -12,14 +12,14 @@ Circlepod Protocol 支持使用區塊鏈來鏈結 Podcaster 與聽眾。你可�
 這個專案正在 Beta 測試中，內容很有可能改變。目前專案部署在 [Solana](https://solana.com/)。
 :::
 
-## Getting Started
+## 準備開始吧
 
 哈囉！歡迎來到 Circlepod，讓我們開始吧！
 你可以找到我們的 Web 應用 [這裡](/docs/about/links)
 
 ### 第 1 步. 創建並連接錢包
 
-1. 連接你的 Solan 錢包
+1. 連接你的 Solana 錢包
 
 ![Connent Your Solana Wallet](/img/tutorial/connect-wallet.png)
 
