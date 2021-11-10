@@ -43,6 +43,11 @@ module.exports = {
           position: "right",
         },
         {
+          href: "https://drive.google.com/file/d/12-5mo6BeDPyqkXl31AhIqdUY4mpwdAZb/view",
+          label: "Whitepaper",
+          position: "right",
+        },
+        {
           href: "https://github.com/Circelpod",
           label: "GitHub",
           position: "right",
