@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Sponsor
@@ -26,8 +26,8 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 - ✨ ~~Circlepod Sponsor [NFT](/docs/nfts/intro)($30 until Nov 7, 2021 23:59 UTC+8)~~
   - ✨ ~~if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!~~
-- ✨ ~~IDO whitelist($25 until Nov 7, 2021, 2021 23:59 UTC+8)~~
-- ✨ ~~Special Discord Role($1 until Nov 7, 2021, 2021 23:59 UTC+8)~~
+- ✨ ~~IDO whitelist($25 until Nov 7, 2021 23:59 UTC+8)~~
+- ✨ ~~Special Discord Role($1 until Nov 7, 2021 23:59 UTC+8)~~
 - ✨ Priority to use the beta version
 
 ## Sponsor Account Address
