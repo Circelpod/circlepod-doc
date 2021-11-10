@@ -1,29 +1,16 @@
 ---
 sidebar_position: 17
 ---
-
 # 聯絡資訊
 
-## 🕶 Discord
+## 商務服務
 
-[Discord](https://discord.com/invite/sVNJ5tb8wR)
+- Circlepod 團隊 
+- 信箱：[services@circlepod.app](mailto:services@circlepod.app)
+- 營業時間：平日 09:00 ~ 18:00 (UTC+8)  
 
-## 💬 Telegram
+## 客戶服務
 
-[Telegram](https://t.me/circlepod)
-
-## 🐦 Twitter
-
-[Twitter](https://twitter.com/CirclepodP)
-
-## 📷 Instagram
-
-[Instagram](https://www.instagram.com/circlepodp/)
-
-## 📰 Medium
-
-[Medium](https://medium.com/circlepod-labs)
-
-## 📣 Facebook
-
-[Facebook](https://www.facebook.com/CirclepodP/)
+- Circlepod 團隊 
+- 信箱：[services@circlepod.app](mailto:services@circlepod.app)
+- 營業時間：平日 09:00 ~ 18:00 (UTC+8) 

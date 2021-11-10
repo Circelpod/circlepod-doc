@@ -48,7 +48,7 @@
     "description": "The label for category SDK in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Airdrop": {
-    "message": "Airdrop",
+    "message": "空投",
     "description": "The label for category Airdrop in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Vote & Support": {
@@ -64,7 +64,7 @@
     "description": "The label for category NFTs in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.About & Milestone": {
-    "message": "About & Milestone",
+    "message": "關於 & 里程碑",
     "description": "The label for category About & Milestone in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Discord": {
@@ -80,7 +80,7 @@
     "description": "The label for category Vote & Support (It's over) in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Circlepod Wallet": {
-    "message": "Circlepod Wallet",
+    "message": "Circlepod 錢包",
     "description": "The label for category Circlepod Wallet in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Protocol": {
