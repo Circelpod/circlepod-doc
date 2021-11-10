@@ -1,29 +1,16 @@
 ---
-sidebar_position: 12
+sidebar_position: 17
 ---
+# 联络信息
 
-# Contact
+## 商务服务
 
-## 🕶 Discord
+- Circlepod 团队 
+- 信箱：[services@circlepod.app](mailto:services@circlepod.app)
+- 营业时间：平日 09:00 ~ 18:00 (UTC+8)  
 
-[Discord](https://discord.com/invite/sVNJ5tb8wR)
+## 客户服务
 
-## 💬 Telegram
-
-[Telegram](https://t.me/circlepod)
-
-## 🐦 Twitter
-
-[Twitter](https://twitter.com/CirclepodP)
-
-## 📷 Instagram
-
-[Instagram](https://www.instagram.com/circlepodp/)
-
-## 📰 Medium
-
-[Medium](https://medium.com/circlepod-labs)
-
-## 📣 Facebook
-
-[Facebook](https://www.facebook.com/CirclepodP/)
+- Circlepod 团队 
+- 信箱：[services@circlepod.app](mailto:services@circlepod.app)
+- 营业时间：平日 09:00 ~ 18:00 (UTC+8) 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Available Country List
+# 目前支援的国家列表
 
 
 export const Highlight = ({children, color}) => (
@@ -19,27 +19,27 @@ export const Highlight = ({children, color}) => (
 
 #### New Available <Highlight color="#25c2a0">Devnet</Highlight>
 
-## Available Country List
-👉 Glance on YouTube: [Click Here](https://www.youtube.com/watch?v=zGfZFXxIl2Y) !
+## 目前支援的国家列表
+👉 在 YouTube 上快速浏览：[点击](https://www.youtube.com/watch?v=zGfZFXxIl2Y) !
 
-- 🇮🇩 ID - Indonesia
-- 🇯🇵 JP - Japan
-- 🇰🇷 KR - South Korea
-- 🇻🇳 VN - Vietnam
-- 🇹🇼 TW - Taiwan
-- 🇺🇸 US - United States of America
-- 🇷🇺 RU - Russia
-- 🇳🇴 NO - Norway
-- 🇪🇸 ES - Spain
-- 🇵🇱 PL - Poland
-- 🇮🇹 IT - Italy
-- 🇸🇪 SE - Sweden
-- 🇮🇪 IE - Ireland
-- 🇫🇷 FR - France
-- 🇩🇪 DE - Germany
-- 🇳🇬 NG - Nigeria
-- 🇨🇮 CI - Côte d'Ivoire
+- 🇮🇩 ID - 印尼
+- 🇯🇵 JP - 日本
+- 🇰🇷 KR - 南韩
+- 🇻🇳 VN - 越南
+- 🇹🇼 TW - 台湾
+- 🇺🇸 US - 美国
+- 🇷🇺 RU - 俄罗斯
+- 🇳🇴 NO - 挪威
+- 🇪🇸 ES - 西班牙
+- 🇵🇱 PL - 波兰
+- 🇮🇹 IT - 义大利
+- 🇸🇪 SE - 瑞典
+- 🇮🇪 IE - 爱尔兰
+- 🇫🇷 FR - 法国
+- 🇩🇪 DE - 德国
+- 🇳🇬 NG - 奈及利亚
+- 🇨🇮 CI - 科特迪瓦
 
-## Do not find your country?
+## 找不到您要的国家吗？
 
-👉 Fill the form to unlock your country: [Fill now](https://forms.gle/WoL8c9GStDYrMpbb6)
+👉 填写表单解锁其他国家: [现在填写](https://forms.gle/WoL8c9GStDYrMpbb6)

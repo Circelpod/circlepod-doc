@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Episode
+# 单集
 
 export const Highlight = ({children, color}) => (
   <span
@@ -19,25 +19,25 @@ export const Highlight = ({children, color}) => (
 #### <Highlight color="#ff9966">UnRelease</Highlight>
 
 :::caution
-This feature has not been released yet and may change at any time.
+此功能尚未发布，可能随时更改。
 :::
 
-## 什麼是單集
+## 什么是单集
 
-單集代表頻道底下的每一集，每一個頻道可以有多個單集。單集屬於一個不可替代的代幣（NFT）。並且帶有元數據，符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) 的格式。
+单集代表频道底下的每一集，每一个频道可以有多个单集。单集属于一个不可替代的代币（NFT）。并且带有元数据，符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) 的格式。
 
 :::tip
-雖然 NFT Meta data 符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)，符合跨鏈的條件，但目前 Circlepod Protocol 協議主要還是在 Solana 上。
+虽然 NFT Meta data 符合 [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)，符合跨链的条件，但目前 Circlepod Protocol 协议主要还是在 Solana 上。
 :::
 
-## 付費單集版稅
+## 付费单集版税
 
-每個 Podcaster 都可以支付 CPX 創建`單集`的`Podcaster`可以針對`單集`進行設置付費內容，甚至在`單集`節目上有合作的夥伴，也可以輕鬆的標記每個合作者，並且設置分潤的百分比，在每一次聽眾或使用者購買單集收聽權時，這些利潤分配都會直接的自動發送至您設置好的規則中。
+每个 Podcaster 都可以支付 CPX 创建`单集`的`Podcaster`可以针对`单集`进行设置付费内容，甚至在`单集`节目上有合作的伙伴，也可以轻松的标记每个合作者，并且设置分润的百分比，在每一次听众或使用者购买单集收听权时，这些利润分配都会直接的自动发送至您设置好的规则中。
 
 :::tip
-目前協議中針對每一次利潤分配收取 0.3% 的協議費用，這些費用會回饋到節目的獎勵上，當然可以透過[治理](/docs/protocol/governance/intro)來調整該稅率。
+目前协议中针对每一次利润分配收取 0.3% 的协议费用，这些费用会回馈到节目的奖励上，当然可以透过[治理](/docs/protocol/governance/intro)来调整该税率。
 :::
 
-## 評分
+## 评分
 
-針對鑄造的單集 NTF，收聽者可以透過已支持(SUP)的數量對單集進行評分，評分數據將與開放數據一同可以被查詢。
+针对铸造的单集 NTF，收听者可以透过已支持(SUP)的数量对单集进行评分，评分数据将与开放数据一同可以被查询。

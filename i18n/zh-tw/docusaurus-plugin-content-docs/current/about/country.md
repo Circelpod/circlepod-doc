@@ -20,7 +20,7 @@ export const Highlight = ({children, color}) => (
 #### New Available <Highlight color="#25c2a0">Devnet</Highlight>
 
 ## 目前支援的國家列表
-👉 在 YouTube 上快速瀏覽: [點擊](https://www.youtube.com/watch?v=zGfZFXxIl2Y) !
+👉 在 YouTube 上快速瀏覽：[點擊](https://www.youtube.com/watch?v=zGfZFXxIl2Y) !
 
 - 🇮🇩 ID - 印尼
 - 🇯🇵 JP - 日本
@@ -40,6 +40,6 @@ export const Highlight = ({children, color}) => (
 - 🇳🇬 NG - 奈及利亞
 - 🇨🇮 CI - 科特迪瓦
 
-## 找不到你要的國家嗎?
+## 找不到您要的國家嗎？
 
-👉 填寫表單解鎖其他國家: [現在填寫](https://forms.gle/WoL8c9GStDYrMpbb6)
+👉 填寫表單解鎖其他國家：[現在填寫](https://forms.gle/WoL8c9GStDYrMpbb6)
