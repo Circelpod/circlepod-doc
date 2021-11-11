@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Milestone
+# 里程碑
 
 ---
 
@@ -12,39 +12,39 @@ sidebar_position: 3
 
 ### Circlepod Protocol
 
-- [x] Circlepod Protocol NFT Preview
-    - [x] ~~[Web App Beta on Devnet](https://launch.circlepod.app)~~
-    - [x] [Solana Contrant](https://github.com/Circelpod/Circlepod-Protocol)
+- [x] Circlepod Protocol NFT 预览
+    - [x] ~~[Web App Beta 在开发网](https://launch.circlepod.app)~~
+    - [x] [Solana 合约](https://github.com/Circelpod/Circlepod-Protocol)
 
 ### Circlepod App
 
-- [x] UI/UX Design
-- [x] Function Roadmap
+- [x] UI/UX 设计
+- [x] 功能规划蓝图
 
 ---
 
 ## 2021 Q3
 
-### Community Event
+### 社群活动
 
-- [x] [Vote & Support](/docs/community-event/vote-and-support/intro)
+- [x] [为 Podcast 投票和支持 Podcast](/docs/community-event/vote-and-support/intro)
 
 ### Circlepod App
 
-- [ ] Mobile App Develop
-- [x] Backend System Develop
-- [x] Infrastructure Steup
-- [x] [Circlepod Community](/docs/contact)
+- [ ] 行动装置 App 开发
+- [x] 后台系统开发
+- [x] 基础设备建立
+- [x] [Circlepod 社群](/docs/contact)
 
-### Sponsor Plan
+### 赞助计画
 
-- [x] [Sponsor Plan](/docs/sponsor)
+- [x] [赞助计画](/docs/sponsor)
 
 ### Circlepod Protocol
 
-- [ ] Badge Contract
-- [ ] Badge System on Web App
-- [x] [NFT Marketplace](https://nfts.circlepod.app)
+- [ ] 徽章合约
+- [ ] 徽章系统在 Web App
+- [x] [NFT 市集](https://nfts.circlepod.app)
 
 ---
 
@@ -52,20 +52,20 @@ sidebar_position: 3
 
 ### Circlepod App
 
-- [x] [Web App Beta V2 on Devnet](https://staging-launch.circlepod.app)
-- [ ] Mobile App Beta Release
+- [x] [Web App Beta V2 在开发网](https://staging-launch.circlepod.app)
+- [ ] 行动装置 App Beta 发布
 
 ### Tokenomics
 
-- [ ] Tokenomics Design Finalize
+- [ ] Tokenomics 设计定稿
 
-### Community Event
+### 社群活动
 
-- [x] [Circlepod Promoter](https://medium.com/circlepod-labs/circlepod-community-event-circlepod-promoter-e859f4177c31)
-- [x] [Hackathon Vote](https://discord.com/channels/848247671356522567/858201326201733152/893175796578013234)
+- [x] [Circlepod 推广者](https://medium.com/circlepod-labs/circlepod-community-event-circlepod-promoter-e859f4177c31)
+- [x] [黑客松投票](https://discord.com/channels/848247671356522567/858201326201733152/893175796578013234)
 
 
-### Hackathon
+### 黑客松
 
 - [x] [Solana Ignition Hackathon](https://hackerlink.io/buidl/710?roundProj=961)
 
@@ -75,19 +75,19 @@ sidebar_position: 3
 
 ### Circlepod App
 
-- [ ] Mobile App Production Release
+- [ ] 行动装置 APP 产品发布
 
 ### Circlepod Protocol
 
-- [ ] Circlepod Protocol on App Beta
+- [ ] Circlepod Protocol 在 App Beta
 
 ### Tokenomics
 
-- [ ] Token IDO, Airdrops, Pre Sale
+- [ ] Token IDO、空投、预售
 
 ## 2022 Q2
 
 ### Circlepod Protocol
 
-- [ ] Circlepod Protocol on Solana Mainnet
-- [ ] Circlepod Protocol on App Release
+- [ ] Circlepod Protocol 在 Solana 主网
+- [ ] Circlepod Protocol 在 App 发布

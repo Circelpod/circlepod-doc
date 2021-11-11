@@ -2,35 +2,35 @@
 sidebar_position: 12
 ---
 
-# Sponsor
+# 赞助者
 
-Circlepod is an early project. We need funds to support our operations.
+Circlepod 是一个早期项目。我们需要资金来支持我们的运营。
 
-- **If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
+- ~~**若您的赞助金额超过 $30， 您将获得独特的 [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**~~
 
-- **If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**
+- ~~**若您的赞助金额超过 $25，赞助者可以提前加入 IDO 白名单 [CPX](/docs/tokenomics/intro)**~~
 
-- **If your sponsorship amount is greater than $1, you will get a special Discord Role.**
+- ~~**若您的赞助金额超过 $1，您将获得特别的 Discord 角色。 **~~
 
-If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
+如果您愿意赞助 Circlepod，帮助 Circlepod 完成伟大的目标。请通过以下地址赞助。
 
-Please fill out this **[Google Form](https://forms.gle/pxX7RZppnipRCBEV7)** after completion so that we can reconcile the account.
+完成后请填写此 **[Google 表单](https://forms.gle/pxX7RZppnipRCBEV7)**以便我们核对。
 
-The official will verify within 1~3 days and assign the Role.
-Sponsors eligible for NFT will receive a dedicated link next week.
+官方将在 1~3 天内进行验证并分配角色。
+符合获得 NFT 资格的赞助商将在下周收到一个专用连结。
 
-All sponsor addresses will be shown below!
-If you have any questions, please contact us on [Discord](https://discord.gg/WRbxfTKpJq)!
+所有赞助者的地址将显示在下面！
+有任何问题，请透过 [Discord](https://discord.gg/WRbxfTKpJq) 联系我们！
 
-## Rights
+## 权利
 
-- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($30)
-  - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
-- ✨ IDO whitelist($25)
-- ✨ Special Discord Role($1)
-- ✨ Priority to use the beta version
+- ✨ ~~Circlepod Sponsor [NFT](/docs/nfts/intro)($30)($30 until Nov 7, 2021 23:59 UTC+8)~~
+  - ✨ ~~如果您获得赞助者 nft，同时您也有 100% 的机会获得独家空投！ ~~
+- ✨ ~~IDO 白名单($25)($25 until Nov 7, 2021 23:59 UTC+8)~~
+- ✨ ~~特殊 Discord 角色($1)($1 until Nov 7, 2021 23:59 UTC+8)~~
+- ✨ 优先使用 Beta 测试版
 
-## Sponsor Account Address
+## 赞助者帐户地址
 
 - Solana - USDC - `6uFDPQNGnVFCvhZFX3aaeFZMF2pVzzSaARPfMTM4iz7P` or `@CirclepodP` or `circlepod.sol` [like this](/docs/sponsor#solana-domain)
 
@@ -44,7 +44,7 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 - BEP20 - BUSD `0x47797F2cFD79578188765Fb5e58EbdC750ABC384`
 
-## Hero Sponsor
+## 赞助英雄榜
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -52,16 +52,17 @@ import TabItem from '@theme/TabItem';
 <Tabs 
 defaultValue="top"
 values={[
-{label: 'Galaxy Sponsor 🚀', value: 'top'},
-{label: 'Stellar Sponsor 🛩', value: 'golden'},
-{label: 'Planetary Sponsor 🚂', value: 'silver'},
-{label: 'Satellite Sponsor 🚘', value: 'bronze'},
+{label: '星系赞助者 🚀', value: 'top'},
+{label: '恒星赞助者 🛩', value: 'golden'},
+{label: '行星赞助者 🚂', value: 'silver'},
+{label: '卫星赞助者 🚘', value: 'bronze'},
 ]}>
 <TabItem value="top">
 
-- 🥇 Mai An Tiem - `108.9408415 USDC`
-- 🥈 Ipeenk - `102 USDC`
-- 🥉 Pad720119 - `73 USDC`
+- 🥇 Mai An Tiem - `115 USDC`
+- 🥈 Clyder - `110.123 USDC`
+- 🥉 Ipeenk - `102 USDC`
+- Pad720119 - `73 USDC`
 - Oğuz - `61 USDC`
 - DAI LINYUN - `55 USDC`
 - Jack Stan - `52.56 USDC`
@@ -70,7 +71,9 @@ values={[
 - lao-feng666 - `50 USDC`
 - Roman - `50 USDC`
 - Harish Jangra - `48.256029 USDC`
+- DennyThanh - `45.5 USDC`
 - Gin - `45 USDC`
+- Tri Hong Nhan - `44.9 USDC`
 - Danu Alfian - `44.436172 USDC`
 - The Manh - `42 USDC`
 - Anh thu - `42 USDC`
@@ -79,6 +82,7 @@ values={[
 - jiahe - `40.2 USDC`
 - ÖZGÜR BOZKURT - `40 USDC`
 - Nanda - `40 USDC`
+- Boss Harry - `40 USDC`
 - Jhon - `36 USDC`
 - Nhan Cao - `36 USDC`
 - Shet Yae - `35 USDC`
@@ -89,32 +93,56 @@ values={[
 - aurellia - `35 USDC`
 - Day182 - `35 USDC`
 - fredazip - `35 USDC`
+- Blackray - `35 USDC`
+- Be Strong Not To Cry#0092 - `35 USDC`
+- Nhung0931#1478 - `35 USDC`
 - bik - `34.6 USDC`
 - Haitet - `34 USDC`
 - Zhar - `34 USDC`
 - Sangihe - `33.06 USDC`
 - skymmoe - `33 USDC`
 - zee - `33 USDC`
+- Eric - `33 USDC`
 - GunGun - `32.9 USDC`
 - fonoter - `32.1 USDC`
 - Cuan Bersama - `32 USDC`
 - damngoc - `32 USDC`
+- Ducan - `32 USDC`
+- CHIEN - `32 USDC`
+- TOM - `32 USDC`
 - sniksine - `31.8 USDC`
+- Erick Nghi Le - `31.667263 USDC`
 - Khang Ky - `31.5 USDC`
+- Koone123456 - `31.5 USDC`
 - Linh - `31.459731 USDC`
+- Truong Minh Beo - `31.13 USDC`
 - insom - `31.1 USDC`
 - nguyenvu060595 - `31 USDC`
+- QuangMinhNg04 - `31 USDC`
 - PutriA - `31 USDC`
 - Anh Le - `31 USDC`
 - Asad shah - `31 USDC`
 - Vydha - `31 USDC`
 - Asad - `31 USDC`
 - M.syaiful ghani - `31 USDC`
+- Binh Phuong Loc - `31 USDC`
+- tamtran1203 - `31 USDC`
+- brother#9859 - `31 USDC`
+- Hieu - `31 USDC`
+- phan van luan - `31 USDC`
+- Lam - `31 USDC`
+- GeneraleKomo - `31 USDC`
+- Patrick - `31 USDC`
+- Integrity - `31 USDC`
+- uzoma - `31 USDC`
+- Ranilufita - `30.995291 USDC`
 - dang tuan huy - `30.7 USDC`
 - Nagato - `30.5 USDC`
 - Pan Cường - `30.5 USDC`
 - Danang - `30.5 USDC`
+- SAIF - `30.4 USDC`
 - Profitbooster - `30.3 USDC`
+- Ikbal - `30.1 USDC`
 - faye2008 - `30 USDC`
 - Bheghe - `30 USDC`
 - Iky Nulil - `30 USDC`
@@ -129,6 +157,11 @@ values={[
 - Ilham - `30 USDC`
 - Alin - `30 USDC`
 - Olubowale - `30 USDC`
+- Nguyen Son - `30 USDC`
+- Truong Minh Toan - `30 USDC`
+- Le Phuoc Dat - `30 USDC`
+- Seento - `30 USDC`
+- umang pal - `30 USDC`
 
 </TabItem>
 <TabItem value="golden">
@@ -137,6 +170,9 @@ values={[
 - danie682711 - `26 USDC`
 - ngao - `26 USDC`
 - Dav - `26 USDC`
+- hungqh123 - `26 USDC`
+- Hugo Toàn#6372 - `26 USDC`
+- Vincent69 - `25.54954 USDC`
 - afqz135 - `25 USDC`
 - Josh - `25 USDC`
 - Saveliy - `25 USDC`
@@ -148,6 +184,9 @@ values={[
 - SmartecVitalik - `25 USDC`
 - VSEMOGUSHIY#9768 - `25 USDC`
 - Sakeliy#6210 - `25 USDC`
+- XuanAnh - `25 USDC`
+- John F - `25 USDC`
+- thiên ân - `25 USDC`
 - Cuong - `24.88 USDC`
 - EkkoChan - `24 USDC`
 - Babajide Babatunde - `24 USDC`
@@ -176,7 +215,6 @@ values={[
 - vu thanh dong - `22 USDC`
 - Jason - `22 USDC`
 - NGUYEN THANH HAI - `22 USDC`
-- hungqh123 - `22 USDC`
 - hoangcao - `22 USDC`
 - Binod - `22 USDC`
 - anhanh93 - `22 USDC`
@@ -229,7 +267,6 @@ values={[
 - suziwang - `21 USDC`
 - MA CONGHUI - `21 USDC`
 - huhu - `21 USDC`
-- Tri Hong Nhan - `21 USDC`
 - cong gunner - `21 USDC`
 - Tan Huynh - `21 USDC`
 - duytuu - `21 USDC`
@@ -319,7 +356,6 @@ values={[
 - afero - `20.5 USDC`
 - Quang Hung - `20.5 USDC`
 - CaptainTee - `20.5 USDC`
-- Erick Nghi Le - `20.490238 USDC`
 - lifeneatify - `20.48 USDC`
 - - Bnh - `20.46273 USDC`
 - kangkang - `20.3 USDC`
@@ -586,6 +622,7 @@ values={[
 - DanielKay - `3.1 USDC`
 - Lario - `3 USDC`
 - Arya - `2 USDC`
+- meou2021KS#5096 - `2 USDC`
 - M aziz yahya - `1.5 USDC`
 - Khaleelulkhayr - `1.5 USDC`
 - 卢晓情 - `1.29 USDC`
@@ -617,6 +654,7 @@ values={[
 - Snow - `1.1 USDC`
 - Sakti - `1.1 USDC`
 - Megalondo - `1.1 USDC`
+- Blim#3810 - `1.1 USDC`
 - 15152965785 - `1.01 USDC`
 - RUBBEN - `1 USDC`
 - Simple Kun - `1 USDC`
@@ -645,11 +683,12 @@ values={[
 - 2184923890@qq.com - `0.2 USDC`
 - 278768542@qq.com - `0.2 USDC`
 - 2059407900@qq.com - `0.2 USDC`
+- Kemiboss - `0.001 USDC`
 
 </TabItem>
 </Tabs>
 
-## Solana Domain
+## Solana 主網域
 
 ![sol domain](/img/domain/sol-domain.png)
 ![twitter sol](/img/domain/twitter-sol.png)

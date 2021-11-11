@@ -2,31 +2,32 @@
 sidebar_position: 3
 ---
 
-# Channel Member
+# 节目成员
 
-export const Highlight = ({children, color}) => (
+export const Highlight = ({ children, color }) => (
   <span
     style={{
       backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+  >
     {children}
   </span>
 );
 
 #### New Available <Highlight color="#25c2a0">Devnet</Highlight>
 
-## What is Channel Member
+## 什么是节目成员？
 
-Channel Member is an operational account of Channel Pool, A Channel corresponds to a Channel Member.
+节目成员是节目池的运营帐号，一个节目池对应一个节目成员。
 
-Before being able to enter the channel pool, one must create a Member account with the Channel.
+在进入节目池之前，必须在节目中创建一个成员帐户。
 
-each member has four types of token vaults making up a set of balances owned by the program on behalf of a Member:
+每个成员都有四种类型的代币保险库，组成了代表成员的计划拥有的一组余额：
 
-* Value: Is Available balances a zero-interest earning token account with no restrictions.
-* Vault Pending Withdrawal Balance: unstaked funds incurring an unbonding timelock.(7 day)
-* Stake: the total amount of tokens staked.
-* Stake pool token: the total amount of pool tokens created from staking `(stake = stake-pool-token * stake-pool-token-price)`.
+* **权益池代币**：通过质押创建的池代币总量`（权益=权益池代币*权益池代币价格）`。
+* **质押金库**：质押的代币总量。
+* **保险库**：可用余额零利息获取代币账户，没有任何限制。
+* **待提款金库**：未抵押的资金会导致解绑时间锁定，并于 7 天后解锁。
