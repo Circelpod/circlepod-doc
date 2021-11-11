@@ -4,11 +4,11 @@
     "description": "The title in the navbar"
   },
   "item.label.Tutorial": {
-    "message": "Tutorial",
+    "message": "文件",
     "description": "Navbar item with label Tutorial"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "部落格",
     "description": "Navbar item with label Blog"
   },
   "item.label.GitHub": {
@@ -16,11 +16,19 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.Home": {
-    "message": "Home",
+    "message": "首页",
     "description": "Navbar item with label Home"
   },
   "item.label.Devnet App": {
-    "message": "Devnet App",
+    "message": "开发网 App",
     "description": "Navbar item with label Devnet App"
+  },
+  "item.label.Request ticket": {
+    "message": "帮助中心",
+    "description": "Navbar item with label Request ticket"
+  },
+  "item.label.Whitepaper": {
+    "message": "白皮书",
+    "description": "Navbar item with label Whitepaper"
   }
 }
