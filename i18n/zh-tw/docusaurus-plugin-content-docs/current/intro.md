@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 旅程簡介
 
+![circlepod banner](/img/circlepod-banner.jpg)
+
 **讓我們使用 5 分鐘，來發掘精彩的 Circlepod Protocol 吧！**
 
 :::tip

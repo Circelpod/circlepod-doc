@@ -39,10 +39,6 @@
     "message": "貨幣經濟學",
     "description": "The label for category Tokenomics in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.About": {
-    "message": "關於",
-    "description": "The label for category Governance in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.SDK": {
     "message": "SDK",
     "description": "The label for category SDK in sidebar tutorialSidebar"
@@ -51,13 +47,9 @@
     "message": "空投",
     "description": "The label for category Airdrop in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Vote & Support": {
-    "message": "Vote & Support",
-    "description": "The label for category Vote & Support in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Circlepod Promoter": {
-    "message": "Circlepod Promoter",
-    "description": "The label for category Circlepod Promoter in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Vote & Support (End)": {
+    "message": "為 Podcast 投票和支持 Podcast（活動已結束）",
+    "description": "The label for category Vote & Support (End) in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.NFTs": {
     "message": "NFTs",
@@ -71,14 +63,6 @@
     "message": "Discord",
     "description": "The label for category Discord in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Circlepod Promoter (Now)": {
-    "message": "Circlepod Promoter (Now)",
-    "description": "The label for category Circlepod Promoter (Now) in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Vote & Support (It's over)": {
-    "message": "Vote & Support (It's over)",
-    "description": "The label for category Vote & Support (It's over) in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Circlepod Wallet": {
     "message": "Circlepod 錢包",
     "description": "The label for category Circlepod Wallet in sidebar tutorialSidebar"
@@ -90,5 +74,41 @@
   "sidebar.tutorialSidebar.category.Circlepod NFTs": {
     "message": "Circlepod NFTs",
     "description": "The label for category Circlepod NFTs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IDO": {
+    "message": "IDO",
+    "description": "The label for category IDO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Promoter (End)": {
+    "message": "Circlepod 推廣者（活動已結束）",
+    "description": "The label for category Circlepod Promoter (End) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Promoter - Round 2 (End)": {
+    "message": "Circlepod 推廣者 - 第二回合（活動已結束）",
+    "description": "The label for category Circlepod Promoter - Round 2 (End) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Protocol": {
+    "message": "Circlepod Protocol",
+    "description": "The label for category Circlepod Protocol in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.NFT Series": {
+    "message": "NFT 系列",
+    "description": "The label for category NFT Series in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Universe": {
+    "message": "Circlepod 元宇宙",
+    "description": "The label for category Circlepod Universe in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stories": {
+    "message": "故事",
+    "description": "The label for category Stories in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Lanny's 100 kinds of happiness": {
+    "message": "Lanny 的 100 種小確幸",
+    "description": "The label for category Lanny's 100 kinds of happiness in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Public Event": {
+    "message": "公開活動",
+    "description": "The label for category Public Event in sidebar tutorialSidebar"
   }
 }

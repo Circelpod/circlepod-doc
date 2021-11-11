@@ -16,15 +16,19 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.Home": {
-    "message": "Home",
+    "message": "首頁",
     "description": "Navbar item with label Home"
   },
   "item.label.Devnet App": {
-    "message": "Devnet App",
+    "message": "開發網 App",
     "description": "Navbar item with label Devnet App"
   },
   "item.label.Request ticket": {
-    "message": "Request ticket",
+    "message": "幫助中心",
     "description": "Navbar item with label Request ticket"
+  },
+  "item.label.Whitepaper": {
+    "message": "白皮書",
+    "description": "Navbar item with label Whitepaper"
   }
 }
