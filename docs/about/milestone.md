@@ -8,7 +8,7 @@ sidebar_position: 4
 
 ## 2021 Q2
 
-- [x] [Solana Hackathon @Asia](https://hackerlink.io/buidl/710?roundProj=607)
+- [x] [Solana Hackathon @Asia](https://hackerlink.io/grant/solana-2/top)
 
 ### Circlepod Protocol
 
@@ -63,12 +63,12 @@ sidebar_position: 4
 ### Community Event
 
 - [x] [Circlepod Promoter](https://medium.com/circlepod-labs/circlepod-community-event-circlepod-promoter-e859f4177c31)
-- [x] [Hackathon Vote](https://discord.com/channels/848247671356522567/858201326201733152/893175796578013234)
+- [x] [Hackathon Vote](https://hackerlink.io/grant/solana-2/top)
 
 
 ### Hackathon
 
-- [x] [Solana Ignition Hackathon](https://hackerlink.io/buidl/710?roundProj=961)
+- [x] [Solana Ignition Hackathon](https://hackerlink.io/grant/solana-2/top)
 
 ---
 
