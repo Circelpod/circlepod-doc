@@ -110,5 +110,21 @@
   "sidebar.tutorialSidebar.category.Public Event": {
     "message": "公開活動",
     "description": "The label for category Public Event in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IDO(end)": {
+    "message": "IDO(end)",
+    "description": "The label for category IDO(end) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Circlepod Creator Studio": {
+    "message": "Circlepod 创作者工作室",
+    "description": "The label for category Circlepod Creator Studio in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Exchanges": {
+    "message": "交易所",
+    "description": "The label for category Exchanges in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Raydium": {
+    "message": "Raydium",
+    "description": "The label for category Raydium in sidebar tutorialSidebar"
   }
 }
