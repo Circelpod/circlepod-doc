@@ -1,0 +1,53 @@
+---
+sidebar_position: 1
+---
+
+# 交易
+
+export const Highlight = ({ children, color }) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+  >
+    {children}
+  </span>
+);
+
+#### New Available <Highlight color="#25c2a0">Devnet</Highlight>
+
+## 如何在 Raydium 上進行交易？
+
+### 第 1 步. 於畫面上方選擇 'Swap' 進入交易頁面
+
+![Navigate to the Swap Page](/img/exchanges/ray/swap-page.png)
+
+:::caution
+請確認您有足夠的 SOL，因為所有在區塊鏈上的交易都需要支付少量的 SOL。
+:::
+
+### 第 2 步. 選擇您想要交易的代幣
+您可以點擊代幣以查看選擇交易代幣的視窗。
+
+![Choose swap coins](/img/exchanges/ray/swap-coins.png)
+
+:::tip 在列表中找不到 CPX
+請按照以下步驟操作：
+* 第 1 步. 點擊 **View Token Lists**
+
+![View Token Lists](/img/exchanges/ray/view-token-lists.png)
+
+* 第 2 步. 打開 **Solana Token List**
+
+![Solana Token List](/img/exchanges/ray/solana-token-list.png)
+:::
+
+### 第 3 步. 輸入交易金額
+當您輸入交易金額時，您將獲得匯率和估計收到的金額資訊。
+請注意，這些數字是指示性的，在交易清算後才會得到確認。
+準備好交易時，點擊 **Swap**，您的交易將被執行。接著，您應該會看到一個交易成功的確認視窗。
+
+![Enter an amount](/img/exchanges/ray/enter-amount.png) 
