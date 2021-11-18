@@ -6,11 +6,9 @@ sidebar_position: 11
 
 Circlepod 是一个早期项目。我们需要资金来支持我们的运营。
 
-- ~~**若您的赞助金额超过 $30， 您将获得独特的 [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**~~
+- ~~**若您的赞助金额超过 $50， 您将获得独特的 [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**~~
 
-- ~~**若您的赞助金额超过 $25，赞助者可以提前加入 IDO 白名单 [CPX](/docs/tokenomics/intro)**~~
-
-- ~~**若您的赞助金额超过 $1，您将获得特别的 Discord 角色。 **~~
+- **若您的赞助金额超过 $10，您将获得特别的 Discord 角色。 **
 
 如果您愿意赞助 Circlepod，帮助 Circlepod 完成伟大的目标。请通过以下地址赞助。
 
@@ -24,10 +22,9 @@ Circlepod 是一个早期项目。我们需要资金来支持我们的运营。
 
 ## 权利
 
-- ✨ ~~Circlepod Sponsor [NFT](/docs/nfts/intro)($30)($30 until Nov 7, 2021 23:59 UTC+8)~~
-  - ✨ ~~如果您获得赞助者 nft，同时您也有 100% 的机会获得独家空投！ ~~
-- ✨ ~~IDO 白名单($25)($25 until Nov 7, 2021 23:59 UTC+8)~~
-- ✨ ~~特殊 Discord 角色($1)($1 until Nov 7, 2021 23:59 UTC+8)~~
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($50)
+  - ✨ 如果您获得赞助者 nft，同时您也有 100% 的机会获得独家空投！ 
+- ✨ 特殊 Discord 角色($10)
 - ✨ 优先使用 Beta 测试版
 
 ## 赞助者帐户地址

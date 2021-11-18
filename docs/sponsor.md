@@ -6,11 +6,9 @@ sidebar_position: 11
 
 Circlepod is an early project. We need funds to support our operations.
 
-- ~~**If your sponsorship amount is greater than $30, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**~~
+- **If your sponsorship amount is greater than $50, You will get a unique [Circlepod Sponsor NFT](/docs/nfts/intro#circlepod-Sponser-nft).**
 
-- ~~**If your sponsorship amount is greater than $25, sponsors can participate in the IDO whitelist of early [CPX](/docs/tokenomics/intro)**~~
-
-- ~~**If your sponsorship amount is greater than $1, you will get a special Discord Role.**~~
+- **If your sponsorship amount is greater than $10, you will get a special Discord Role.**
 
 If you are willing to sponsor Circlepod, help Circlepod complete the great road. Please sponsor via the address below.
 
@@ -24,11 +22,9 @@ If you have any questions, please contact us on [Discord](https://discord.gg/WRb
 
 ## Rights
 
-- ✨ ~~Circlepod Sponsor [NFT](/docs/nfts/intro)($30 until Nov 7, 2021 23:59 UTC+8)~~
-  - ✨ ~~if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!~~
-- ✨ ~~IDO whitelist($25 until Nov 7, 2021 23:59 UTC+8)~~
-- ✨ ~~Special Discord Role($1 until Nov 7, 2021 23:59 UTC+8)~~
-- ✨ Priority to use the beta version
+- ✨ Circlepod Sponsor [NFT](/docs/nfts/intro)($50 until Nov 7, 2021 23:59 UTC+8)
+  - ✨ if you get sponsor nft and your can get Exclusive airdrop with a 100% chance!
+- ✨ Special Discord Role($10) version
 
 ## Sponsor Account Address
 
