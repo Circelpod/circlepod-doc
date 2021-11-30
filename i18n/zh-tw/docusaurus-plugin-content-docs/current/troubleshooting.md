@@ -28,7 +28,7 @@ sidebar_position: 14
 連接錢包和推特後，您可以申請一些 CPX。
 更多詳情：
 
-- [開發網空投](/docs/community-event/vote-and-support/airdrop)
+- [開發網空投](/docs/community-event/archived-event/vote-and-support/airdrop)
 
 ## 在哪裡可以找到捐贈的錢包地址？想要成為贊助者？
 
@@ -38,7 +38,7 @@ sidebar_position: 14
 
 如果您完成我們發布的任務，您將獲得一張空投門票！您可以參與每個活動累積您的空投門票。
 
-更多詳情前往[空投門票規則](/docs/community-event/airdrop-event/tickets-rule)
+更多詳情前往[空投門票規則](/docs/community-event/archived-event/airdrop-event/tickets-rule)
 
 當然，參加的活動越多，獲得的空投門票就越多。 
 

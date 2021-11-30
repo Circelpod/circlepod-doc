@@ -27,7 +27,7 @@ sidebar_position: 4
 
 ### 社群活動
 
-- [x] [為 Podcast 投票和支持 Podcast](/docs/community-event/vote-and-support/intro)
+- [x] [為 Podcast 投票和支持 Podcast](/docs/community-event/archived-event/vote-and-support/intro)
 
 ### Circlepod App
 

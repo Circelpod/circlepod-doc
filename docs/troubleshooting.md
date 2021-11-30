@@ -28,7 +28,7 @@ If you still can't use it, try to use Chrome.
 You can apply some CPX after you connect your wallet & Twitter.
 Go here to see more details :
 
-- [Devnet Airdrop](/docs/community-event/vote-and-support/airdrop)
+- [Devnet Airdrop](/docs/community-event/archived-event/vote-and-support/airdrop)
 
 ## Where can I find a donation wallet address? To become a sponsor?
 
@@ -38,7 +38,7 @@ Go here to see more details :
 
 If you finish the tasks that we release, you will win an airdrop ticket ! You can accumulate your tickets in every events.
 
-Check on there [Tickets Rule](/docs/community-event/airdrop-event/tickets-rule)
+Check on there [Tickets Rule](/docs/community-event/archived-event/airdrop-event/tickets-rule)
 
 Of course, the more events you participate in, the more tickets you can get. 
 
