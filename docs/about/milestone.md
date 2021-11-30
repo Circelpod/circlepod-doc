@@ -27,7 +27,7 @@ sidebar_position: 4
 
 ### Community Event
 
-- [x] [Vote & Support](/docs/community-event/vote-and-support/intro)
+- [x] [Vote & Support](/docs/community-event/archived-event/vote-and-support/intro)
 
 ### Circlepod App
 
