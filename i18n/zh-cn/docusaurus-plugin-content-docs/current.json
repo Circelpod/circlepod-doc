@@ -112,7 +112,7 @@
     "description": "The label for category Public Event in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.IDO(end)": {
-    "message": "IDO(end)",
+    "message": "IDO（活动已结束）",
     "description": "The label for category IDO(end) in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Circlepod Creator Studio": {
@@ -126,5 +126,17 @@
   "sidebar.tutorialSidebar.category.Raydium": {
     "message": "Raydium",
     "description": "The label for category Raydium in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Christmas Event": {
+    "message": "圣诞节活动",
+    "description": "The label for category Christmas Event in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Archived Event": {
+    "message": "Archived Event",
+    "description": "The label for category Archived Event in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Airdrop (End)": {
+    "message": "空投（活动已结束）",
+    "description": "The label for category Airdrop (End) in sidebar tutorialSidebar"
   }
 }
