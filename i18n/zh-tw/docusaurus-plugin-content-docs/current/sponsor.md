@@ -56,9 +56,9 @@ values={[
 ]}>
 <TabItem value="top">
 
-- 🥇 Mai An Tiem - `115 USDC`
-- 🥈 Clyder - `110.123 USDC`
-- 🥉 Ipeenk - `102 USDC`
+- 🥇 Peter Blockman - `125 USDC`
+- 🥈 Mai An Tiem - `115 USDC`
+- 🥉 Clyder - `110.123 USDC`
 - Pad720119 - `73 USDC`
 - Oğuz - `61 USDC`
 - DAI LINYUN - `55 USDC`
